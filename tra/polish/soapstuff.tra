@@ -1,0 +1,36 @@
+@0    = ~[player]Cóż, znalazłem pewien pas.~~Cóż, znalazłam pewien pas.~
+@1    = ~[player]Eee, Pani Lustrzany Cień, czy mógłbym prosić o trochę tego specjalnego mydła?~~Eee, Pani Lustrzany Cień, czy mogłabym prosić o trochę tego specjalnego mydła?~
+@2    = ~[Mistress Mirrorshade]Niech mnie kule biją – czy to nie ten dwuklamrowy pas, co wciąż krąży po okolicy niczym choroba weneryczna?~
+@3    = ~[player](kaszlesz) ...jaka choroba?~
+@4    = ~[player]Tak, tak, ale czy może mi go pani zdjąć?~
+@5    = ~[player]Myślałem, że panią to zainteresuje, ale widzę, że miała już pani z nim do czynienia.~~Myślałam, że panią to zainteresuje, ale widzę, że miała już pani z nim do czynienia.~
+@6    = ~[Mistress Mirrorshade]Nie martw się, młody człowieku, jestem bardzo dyskretna. (Dobra nasza, myślałam, że na szlaku widziałam już sporo, ale bycie jedyną uzdrowicielką w promieniu pięćdziesięciu kilometrów... to dopiero otworzyło mi oczy...)~~[Mistress Mirrorshade]Nie martw się, młoda damo, jestem bardzo dyskretna. (Dobra nasza, myślałam, że na szlaku widziałam już sporo, ale bycie jedyną uzdrowicielką w promieniu pięćdziesięciu kilometrów... to dopiero otworzyło mi oczy...)~
+@7    = ~[player]Nikt nie musi o tym wiedzieć? Och, dziękuję.~
+@8    = ~[player]Po prostu przyniosłem artefakt do zbadania – co on właściwie robi?~~Po prostu przyniosłam artefakt do zbadania – co on właściwie robi?~
+@9    = ~[player]Proszę się o mnie nie martwić.~
+@10   = ~[player]Przejdźmy do rzeczy, proszę.~
+@11   = ~[Mistress Mirrorshade]Pewnie będziesz chciał poeksperymentować. Młodzi zawsze rwą się do „przygód”. Powiem tak — sprzedam ci flakon mojego specjalnego mydła zdejmującego klątwy.~~Pewnie będziesz chciała poeksperymentować. Młodzi zawsze rwą się do „przygód”. Powiem tak — sprzedam ci flakon mojego specjalnego mydła zdejmującego klątwy.~
+@12   = ~[player]„Mydło do usuwania klątw”? Brzmi bardzo użytecznie. Dlaczego nigdy wcześniej o nim nie słyszałem?~~„Mydło do usuwania klątw”? Brzmi bardzo użytecznie. Dlaczego nigdy wcześniej o nim nie słyszałam?~
+@13   = ~[Mistress Mirrorshade]Ale zaraz, nie chcesz kupić tego pasa?~
+@14   = ~[player]Poeksperymentować? Ale co ten pas właściwie robi?~
+@15   = ~[player]Dość gadania – dawaj mydło, kobieto!~
+@16   = ~[Mistress Mirrorshade]Warzenie go zajmuje sporo czasu, mój młody przyjacielu, a gdyby wyszło mi za mocne, to owszem, zdjęłoby potężne uroki, ale równocześnie zdarłoby ci skórę razem z klątwą. Odrobina nalotu z tego  pasa w zupełności wystarczy.~~[Mistress Mirrorshade]Warzenie go zajmuje sporo czasu, moja młoda przyjaciółko, a gdyby wyszło mi za mocne, to owszem, zdjęłoby potężne uroki, ale równocześnie zdarłoby ci skórę razem z klątwą. Odrobina nalotu z tego  pasa w zupełności wystarczy.~
+
+@17   = ~[Mistress Mirrorshade]Nie, nie. Moje dni przygód wspominam z rozrzewnieniem, ale one dawno minęły. Ty i twoi towarzysze idźcie, bawcie się.~
+
+@18   = ~[Mistress Mirrorshade]Proszę, tysiąc sztuk złota za flakonik. I proszę, mój młody podróżniku o rumianych policzkach, śmiało, weź sobie pudełeczko środków zapobiegawczych i innych drobiazgów. Leży tam, w kącie. Broszury poglądowe  są tuż obok. Pamiętaj: bezpieczeństwo zaczyna się od ciebie.~~Proszę, tysiąc sztuk złota za flakonik. I proszę, moja młoda podróżniczko o rumianych policzkach, śmiało, weź sobie pudełeczko środków zapobiegawczych i innych drobiazgów. Leży tam, w kącie. Broszury poglądowe są tuż obok. Pamiętaj: bezpieczeństwo zaczyna się od ciebie.~
+
+@19   = ~[player]„Środki zapobiegawcze”? Hę? Cóż, skoro sądzisz, że ich potrzebuję, to chyba wezmę je razem z mydłem.~
+@20   = ~[player]Tysiąc sztuk złota? Za mydło!!?!~
+@21   = ~[player]Broszury poglądowe? Wychowałem się w bibliotece – czytałem już wszystko, co trzeba o... TYCH sprawach.~~Broszury poglądowe? Wychowałam się w bibliotece – czytałam już wszystko, co trzeba o... TYCH sprawach.~
+@22   = ~[player]Nie mam przy sobie tylu pieniędzy.~
+@23   = ~[Mistress Mirrorshade]Ta butelka mydła wystarczy na dziesięć kąpieli całego ciała, a do tego złuszcza naskórek i nawilża. Uwierz mi, tysiąc złota to bardzo uczciwa cena za to, co dostajesz.~
+@24   = ~[player]Nie zmienia to faktu, że nie mam przy sobie tylu pieniędzy.~
+@25   = ~[player]Ech. No dobrze, biorę to mydło.~
+@26   = ~[playerPewnie masz rację, ale dziś nie szukam mydła. Co jeszcze może mi pani zaoferować?~
+@27   = ~[Mistress Mirrorshade]Przeglądało się *ezoteryczne* regały, co? Cóż, dość szybko nauczysz się różnicy między teorią a praktyką. (Ach, słodkie dni młodości, kiedy myśli się, że wie się wszystko...)~
+@28   = ~[player]Dobrze, wezmę to mydło.~
+@29   = ~[Mistress Mirrorshade]Och, przestań na mnie patrzeć tymi maślanymi oczami.~
+@30   = ~[Mistress Mirrorshade]Byłam czarowana i mamiona przez lepszych od ciebie, skarbie. Skup lepiej myśli na czystości świątyni, leczeniu i dobrych uczynkach.~
+@31   = ~[Mistress Mirrorshade]*wzdycha* No dobrze, ten jeden jedyny raz...~
+@32   = ~[Mistress Mirrorshade]Jedna butelka mydła do usuwania klątw, proszę bardzo! Wystarczy ci na dziesięć kąpieli. I pamiętaj, żeby umyć się za uszami!~

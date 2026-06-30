@@ -1,0 +1,147 @@
+@0    = ~[Meilla] Kim jesteś i co robisz w moim domu?~
+@1    = ~[player] Oddawaj wszystkie kosztowności.~
+@2    = ~[player] Jestem <CHARNAME>. Trafiłem tu przypadkiem.~~[player] Jestem <CHARNAME>. Trafiłam tu przypadkiem.~
+@3    = ~[player] Przepraszam. Pomyliłem domy.~~[player] Przepraszam. Pomyliłam domy.~
+@4    = ~[Meilla] Śmiało, bierz co chcesz. Niewiele mi już zostało, a za chwilę i tak nie będzie mi to do niczego potrzebne.~
+@5    = ~[player] Skoro tak stawiasz sprawę, to chętnie je wezmę.~
+@6    = ~[player] Słucham?~
+@7    = ~[Meilla] Hm. Skoro już tu jesteś, mógłbyś podać mi ten list ze stołu? Chciałabym go przeczytać jeszcze ten jeden raz.~~[Meilla] Hm. Skoro już tu jesteś, mogłabyś podać mi ten list ze stołu? Chciałabyś go przeczytać jeszcze ten jeden raz.~
+
+@8    = ~[player] Jasne, że mogę.~
+@9    = ~[player] Mam ciekawsze rzeczy do roboty.~
+@10   = ~[player] Jestem tu, żeby cię obrabować, kobieto.~
+@11   = ~[Meilla] Rób, jak uważasz. Wszystko, co miało jakąś wartość, i tak już dawno przeminęło. Zostały mi tylko wspomnienia, a one gasną... tak jak cała reszta.~
+
+@12   = ~[Meilla] Podaj mi ten list ze stołu, Dhugalu. Chcę go jeszcze raz przeczytać.~
+@13   = ~[player] Nie jestem Dhugalem. Nazywam się <CHARNAME>.~
+@14   = ~[Meilla] Ach, Dhugalu, zawsze byłeś dobrym chłopcem. Przynieś go tutaj i przeczytaj mi na głos. Coś ze światłem w tym pokoju jest nie tak.~
+@15   = ~[player] Słuchaj, staruszko, nie mam czasu na czytanie listów.~
+@16   = ~[player] Wszystko z tobą w porządku? Przecież tu jest całkiem widno.~
+@17   = ~[player] Dobrze, przeczytam ci ten list.~
+@18   = ~[Meilla] Jak myślisz, kto z nas ma więcej czasu na tym padole, ty czy ja? Proszę cię, przeczytaj mi ten list.~
+@19   = ~[player] W porządku, przeczytam.~
+@20   = ~[player] Podam ci list, ale będziesz go musiała przeczytać sama.~
+@21   = ~[player] Nie masz pojęcia, z jakimi niebezpieczeństwami mierzę się każdego dnia. Pewnie zostało mi mniej czasu niż tobie.~
+@22   = ~[player] Co w tym liście jest takiego ważnego?~
+@23   = ~[player] Nie będę niczego czytać. Radź sobie sama.~
+@24   = ~[Meilla] Hm? No tak, faktycznie... nie jesteś nim, ale przecież Dhugal był tu przed chwilą... Mimo wszystko proszę, przeczytaj mi ten list.~
+@25   = ~[player] Nie zamierzam niczego czytać.~
+@26   = ~[Meilla] Nie, nie, to wina światła, mówię ci. Oczy płatają figle, gdy jest tak szaro. Tobie zdaje się, że jest jasno, ale wszędzie czają się cienie. Nie dam rady sama czytać. Zrobisz to dla mnie?~
+@27   = ~[player] No dobrze, przeczytam.~
+@28   = ~[Meilla] Ach, Dhugalu, zawsze byłeś dla mnie taki dobry.~
+
+@29   = ~(czytasz list) Droga Meillo, to miłe, że pamiętałaś o moich urodzinach, choć prawdę mówiąc, już mnie one tak nie cieszą. Myślałem o tobie...~
+@30   = ~(kłamiesz) Meillo, nie wiem, czemu wciąż mnie nękasz, ale chciałbym, żebyś przestała...~
+@31   = ~(kłamiesz) Najdroższa Meillo, tęsknię za chwilą, gdy znów będziemy razem...~
+@32   = ~[player] Tak właściwie... to chyba jednak nie powinienem tego czytać.~~[player] Tak właściwie... to chyba jednak nie powinnam tego czytać.~
+@33   = ~[Meilla] Nie mów tak, Dhugalu! Masz przed sobą całe życie! Oh! Ty zawsze miałeś skłonność do melancholii. Proszę, czytaj dalej...~
+@34    = ~[Meilla] Ten list... dostałam go już nie wiem jak dawno temu. Przypomina mi o tylu rzeczach... o nadziei, obietnicach, o... cóż, o dawnych dniach. Proszę, przeczytaj go.~
+
+@35   = ~[player] Och... W takim razie podaj mi go.~
+@36 = ~Ach, mój Dhugal. Zawsze tak mówi, a ja mu nigdy nie wierzę. Niech go bogowie błogosławią, los go nie oszczędzał – stracił dzieciątko, stracił ziemię i ma tę ziejącą pustkę w sercu, tam gdzie dawniej była miłość... ale to dobry człowiek, mimo całego tego cierpienia.~
+
+@37   = ~[Meilla] Myślisz, że nie znam każdego słowa z tego listu na pamięć? Nie przejmuj się, dziecko. To nie twoja wina.~
+@38   = ~[Meilla] W moich snach... właśnie to mówił mój Dhugal.~
+@39   = ~[player] Wszystko w porządku.~
+@40   = ~[Meilla] Odpocznę tu chwilę tuląc ten list do serca, i pogrążę się w tych wszystkich pięknych marzeniach o tym, „co by było, gdyby”...~
+@41 = ~[Meilla] Co by było, gdybyś nie był taki smutny, Dhugalu, albo gdybym ja nie była taka samotna? Czy mogło nam się udać? Co by było, gdyby nikt nie zadał rany twojemu sercu, zanim mnie poznałeś, albo moje nie zostało zranione, zanim ja poznałam ciebie? Gdybyś przyszedł do mnie, gdy prosiłeś, bym została twoją, a ja bym na to przystała...~
+@42 = ~[Meilla] Nie, to jedno „co by było, gdyby” nigdy nie miało się wydarzyć.~
+@43   = ~[Meilla] Jestem stara, Dhugalu, stara i umęczona. Miałam dobre życie, zaznałam mnóstwo miłości i niczego nie żałuję. Nie przychodź do mnie teraz. Pozwól, że zapamiętam nas takimi, jakimi wtedy byliśmy – młodymi i pięknymi... i niech tak zostanie.~
+@44 = ~Ale Dhugalu, przecież ty jesteś ode mnie starszy o sześć lat... nie, ty już na zawsze będziesz miał dwadzieścia cztery lata. Mój słodki Dhugalu, przychodzisz do mnie teraz, gdy wszystko obróciło się w pył...~
+
+@45 = ~[Meilla] <CHARNAME>, tak? Proszę, zaprowadź mojego kota do sąsiadki. Wabi się Szept i przez te wszystkie lata był moim przyjacielem, ale teraz często o czymś zapominam. Albo go nie karmię, albo daję mu jeść cztery razy dziennie. Jana to dobra kobieta. Zaopiekuje się moim Szeptem.~
+@46 = ~[player] Zaprowadzę kota do twojej sąsiadki.~
+@47 = ~[player] Nie, lepiej znajdź sobie kogoś innego.~
+@48 = ~[player] Czytasz czyjeś wspomnienia.~
+@49 = ~[player] Czytaj dalej, kochanie.~
+@50 = ~[player] Nie mogę.~
+@51 = ~[player] (czytasz list) Zastanawiam się, co u ciebie. Myślę o tym, co by było, gdybym dał nam wtedy szansę. Wiem, jaki byłem, Meillo, wiem, co się między nami stało... i żałuję. Czy moglibyśmy się spotkać? Spróbować raz jeszcze? Czekam na odpowiedź.~
+@52 = ~[player] (kłamiesz) Ruszam w podróż do ciebie, Meillo. Nigdy nie zapomniałem o miłości, która nas łączyła. Tęsknię za tobą i zrobię wszystko, byśmy znów byli razem.~
+@53 = ~[Meilla] Dziękuję ci, kochanie. Zrobisz dla mnie coś jeszcze?~
+@54 = ~[player] O co chodzi?~
+@55 = ~[player] Nie za dużo tych próśb jak na jeden dzień?~
+@56 = ~[Meilla] Zresztą nieważne. Jana znajdzie Szepta, kiedy przyjdzie mnie odwiedzić jutro.~
+@57 = ~[Meilla] Nigdy nie odpowiedziałam na ten list. Czasem lepiej zostawić przeszłość za sobą.~
+@58 = ~[Meilla] Jestem winna trochę pieniędzy... chyba za podatki. Zaniesiesz je burmistrzowi? Jestem zbyt zmęczona, by iść tak daleko. To, czego urząd nie zabierze, możesz zatrzymać dla siebie.~
+@59 = ~[player] To zaszczyt, że darzysz mnie takim zaufaniem. Możesz na mnie liczyć.~
+@60 = ~[player] Daj te pieniądze.~
+@61 = ~[player] Nie, nie chcę odpowiadać za twoje pieniądze.~
+@62 = ~[player] Eee... tak... daj te pieniądze!~
+@63 = ~[Meilla] Może i dużo, ale zastanawiałam się, czy wyświadczysz mi jeszcze jedną drobną przysługę.~
+@64 = ~[Meilla] Chodziło mi po głowie coś jeszcze...~
+@65 = ~[Meilla] *wzdycha* Ach, co za ulga. Proszę, weź to. To wszystko, co mam. Jak już opłacisz podatki, reszta będzie twoja – należy ci się za okazaną pomoc.~
+@66 = ~[Meilla] Jeśli ty tego nie zrobisz, to zajmie się tym ktoś inny. No ale mniejsza z tym.~
+@67 = ~[Meilla] Jestem zmęczona, Dhugalu. Bardzo, bardzo zmęczona. Potrzymaj mnie teraz za rękę, proszę, a ja pójdę spać. Pamiętaj, że zawsze cię kochałam.~
+
+
+@68 = ~[Cragmor] Ach, widzę, że wychodzisz właśnie od Meilli. Jestem Cragmor, z biura podatkowego. Zastałem może gospodynię w domu?~
+@69 = ~[player] Ona nie żyje.~
+@70 = ~[player] Obawiam się, że odeszła, ale upoważniła mnie do uregulowania jej zaległości podatkowych. Mam tutaj odpowiednią kwotę.~
+@71 = ~[player] Umarła, ale była przygotowana na opłacenie podatków. Powinna mieć złoto przy sobie.~
+@72 = ~[player] Jest w środku. Śmiało, wejdź.~
+@73 = ~[player] Nie widziałem jej.~~[player] Nie widziałam jej.~
+@74 = ~[Cragmor] To niefortunne. Miałem porozmawiać z nią o jej podatkach.~
+@75 = ~[player] Teraz to już trochę za późno na rozmowy.~
+@76 = ~[player] Mam pieniądze na opłacenie jej podatków. Chciała, bym uporządkował jej sprawy.~~[player] Mam pieniądze na opłacenie jej podatków. Chciała, bym uporządkowała jej sprawy.~
+@77 = ~[player] Chciała je spłacić, nawet próbowała wręczyć mi pieniądze. Powinna mieć je przy sobie.~
+@78 = ~[player] Przykro mi, ale nie pomogę ci w tej sprawie.~
+@79 = ~[Cragmor] Widzisz, rzecz w tym, że Meilla już zapłaciła swoje podatki... i to trzykrotnie. Jestem tu, aby zwrócić nadpłatę. To ty występujesz w jej imieniu?~
+@80 = ~[player] Tak.~
+@81 = ~[player] Nie... ale jej sąsiadka może wiedzieć coś o jej krewnych.~
+@82 = ~[player] Byłem skłonny zapłacić za nią podatki, ale nie zamierzam zarządzać jej spadkiem.~~[player] Byłam skłonny zapłacić za nią podatki, ale nie zamierzam zarządzać jej spadkiem.~
+@83 = ~[Cragmor] Dziękuję, tak właśnie zrobię. Udanych interesów.~
+@84 = ~[Cragmor] Ach, w takim razie porozmawiam z jej sąsiadką. Udanych interesów.~
+@85 = ~[Cragmor] Racja. Wiesz może, czy miała jakiś krewnych?~
+@86 = ~[player] Nie, nic mi o tym nie wiadomo.~
+@87 = ~[player] Nie, ale jej sąsiadka może coś wiedzieć.~
+@88 = ~[player] Nie mieszaj mnie w to.~
+@89 = ~[Cragmor] To w pełni zrozumiałe. W takim razie udam się do jej sąsiadki. Być może Meilla zostawiła u niej jakieś dyspozycje. Udanych interesów.~
+
+@90 = ~[Cragmor] Podpisz tylko to pokwitowanie, a będę mógł wypłacić ci należny jej zwrot.~
+@91 = ~[player] Nie mam żadnego prawa do tych pieniędzy!~
+@92 = ~[player] Dziękuję.~
+@93 = ~[player] Hmm... może jednak powinieneś porozmawiać o krewnych z jej sąsiadką.~
+
+@94 = ~[Cragmor] W porządku, porozmawiam z sąsiadką. Żegnam.~
+@95 = ~[Cragmor] Jako jej przedstawiciel masz pełne prawo zdecydować, jak te fundusze zostaną rozdysponowane. Możesz odszukać spadkobierców, przekazać datek na cele charytatywne w jej imieniu lub rozporządzić nimi w jakikolwiek inny sposób, który uznasz za stosowny.~~[Cragmor] Jako jej przedstawicielka masz pełne prawo zdecydować, jak te fundusze zostaną rozdysponowane. Możesz odszukać spadkobierców, przekazać datek na cele charytatywne w jej imieniu lub rozporządzić nimi w jakikolwiek inny sposób, który uznasz za stosowny.~
+@96 = ~[player] Dobrze. Przyjmę ten zwrot w imieniu jej rodziny.~
+
+@97 = ~[player] Wezmę te pieniądze, ale wrzucę je do świątynnej skarbony.~
+@98 = ~[player] Przyjmuję pieniądze.~
+@99 = ~[player] Nie, przykro mi, ale będziesz musiał poszukać jej spadkobierców.~
+@100 = ~[Cragmor] Żegnam pana.~~[Cragmor] Żegnam panią.~
+@101 = ~[Cragmor] Podpisz tutaj i sprawę będziemy mieli z głowy. Muszę ci tylko przypomnieć o konieczności zorganizowaniu pochówku, ale w tej kwestii pewnie pomoże ci sąsiadka.~
+
+
+@102 = ~[Jana] Przepraszam, czy ja dobrze usłyszałam? Rozmawiacie o Meilli? Jestem Jana, mieszkam obok. Właśnie do niej szłam... Czy coś się stało?~
+@103 = ~[player] Przykro mi, ale ona nie żyje.~
+@104 = ~[player] Ano stało się. Jest martwa.~
+@105 = ~[player] Przykro mi to mówić, ale Meilla zmarła. Przed śmiercią poprosiła mnie, bym sprawdził, czy nie zaopiekowałabyś się jej kotem.~ ~[player] Przykro mi to mówić, ale Meilla zmarła. Przed śmiercią poprosiła mnie, bym sprawdziła, czy nie zaopiekowałabyś się jej kotem.~
+@106 = ~[player] Wszystko u niej dobrze. Wejdź do środka i przekonaj się na własne oczy.~
+@107 = ~[player] Nie mam pojęcia, o kim mówisz.~
+@108 = ~[Jana] O nie... jaka szkoda! To była taka poczciwa staruszka. No cóż... Każdy musi kiedyś odejść, a ona przynajmniej przeżyła swoje.~
+
+@109 = ~[Jana] Ależ oczywiście. Proszę, daj mi go. Wielka szkoda... Zawsze była taka uprzejma.~
+@110 = ~[Jana] Dziękuję, pójdę ją odwiedzić.~
+
+@111 = ~[Jana] Nie? Cóż, lepiej pójdę to sprawdzić. I tak zamierzałam ją odwiedzić. Dobrego dnia.~
+@112 = ~[Jana] Może to nie pora na takie pytania, ale wiesz może, co ma się stać z jej kotem?~
+
+@113 = ~[player] Jest tu ze mną. Meilla powiedziała, że możesz się nim zająć.~
+@114 = ~[player] Kot wciąż jest w środku.~
+@115 = ~[player] Nie mam pojęcia.~
+@116 = ~[Jana] No cóż, chyba lepiej pójdę go zabrać.~
+@117 = ~[Jana] Ech, jest też tyle innych spraw na głowie. Meilla chciała zostać pochowana obok swojego męża, Tomasa, choć on odszedł pewnie ze trzydzieści lat temu. Nigdy nie mieli dzieci, a reszta jej rodziny dawno już nie żyje. Była ostatnia z rodu.~
+
+@118 = ~[Jana] Skontaktuję się ze świątynią.~
+@119 = ~[player] Zanim odejdziesz – był tu poborca ze zwrotem podatku dla niej. Moim zdaniem te pieniądze powinny trafić do ciebie.~
+@120 = ~[player] A co z jej domem i rzeczami? Wiadomo, co się z nimi stanie?~
+@121 = ~[player] Tomas? Myślałem, że jej mąż miał na imię Dhugal.~ ~[player] Tomas? Myślałam, że jej mąż miał na imię Dhugal.~
+@122 = ~[player] W takim razie będę już ruszać.~
+@123 = ~[Jana] Och, nie potrzebuję tych pieniędzy! Dała mi już wszystko, co konieczne, bym mogła zająć się jej pochówkiem. Zatrzymaj je albo wrzuć gdzieś do puszki dla ubogich. Bardzo by jej się to spodobało.~
+
+
+@124 = ~[Jana] Musiała czuć, że koniec jest blisko. Zapewne wszystko przygotowała i zostawiła w należytym porządku.~
+@125 = ~[player] Nie wiedziała o należnym zwrocie podatku. Mam te pieniądze przy sobie i moim zdaniem to ty powinnaś je wziąć.~
+@126 = ~[Jana] Dhugal? Nie przypominam sobie, bym kiedykolwiek słyszała to imię. Jej mężem był Tomas, cieśla. Przeżyli w małżeństwie ponad trzydzieści lat. Może ten Dhugal to ktoś z czasów jej młodości? Tak czy inaczej, muszę zająć się pogrzebem.~
+@127 = ~[Jana] Dziękuję, że towarzyszyłeś jej w tych ostatnich chwilach. Świadomość, że nie odeszła w samotności, daje mi ukojenie. Żegnaj.~ ~[Jana] Dziękuję, że towarzyszyłaś jej w tych ostatnich chwilach. Świadomość, że nie odeszła w samotności, daje mi ukojenie. Żegnaj.~

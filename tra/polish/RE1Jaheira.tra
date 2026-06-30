@@ -1,0 +1,85 @@
+@0 = ~[Jaheira] <CHARNAME>, co robisz na nogach o tej porze? Nie możesz spać?~
+@1 = ~[player] Zauważyłem, że siedzisz sama, sącząc wino i pomyślałem, że przyda ci się towarzystwo.~~[player] Zauważyłam, że siedzisz sama, sącząc wino i pomyślałem, że przyda ci się towarzystwo.~
+@2 = ~[player] Coś w tym stylu. Czasami miewam dziwne sny...~
+@3 = ~[player] Ty chyba też nie możesz.~
+@4 = ~[player] Nieważne. Wrócę do łóżka.~
+@5 = ~[Jaheira] Dobranoc, <CHARNAME>.~
+@6 = ~[Jaheira] Jutro czeka nas długi dzień. Powinieneś wrócić do łóżka.~~[Jaheira] Jutro czeka nas długi dzień. Powinnaś wrócić do łóżka.~
+@7 = ~[player] Wiesz, nie musisz mnie traktować jak dziecka.~
+@8 = ~[player] Wszyscy potrzebujemy odpoczynku, a ty w szczególności.~
+
+@9 = ~[player] Masz rację. Dobranoc, Jaheiro.~
+@10 = ~[Jaheira] Czuję się za ciebie odpowiedzialna, <CHARNAME>. Może i jesteś dorosłą kobietą, ale dla Goriona zawsze byłeś kimś, kogo trzeba chronić.~
+@11 = ~[Jaheira] Czuję się za ciebie odpowiedzialna, <CHARNAME>. Może i jesteś dorosłym mężczyzną, ale dla Goriona zawsze byłeś kimś, kogo trzeba chronić.~
+
+
+@12 = ~[Jaheira] Straciłeś przybranego ojca i całe dotychczasowe życie... Khalid pomyślał, że może potrzebujesz się komuś wygadać. Jest już późno, ale coś leży ci na sercu...~ ~[Jaheira] Straciłaś przybranego ojca i całe dotychczasowe życie... Khalid pomyślał, że może potrzebujesz się komuś wygadać. Jest już późno, ale coś leży ci na sercu...~
+@13 = ~[player] Nie ma takiej potrzeby, Jaheiro. Po prostu pomyślałem, że moglibyśmy chwilę pogawędzić.~ ~[player] Nie ma takiej potrzeby, Jaheiro. Po prostu pomyślałam, że moglibyśmy chwilę pogawędzić.~
+@14 = ~[player] Chcesz, żebym ci pomarudził? Cóż, los ostatnio wyjątkowo dotkliwie mnie doświadczył.~ ~[player] Chcesz, żebym ci pomarudziła? Cóż, los ostatnio wyjątkowo dotkliwie mnie doświadczył.~
+
+@15 = ~[player] Coś leży mi na sercu? Przecież moje życie legło w gruzach!~ 
+
+@16 = ~[player] Nie, masz rację. Lepiej wrócę do łóżka.~
+@17 = ~[Jaheira] Zapewne tęsknisz za domem. Candlekeep było bezpieczną przystanią, szlak jest o wiele surowszy.~
+@18 = ~[Jaheira] Gorion był dobrym człowiekiem i wszyscy dotkliwie odczuwamy jego stratę. Obiecuję ci, że jego morderca nie uniknie kary.~
+@19 = ~[Jaheira] Myślałam o niebezpieczeństwach, które czyhają na mnie... i na Khalida.~
+@20 = ~[Jaheira] Nashkel to urocze miasteczko, podobnie jak Beregost. Moglibyśmy osiąść tam na parę miesięcy, kiedy kryzys z żelazem zostanie zażegnany.~
+
+@21 = ~[player] Taka chwila wytchnienia brzmi całkiem nieźle.~
+@22 = ~[player] Też chciałbym tak kiedyś zrobić.~ ~[player] Też chciałabym tak kiedyś zrobić.~
+@23 = ~[player] Ja nie wyobrażam sobie zrezygnowania z poszukiwania przygód. To zbyt ekscytujące.~
+@24 = ~[player] Powodzenia zatem. Ja tymczasem wracam do łóżka.~
+@25 = ~[Jaheira] Zmienisz zdanie, gdy wystarczająco napatrzysz się na śmierć. Ona nikogo nie oszczędza.~
+
+@26 = ~[Jaheira] A co tam u ciebie? Zaszły ostatnio w twoim życiu jakieś zmiany?~
+
+
+
+@27 = ~[player] Czuję, że niedługo znajdzie się u mnie przestrzeń na to, żeby się w kimś zakochać.~
+@28 = ~[player] Raczej nie. W kółko tylko ci łowcy nagród i temu podobne.~
+@29 = ~[player] *ziewa* Nie teraz. Chce mi się spać.~
+@30 = ~[Jaheira] No i nowi towarzysze. Niektórzy z nich mogą poświęcać ci... sporo uwagi.~
+@31 = ~[Jaheira] To nic dziwnego. Jesteś atrakcyjną młodą kobietą, która dopiero co opuściła bezpieczne mury. Ludzie będą do ciebie lgnąć, ale to ty zdecydujesz, kogo do siebie dopuścić.~
+@32 = ~[Jaheira] To nic dziwnego. Jesteś atrakcyjnym młodym mężczyzną, który dopiero co opuścił bezpieczne mury. Ludzie będą do ciebie lgnąć, ale to ty zdecydujesz, kogo do siebie dopuścić.~
+@33 = ~[Jaheira] Nie warto wiązać się z niewłaściwą osobą, ale o tym pewnie wiesz i bez moich rad. Z kim widziałbyś się w przyszłości?~ ~[Jaheira] Nie warto wiązać się z niewłaściwą osobą, ale o tym pewnie wiesz i bez moich rad. Z kim widziałabyś się w przyszłości??~
+@34 = ~[player] Z kimś dobrym i prawym, kto będzie mi wierny i naprawdę mnie pokocha.~
+@35 = ~[player] Z kimś niepokornym i wesołym, nawet jeśli okaże się draniem, który złamie mi serce.~
+@36 = ~[player] Z uroczą, choć samolubną i złą kusicielką.~
+@37 = ~[player] Z bitną walkirią, która bez wahania wskoczy ze mną do łóżka.~
+@38 = ~[player] Z kimś spokojnym i poważnym, kto mnie zrozumie. Z kimś, kto będzie bardziej przyjacielem niż kochankiem.~
+@39 = ~[player] Nie mam nic do odrobiny marudzenia, o ile idzie ono w parze z nadzieją.~
+@40 = ~[player] Byle ten ktoś miał niezły tyłek, to mi wystarczy.~
+@41 = ~[player] Byle ten ktoś miał niezły tyłek, to mi wystarczy.~
+@42 = ~[player] Tak naprawdę już jestem po uszy zakochany, więc nie muszę wybierać.~ ~[player] Tak naprawdę już jestem po uszy zakochana, więc nie muszę wybierać.~
+@43 = ~[player] Wolałbym... nie odpowiadać na to pytanie. Dobranoc, Jaheiro.~ ~[player] Wolałabym... nie odpowiadać na to pytanie. Dobranoc, Jaheiro.~
+
+
+@44 = ~[Jaheira] To dobry wybór. Mam nadzieję, że będziesz się go trzymać.~
+@45 = ~[Jaheira] To nie jest najmądrzejsza decyzja. Na tej drodze czeka cię tylko rozczarowanie, ale cóż, każdy musi uczyć się na własnych błędach.~
+@46 = ~[Jaheira] *parska* <CHARNAME>, momentami jesteś po prostu niemożliwy.~ ~[Jaheira] *parska* <CHARNAME>, momentami jesteś po prostu niemożliwa.~
+@47 = ~[Jaheira] Ja sama, kiedy jeszcze przed laty podróżowałam do Nashkel, o mało się nie zakochałam. Ale wtedy poznałam Khalida...~
+@48 = ~[player] I co było dalej?~
+@49 = ~[player] W kim? W burmistrzu? Tylko nie mów, że zadurzyłaś się w burmistrzu!~
+@50 = ~[player] Po co mi to opowiadasz?~
+@51 = ~[player] Rozumiem. No nic, dobranoc.~
+@52 = ~[Jaheira] Chodzi o to, że pierwsza miłość nie zawsze jest tą jedyną, <CHARNAME>. Pamiętaj o tym.~
+@53 = ~[Jaheira] Ale mniejsza z tym, robi się późno. Dopij swój trunek i marsz do łóżka. Nie chcę rano znowu tracić głosu, żeby cię dobudzić.~
+
+
+
+@54 = ~[player] Czy mogłabyś mi najpierw opowiedzieć coś o sobie i Khalidzie?~
+@55 = ~[player] O nie. Tylko nie to. Idę spać.~
+@56 = ~[player] Dobranoc, Jaheiro.~
+@57 = ~[Jaheira] Wiesz o nas już całkiem sporo. Ale... no dobrze.~
+@58 = ~[Jaheira] Kiedyś wybraliśmy się razem do świętego gaju Tethir, by oglądać obrzędy przesilenia. Wszystko wtedy rozkwitało, to była przepiękna wiosna... moi bracia druidzi intonujący pieśni wśród drzew...~
+@59 = ~[Jaheira] Leżeliśmy tamtej nocy pod gwiazdami i wtedy Khalid obiecał mi, że zwiąże swój los z moim. Do dzisiaj mam tę chwilę przed oczami.~
+@60 = ~[Jaheira] Ścieżki miłości bywają kręte, ale mam nadzieję, że i ty znajdziesz swoje szczęście. A teraz zmykaj, zanim sama cię zapędzę do łóżka!~
+@61 = ~[player] Nie żebyś mnie jakoś przerażała, zwłaszcza z tą miną, ale dla świętego spokoju chyba faktycznie pójdę spać. Dobranoc!~ 
+
+@62 = ~[player] Zmykam, zabieram tylko resztę wina. Do rana.~
+
+@63 = ~[player] Ty pierwsza. Nie powinnaś tu tak siedzieć sama.~
+
+@64 = ~[player] Prawdę mówiąc, też padam z nóg. Razem chodźmy do łóżka.~ 
+@65 = ~[player] Słucham? Czy ty właśnie powiedziałaś to, co myślę?~ @66 = ~[player] Ekhm, Jaheiro... czy ty naprawdę powiedziałaś „razem”?~
+@67 = ~[Jaheira] Nic takiego nie powiedziałam, ty nieznośny dzieciaku! Najwyższy czas, żebyś sobie kogoś znalazł.~ ~[Jaheira] Nic takiego nie powiedziałam, ty nieznośny dzieciaku! Najwyższy czas, żebyś sobie kogoś znalazła.~

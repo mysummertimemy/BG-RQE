@@ -1,0 +1,1105 @@
+/* Missing lines up to @171 are used in setup.tra! */
+
+@16  = ~Kim~
+
+@19  = ~Ozdobny dzban Scara~
+@20  = ~Ten dzban rozpoznałbyś wszędzie. To ta sama, którą niemal strąciłeś z beczki, gdy przyjąłeś zaproszenie Scara do jego bardzo ciasnych prywatnych kwater.
+
+Jej kształt nawiązuje do kufla ciemnego piwo Baalora, lecz wykonanie jest zaskakująco finezyjne, a zdobienia starannie dopracowane. Oczywiście nie służy do nalewania piwa — to przedmiot czysto dekoracyjny.~~Ten dzban rozpoznałabyś wszędzie. To ta sama, którą niemal strąciłaś z beczki, gdy przyjęłaś zaproszenie Scara do jego bardzo ciasnych prywatnych kwater.
+
+Jej kształt nawiązuje do kufla ciemnego piwo Baalora, lecz wykonanie jest zaskakująco finezyjne, a zdobienia starannie dopracowane. Oczywiście nie służy do nalewania piwa — to przedmiot czysto dekoracyjny.
+Jak trafiła w ręce tego handlarza, pozostaje zagadką.~ 
+@21  = ~Świecznik~
+@22  = ~To jest świecznik. Na jego powierzchni widać wgniecenia i rysy, jakich można się spodziewać po przedmiocie długo używanym. Metal jest lśniący, lecz sprawia wrażenie taniego.~ 
+@23  = ~Złota taca~
+@24  = ~Taca wygląda na delikatną i z pewnością była niegdyś częścią większego kompletu.~
+@25  = ~Ciało Scara~
+@26  = ~To ciało Skara. Wygląda nadzwyczaj świeżo i zdrowo, biorąc pod uwagę sposób, w jaki zginął oraz czas, który od tamtej chwili upłynął. Musieli nad nim pracować kapłani, zanim Angelo przejął dowództwo nad Płomienną Pięścią i zmusił ich do zaprzestania tych zabiegów.~
+@27  = ~Pokwitowanie transportowe~
+@28  = ~To pokwitowanie, które wręczyli ci Chester i Hung. Zawiera informacje o dodatkowej skrzyni przewiezionej przez Duntrina do magazynu — tej, w której, jak podejrzewasz, znajdował się Scar.~
+@29  = ~Donnerjan~ 
+@30  = ~Sklep z używanymi rzeczami Donnerjana~
+@31  = ~Kelder~
+@32  = ~Hung~
+@33  = ~Chester~
+@34  = ~Duntrin~
+@35  = ~Jestem człowiekiem honorowym.~ [%tutu_var%SCAR04]
+
+@37  = ~Złodzieje Cienia przesyłają pozdrowienia.~ [%tutu_var%HUSAM03]
+@38  = ~Jest ich za wielu, wycofujemy się!~ [%tutu_var%HUSAM02]
+
+@41  = ~Bartus~
+
+@43  = ~Lina~
+
+@45  = ~Quentin~
+
+@49  = ~Meilla~
+@50  = ~Jana~
+@51  = ~Cragmor~
+@52  = ~Kot Meilli~
+@53  = ~To kot Meilli, Szeptek. Prawdopodobnie równie wiekowy jak sama Meilla. Wygląda na całkowicie zadowolonego z miejsca, w którym się znajduje, i właśnie ucina sobie drzemkę.~
+@54  = ~List~
+@55  = ~Droga Meillo,
+
+miło mi, że pamiętałaś o moich urodzinach, choć prawdę mówiąc, nie sprawiają mi już one już radości. Często o tobie myślę. Zastanawiam się, jak się masz. I co by było, gdybym wtedy dał nam szansę. Wiem, kim byłem, Meillo, i wiem, co było między nami. Przepraszam cię za wszystko. Moglibyśmy się spotkać? Spróbować jeszcze raz? Czekam na twoją odpowiedź.
+
+Z miłością,
+Dhugal~
+
+@57  = ~Ladacznica~
+@58  = ~Letnia parasolka~
+@59  = ~Wacek~
+@60  = ~Lars~
+@61  = ~Ariane~ 
+@62  = ~No, cześć.~ [GENMG06]
+@63  = ~Gunther~ 
+@64  = ~Hej.~ [GENFG04]
+@65  = ~Stara Mab~
+@66  = ~Tak?~ [GENFG05]
+@67  = ~Panna Isobel Whitley~
+@68  = ~No?~ [GENMG12] 
+@69  = ~Pete~
+
+
+@71  = ~Długi miecz Hulla
+To długi miecz Hulla, który wręczył ci po waszym... pożegnaniu w Candlekeep. To zwyczajny długi miecz, niezbyt starannie utrzymany, ale solidny i dobrze wyważony.
+
+PARAMETRY:
+
+Obrażenia: 1k8
+TraK0: +1
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Nie może używać:
+– Druid
+– Kapłan
+– Mag
+
+Waga: 4~
+
+@72  = ~Długi miecz Hulla
+To długi miecz Hulla, który wręczył ci po waszym... pożegnaniu w Candlekeep. To zwyczajny długi miecz, niezbyt starannie utrzymany, ale solidny i dobrze wyważony.
+
+PARAMETRY:
+
+Obrażenia: 1k8
+TraK0: +1
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Waga: 4~
+
+@79  = ~Molly~
+
+@81  = ~Dziennik Centeol~
+@82  = ~To dziennik Centeol, kobiety, którą przemieniono w istotę o odrażającym wyglądzie. Może być cennym źródłem wiedzy dla tych, którzy chcą poznać jej przeszłość.
+
+„...znów rozmawialiśmy. Spotkałam go w pobliżu Domu Talizmanu. Kontynuował swoje badania. Och, jak bardzo chciałabym mu pomóc. Nie obchodzi mnie, co pomyśleliby inni. Chcę tylko, by spełniły się jego marzenia. Ale... est dobrze. Przynajmniej mogę na niego patrzeć, gdy studiuje swoje księgi. To musi mi wystarczyć. Nigdy nie zostawiłby dla mnie Tanovy...”
+
+„...pokłócił się z królową. Nie wiem dlaczego; nie wiem... ale Tanova... Nie przyszła. Zostawiła go samego. Mój biedny ukochany... Spróbuję go wesprzeć. Nie wiem jeszcze jak, ale zrobię to. Obiecuję.”
+
+„Znowu spotkał się z królową. Tym razem się nie kłócili. To dobrze. Nie chcę, żeby był samotny. Przygnębiony. Nieobecny.”
+
+„Ona – Tanova – znów go opuściła. Zostawiła go samego. Spędził cały dzień SAM. Nawet nie zapytała, czy chce porozmawiać. Ona na niego nie zasługuje.”
+
+„...powinna UMRZEĆ... Jest jak pijawka...”
+
+„...ZROBIĘ to...”
+
+„DAM RADĘ to zrobić.”
+
+Brakuje kilku stron; następny wpis sporządzono dwa miesiące później.
+
+„Jak on mógł?! Tak bardzo go kocham... Ona zasłużyła na śmierć. Zrobiłam wszystko, co mogłam, by mu pomóc. A on mnie PRZEKLĄŁ! DLACZEGO?! Ale to się skończy... To... to się skończy... Słyszę je... słyszę, jak ośmionogie koszmary wpełzają do środka... nigdy nie milkną...”
+
+„...bez względu na to, ile czasu minie, nigdy nie zapomnę...”
+
+„Nikt mnie nie zobaczy. Zostanę sama. Sama ze wspomnieniami. One nigdy nie odchodzą. Nigdy nie umierają.”
+
+„Czy to się kiedyś skończy?”
+
+„...błagam o ciszę! Chcę tylko spokoju! Proszę...”
+
+„Jestem martwa. Dla Faerunu hestem martwa. Jestem martwa dla niego.”
+
+„...ale nie potrafię zapomnieć...”
+
+To ostatnie zdanie w dzienniku.
+
+Waga: 1~
+
+
+@84  = ~Mroczny fantazmat~
+@85  = ~Znamię fantazmatu~
+
+@87  = ~Ool-Garias~
+@88  = ~Is’samya~
+@89  = ~Podejrzany osobnik~
+
+@91  = ~Wielki Zudini~
+
+@93  = ~Kapłan Świtu Blaise~
+@94  = ~Siostra Sapientia~
+@95  = ~Księga Kapłana Świtu Blaise’a~
+@96  = ~Księga Kapłana Świtu Blaise’a
+
+Ta niewielka księga w skórzanej oprawie zawiera modlitwy i codzienne oficja wyznawcy Oghmy, patrona wiedzy i uczonych. Oprócz porannych i wieczornych nabożeństw opisano w niej rytuały oraz medytacje towarzyszące zajęciom takim jak rozpoczęcie traktatu naukowego, porównywanie przekładów i podniszczonych kopii czy też opatrywanie tekstów komentarzami. Pod wieloma względami księga jest zupełnie zwyczajna — wyjątek stanowią ilustracje. Lśnią one lazurytem oraz płatkowym złotem, przedstawiając między innymi narzędzia iluminatorskiego fachu lub – wyrastające na marginesie strony z prozą – kwitnące pnącze grochu~
+@97  = ~List siostry Sapientii~
+@98  = ~List siostry Sapientii
+
+Do kapłana Świtu Blaise’a ze Świątyni Pieśni Poranka, na wschód od Beregostu, od siostry Sapientii ze Świątyni Oghmy w Candlekeep.
+
+14 Tarsakh: Mój drogi,
+
+Pomyślałam o tobie dziś rano, gdy pieliłam warzywniak przy kuchni. Słońce wzniosło się ponad murami Twierdzy i rozświetliło rosę, sprawiając, że młody szpinak i podparte tyczkami grochy wyglądały bogato i niemal nierzeczywiście...
+
+22 Tarsakh: Dziś rano w refektarzu pojawiła się plaga żab — nie zabrakło krzyków i łopotu szat, gdy Czcigodni Uczeni uciekali przed skaczącą plagą. Obawiam się, że stoją za tym Różowa Błyskawica i dziecko Goriona. Powinnam oburzyć się na taką zniewagę, lecz gdy piszę te słowa, na mojej stronie siedzi żaba, zielona jak świeży mech i niewiele większa od mojego paznokcia. A teraz, jeśli chodzi o twoje przemyślenia na temat metempsychozy...
+
+28 Tarsakh: Przez cały miniony tydzień przygotowywaliśmy baranie skóry na pergamin. Zapach jest okropny, a dłonie mam obolałe. Dziękuję za pióra! Dysponuję teraz najczarniejszym z czarnych atramentów...
+
+1 Mirtul: Czy to możliwe, że minęło już czterdzieści lat? Czterdzieści lat od chwili, gdy zwróciłeś się do Candlekeep o czysty odpis „Aubad” Sanderly’ego? To mgnienie oka, mój drogi.
+
+Drogi są ostatnio tak niebezpieczne, że nie wiem, kiedy zdołam wysłać ten list, lecz postaram się znaleźć godnego zaufania posłańca.
+
+Jak zawsze twoja,
+
+siostra Sapientia~
+
+@100  = ~Ender Sai~
+
+
+@102  = ~Jeśli zechcesz, możemy porozmawiać.~ [LATHAN11]
+@103  = ~Dobrze cię widzieć, przyjacielu.~~Dobrze cię widzieć, przyjaciółko.~ [LATHAN09]
+@104  = ~Zwykle nie uciekam się do przemocy, ale zwykle też nie mam do czynienia z takimi jak ty.~ [LATHAN17]
+@105  = ~Dai~
+@106  = ~Jak się miewasz? Miły dzień, prawda?~ [GNOMEF04]
+@107  = ~Cóż, ujdzie, jak mniemam.~ [GNOMEF01]
+@108  = ~Nie próbuj mnie zastraszać; nie pozwolę na to.~ [GNOMEF02]
+@109  = ~Kitty~
+@110  = ~Roboczy szkic Kitty i Daia~
+@111  = ~Oto przed wami: Dziecię Candlekeep~
+
+@113  = ~Hanaly~
+@114  = ~Duch~
+@115  = ~Yvonne~
+@116  = ~Fajka Hanaly~
+@117  = ~To fajka podarowana ci przez ducha Hanaly. Choć stara i poobijana, w cybuchu i ustniku wciąż unosi się zapach wyśmienitego tytoniu.~
+@118  = ~Kamień duchów~
+@119  = ~Ten niewielki kamień podarowały ci duchy Hanaly i Yvonne, po tym, jak pomogłeś im się połączyć. Kamień długo leżał w nurcie rzeki i został wygładzony i stracił wszelkie krawędzie. Przyjemnie leży w dłoni.~~Ten niewielki kamień podarowały ci duchy Hanaly i Yvonne, po tym, jak pomogłaś im się połączyć. Kamień długo leżał w nurcie rzeki i został wygładzony i stracił wszelkie krawędzie. Przyjemnie leży w dłoni.~ 
+@120  = ~Ten niewielki kamień podarowały ci duchy Hanaly i Yvonne po tym, jak pomogłeś im się połączyć. Kamień długo leżał w rzece, wygładzony i zatarty przez jej nurt. Ogrzany w dłoni, na krótką chwilę dzieli się swą właściwością skrywania tego, co widoczne.
+
+PARAMETRY:
+
+Specjalne: Użytkownik zostaje objęty efektem Rozmycia. Zdolność może być użyta raz dziennie.~~Ten niewielki kamień podarowały ci duchy Hanaly i Yvonne po tym, jak pomogłaś im się połączyć. Kamień długo leżał w rzece, wygładzony i zatarty przez jej nurt. Ogrzany w dłoni, na krótką chwilę dzieli się swą właściwością skrywania tego, co widoczne.
+
+PARAMETRY:
+
+Specjalne: Użytkownik zostaje objęty efektem Rozmycia. Zdolność może być użyta raz dziennie.~
+@121  = ~Ten niewielki kamień podarowały ci duchy Hanaly i Yvonnepo tym, jak pomogłeś im się połączyć. Kamień przez długi czas leżał w nurcie rzeki, wygładzony i skryty przez płynącą wodę. Gdy ogrzeje się w dłoni, na krótko dzieli się swoją właściwością skrywania.
+
+PARAMETRY:
+
+Specjalne: Użytkownik zostaje objęty efektem Rozmycia.
+Ładunki: 10~
+
+@122  = ~To niedokończony szkic lekkiej powieści, luźno opartej na twoich niedawnych przygodach. Proza jest przesadnie kwiecista, humor dosadny, a fabuła pędzi naprzód w dość zastraszającym tempie.
+
+
+W sprzyjających okolicznościach można by uznać, że treść nie odbiega całkowicie od tego, co wydarzyło się naprawdę.~
+
+@124  = ~Martwa dziewczyna~
+@125  = ~To ciało młodej kobiety. Ma na sobie porządnie utkaną pelerynę oraz resztki ozdób z zasuszonych kwiatów, które wyglądają na element jakiegoś tradycyjnego stroju.~
+@126  = ~Dziennik nekromanty~
+@127  = ~To dziennik nekromanty. Zawiera on potwierdzenie wszystkiego, co mówił o swoich motywach, a także mnóstwo użalania się nad sobą i smutku.
+
+Wydaje się on zdeterminowany, by nie szerzyć mrocznych sztuk, którym się oddał; podkreśla to w kilku miejscach, pisząc: „nie chcę sprowadzać innych na mroczną ścieżkę, którą sam podążyłem”. W zapiskach nie ma ani słowa o ogromnej wiedzy, jaką nekromanta musiał posiąść w kwestii wskrzeszania dawno zmarłych osób.
+
+Niezależnie od wyników swoich badań, najwyraźniej postanowił zabrać je ze sobą do grobu.~
+
+@128  = ~Butelka z krwią~
+@129  = ~Ta butelka zawiera krew krowy.~
+@130  = ~Ta butelka zawiera krew kota.~
+@131  = ~Ta butelka zawiera krew dziewczyny.~
+@132  = ~Ta butelka zawiera krew nimfy.~
+@133  = ~List pani Thirsty~
+@134  = ~To list, który pani Thirsty napisała do farmera Brunsa. Składa się z kilku stron, zapisanych drobnym, równym pismem. Przeglądając go pobieżnie, zauważasz, że na każdej stronie co najmniej pięć razy pojawia się imię „Berta”.~
+@135  = ~Świeże befsztyki~
+@136  = ~To befsztyki z Berty, krowy pani Thirsty. Mięso wygląda znakomicie, choć nie bardzo wiesz, co z nim zrobić — poza zjedzeniem, rzecz jasna.
+
+Po całkowitym spożyciu mięso to przywraca 9 punktów życia osobie, która je zje.~
+@137  = ~Berta~
+@138  = ~Pani Sutherland~
+@139  = ~Trevor~
+@140  = ~Kitty~
+@141  = ~Nekromanta~
+@142  = ~Susan~
+@143  = ~Pani Thirsty~
+@144  = ~Rzeźnik~
+@145  = ~Matka w żałobie~
+@146  = ~Beth~
+
+@148  = ~Starodawna Magyja: Tom II~
+@149  = ~To bardzo stara księga magiczna. Zapisano ją w dawno zapomnianym języku i zdaje się opisywać runy oraz znaki magiczne, których nie potrafisz rozpoznać. Mogłaby wzbudzić ogromne zainteresowanie kogoś, kto zgłębia magię na bardzo wysokim poziomie.~
+@150  = ~Kamień ioun~
+@151  = ~To magiczny kamień ioun.~
+
+@153  = ~Mydło zdejmujące klątwy~
+@154  = ~Najlepsze mydło zdejmujące klątwy mistrzyni Mirrorshade
+
+Ta butelka płynnego mydła została sporządzona według starej gnomiej receptury, przekazywanej z pokolenia na pokolenie przez matkę Gellany Mirrorshade, kapłankę Gollumi Myrnickle. Intensywnie pachnący, purpurowy płyn, przygotowany z ziół, wody święconej, poświęconych popiołów oraz łoju cnotliwych owiec, oczyszcza użytkownika z drobnych klątw i duchowych dolegliwości.
+
+UWAGA: Może spowodować porost włosów na piersi — albo ich usunięcie.
+
+ZDOLNOŚCI:
+
+Zdjęcie klątwy ×10~
+/* Note to translators: "Left" in the sense of "leaving behind */
+@157  = ~Pozostawione~
+@158  = ~List~
+@159  = ~Pozostawiony list~
+@160  = ~Musiałem odejść. Przepraszam. ????????Ale wrócę.~
+
+@162  = ~Alec~
+
+@164  = ~Arlene~
+
+@166  = ~Della May~
+
+@168  = ~Strażnik~
+
+@170  = ~Kamień ioun Thalantyra
+To kamień ioun, który Thalantyr podarował ci podczas jednej z rzadkich chwil prywatności, jakie dzieliliście. Zwiększa inteligencję noszącego o 2.
+
+PARAMETRY:
+
+Specjalne: Inteligencja zwiększona o 2
+
+Waga: 2~
+
+@172  = ~Mikala~
+
+@173  = ~Płaszcz Ochrony przed Zimnem~
+@174  = ~Płaszcz Ochrony przed Zimnem
+Niewiele wiadomo o tym płaszczu. Niektórzy twierdzą, że utkano go z białych włosów mężczyzn omamionych przez syreny, lecz materiał jest zbyt miękki i ciepły, by ta opowieść mogła być prawdziwa.
+
+PARAMETRY:
+
+Odporność na zimno: +50%
+
+Waga: 3~
+
+@175  = ~Sarkofag służy jako miejsce ostatecznego spoczynku młodej kobiety. Ktoś zadał sobie wiele trudu, by wyłożyć jego wnętrze jedwabnymi poduszkami.~
+@176  = ~Chantelle~
+@177  = ~Magnus~
+@178  = ~Biały błędny rycerz~
+@179  = ~To biały błędny rycerz z zestawu szachowego.~
+@180  = ~To biały błędny rycerz z zestawu szachowego. Został misternie wyrzeźbiony z kości słoniowej i nosi na spodzie maleńki podpis cieśli, który wykonał go dla ciebie, zapisany literami thorass: „Mehmel”.
+Cieśla przysięgał, że utrzymany jest w tym samym stylu, co dzieła wielkiego, pradawnego mistrza Aljhumala.~
+@181  = ~Stara figura szachowa~
+@182  = ~To goniec z zestawu szachowego.~
+@183  = ~To biały goniec z zestawu szachowego. Został misternie wyrzeźbiony z kości słoniowej i nosi na spodzie maleńki podpis cieśli, który wykonał go dla ciebie, zapisany literami thorass: „Mehmel”.
+Cieśla przysięgał, że utrzymany jest w tym samym stylu, co dzieła wielkiego, pradawnego mistrza Aljhumala.~
+@184  = ~Magiczna figura szachowa~
+@185  = ~To goniec z zestawu szachowego.~
+@186  = ~To biały goniec z zestawu szachowego. Mistrz Thalantyr zaklął go czarem „Błogosławieństwo”.
+
+PARAMETRY:
+
+Specjalne: Pozwala rzucić czar Błogosławieństwo po użyciu (10 ładunków)~
+@187  = ~To biały goniec z zestawu szachowego. Mistrz Thalantyr zaklął go czarem „Błogosławieństwo”.
+
+PARAMETRY:
+
+Specjalne: Pozwala rzucić czar Błogosławieństwo (raz dziennie)~
+
+@188  = ~Kawałek kości słoniowej~
+@189  = ~To ogromny ząb z kości słoniowej.~
+@190  = ~To stary, ogromny ząb z kości słoniowej. Mimo że znalazłeś go pośród rupieci z wraku statku, wciąż wygląda na nienaruszony i cenny.~~To stary, ogromny ząb z kości słoniowej. Mimo że znalazłaś go pośród rupieci z wraku statku, wciąż wygląda na nienaruszony i cenny.~
+@191  = ~Mistrz Mehmel~
+
+/* New for v2.0 */
+
+
+@192  = ~Kobieta~
+@193  = ~Mężczyzna~
+
+@194  = ~Różdżka Centeol~
+@195  = ~Mówi się, że różdżka ta, gdy odkryto jej magiczne zdolności, została podarowana Pani Pająków. Używała jej, by chronić swoich towarzyszy i sprzymierzeńców przed sztyletami skrywanymi w mroku, lecz po wszystkich tych wydarzeniach — po tym, jak złamano jej serce — różdżka zyskała nowe właściwości.
+Różdżka jest zimna i lepka w dotyku, lecz sam jej wierzchołek emanuje miękkim, ciepłym światłem.
+
+PARAMETRY:
+
+Specjalne: Różdżka zapewnia 25% odporności na obrażenia kłute. Cel jest również ignorowany przez wszelkiego rodzaju pająki — nawet jeśli je zaatakuje. Oba efekty trwają 60 sekund.
+Ładunki: 10
+Waga: 1~
+
+@196  = ~Zwiększenie Mądrości +1~
+@197  = ~Mądrość została trwale zwiększona o 1~
+@198  = ~Chciałbym mieć moją starą fajkę do tytoniu.~ [%tutu_var%HALFL04]
+@199  = ~Niziołczy posłaniec~
+@200  = ~Szkatułka na listy Bartleby’ego~
+@201  = ~Szkatułka na listy Bartleby’ego
+
+Pudełko z listami zabrane z ciała posłańca Bartleby’ego Chybkonoga. Jest solidne, wyłożone natłuszczonym jedwabiem i wykonane tak, by chronić delikatną zawartość przed wilgocią, chłodem oraz przerażającą, styksową czernią północy.~
+@202  = ~Duch Bartleby’ego~
+@203  = ~Barkis~
+@204  = ~Amulet z krwawnikiem należący do Garricka~
+@205  = ~Amulet z krwawnikiem należący do Garricka
+
+Podarunek dla Garricka od pewnej damy. Jest zupełnie niemagiczny — mimo to bard darzy go wyraźnym sentymentem i często przesuwa paciorki między palcami, nucąc przy tym skoczną melodię.~
+@206  = ~List do panny Jarzębiny~
+
+@207  = ~Panna Jarzębina Akacja Wierzba
+do rąk własnych
+Gospoda Ostrze i Gwiazdy
+Wrota Baldura
+ 
+Odkąd po raz pierwszy ujrzałem cię w twojej altanie — smukłą i wyprostowaną, z włosami zapłonionymi jarzębinowym słońcem — pokochałem cię tak, jak stokrotka kocha świt.
+ 
+Nasze leśne radości mogłyby urosnąć mocne jak dąb i słodkie jak owoce jabłoni. Bez ciebie przyszło mi nosić w sercu smutek, niczym wierzba płacząca. Nie zostawiaj mnie w jałowej samotności — drżącego niczym liść akacji na wietrze.
+ 
+Twój oddany wielbiciel,
+ 
+Leśmir z Boru~
+
+@209  = ~Od Carnatii Carnifex, zwanej Rzeźnikiem, do barda z Gospody Płonący Czarodziej w Beregoście.
+
+Mój drogi Garricku,
+
+Czy mogę mówić do ciebie po imieniu? Mam nadzieję, że nie pozwalam sobie na zbytnią poufałość. Zapewne mnie nie pamiętasz — ot, jedna z wielu awanturniczek — a po tym niefortunnym zajściu z paladynami nie było już okazji na rozmowę. Chciałam jednak, byś wiedział, jak głęboko poruszyło mnie twoje wykonanie „Zbierania kwiatów grochu”, a potem to płynne przejście do „Igraszek z akordami w A-dur” Gilraena, gdy rozbijałam stół na głowie sir Reynalda. Czysta wzniosłość. Cudo. Arcydzieło.
+
+W załączeniu przesyłam skromny znak mojego uznania — pierścień, z całą pewnością wolny od klątw, wydobyty z grobu pradawnego księcia! Sprawiłoby mi wielką przyjemność, gdybyś nosił mój prezent na palcu.
+
+Odejdź ze mną. Zostań *moim* bardem. Obsypię cię klejnotami i jedwabiami, a struny twej harfy naciągnę jelitami moich wrogów. (Twoje palce są tak zręczne i czułe, a wyczucie rytmu tak doskonałe, że mimowolnie zastanawiam się, jakby to było, gdyby... lecz to pytanie na inną okazję).
+
+Wystarczy, że wyruszysz na wschód, z dala od Wybrzeża Mieczy, a wieść o twojej podróży do mnie dotrze. I odnajdę cię.
+
+Twoja pokorna wielbicielka,
+
+Carnatia~
+
+
+@210  = ~List od eksploratora lochów~
+@211  = ~Do Nesiary Rille,
+z Gospody Pod Pomocną Dłonią
+
+Moja droga Nessie,
+
+Mam trop na niezły łup. Zapomnij o Szkole Ulcastera — stare księgi są nudne. Trafiłem na starego kupca, który sprzedał mi rodową pamiątkę. Drogo mnie to kosztowało, ale aż czułem, jak bije od niej magia, więc nie mogłem przejść obojętnie. Biedaczysko — gdyby tylko wiedział, co sprzedaje... ale to już nie mój problem.
+
+Teraz mam kamień pieczęci do Wieży Durlaga! Skoczę na południe, opróżnię ten kamienny rumosz, zgarnę zysk i za zarobione pieniądze otworzę interes przy gospodzie.
+
+Co mogłoby pójść nie tak?
+
+Marzę, by znów wziąć cię w ramiona,
+
+Twój Pootsie.~
+
+@212  = ~List do Firebeada~
+@213  = ~Do Firebeada Elfich Włosów, z miasta Beregost
+
+
+Nie cechuje mnie cierpliwość; nie wiem czym jest łaskawość.
+
+Zazdroszczę i chełpię się; zawsze służę własnym celom, ulegam podszeptom gniewu i skrzętnie gromadzę listę doznanych krzywd. Każda cnota, którą we mnie dostrzegasz, jest jedynie obrazem widzianym w krzywym zwierciadle.
+
+Ale ja—
+
+Ale—
+
+Pozwól, mój drogi, że wyłożę sprawę jaśniej. Pośród wielu przywar mego godnego potępienia charakteru jest jedna, której nigdy nie będę żałować: nie umiem ci niczego odmówić. Krótko mówiąc — bo moje wywody zaczynają nużyć — jeśli upierasz się trwać na tej drodze, masz we mnie znużoną, starą i pełną mizantropii duszę, gotową wspierać cię aż po najdalsze granice twej satysfakcji. Chcę powiedzieć—
+
+(To znaczy: dopóki będziesz mnie chciał).
+
+Jestem twój.
+
+M~
+
+
+@214 = ~List do Skie Silvershield~ 
+
+@215 = ~Od lorda Eddarda Silvershielda, markiza Dumley, do Wielmożnej Skie Silvershield, w jej posiadłości w mieście Wrota Baldura.
+
+Pozdrowienia i wyrazy uszanowania, moja najdroższa Siostro.
+
+Ufam, że pilnie przykładasz się do lektur oraz lekcji tańca i że twój pierwszy Sezon zakończył się z należytym splendorem.
+
+Moja własna podróż przebiega pomyślnie. Drogi są tak niebezpieczne, a towary handlowe są niezwykle pożądane, że nasze skromne wozy witane są z honorami w miastach, które odwiedzamy – co jest nader osobliwe. Podróżujemy bardzo ostrożnie, unikając głównych szlaków handlowych, dzięki czemu nie zaznaliśmy ani krztyny kłopotów. Leśne zwierzęta są zupełnie niepłochliwe, często podchodzą wprost do naszej kawalkady, przez co mój szkicownik pęcznieje w oczach. Załączam ten wizerunek lisa, którego widziałem wypoczywającego przy pniu drzewa o świcie. Miał w sobie coś z łajdaka i pirata; wpatrywał się we mnie przez dobre pięć minut, nim oddalił się leniwym krokiem. Niestety, od opuszczenia miasta dokucza mi przeziębienie – spanie pod gołym, mroźnym niebem, owiniętym jedynie w koc, jawi się jako wizja romantyczna, lecz jest ciężką próbą dla organizmu kogoś nieprzywykłego do takich trudów. Słoik balsamu od Myrnicklea, który mi podarowałaś, okazał się niezwykle pomocny.
+
+Jakże to dziwne, że na papierze słowa do ciebie przychodzą mi z taką łatwością, podczas gdy więzną mi w gardle, kiedy stoję przed mą młodszą siostrzyczką; gdy szukam schronienia w sztywnych regułach etykiety, uprzejmie pytając o twoje zdrowie i składając należne ukłony naszemu ojcu. Lecz tego mroźnego poranka liczymy się tylko my i ten kawałek papieru, daję ci więc... lisa, straszne przeziębienie oraz to:
+
+Śmierć naszej matki była dla mnie niezwykle trudna. Bardzo mi jej brakowało i w swoim nieszczęściu uciekłem od więzów rodzinnych, zamiast starać się zacisnąć je mocniej wokół naszej trójki. Byłem głupcem – i ku swemu żalowi, wciąż nim jestem. Proszę, nie pytaj o powody, dla których opuściłem miasto; odpowiedź by ci się nie spodobała.
+
+Jeśli zaś chodzi o tego „muzykalnego przyjaciela”, o którym krążą słuchy, mogę jedynie rzec, iż mam nadzieję, że ów jegomość traktuje cię z szacunkiem i uprzejmością, na jakie zasługujesz, Skierko. Modlę się do Sune, byś przetrwała nadchodzące burze. Miłość to kłopotliwa bestia, o czym nasza rodzina wie aż nazbyt dobrze.
+
+Przekaż moje uszanowanie ojcu i macosze Brilli. Pozostaję dla nich, jak zawsze, posłusznym synem.
+
+Twój kochający brat,
+
+Eddard~
+
+@216 = ~List od zadowolonego klienta~
+@217= ~
+Do: Madame Alyth Elendary 
+Od: Mistrza Stephana Re'Capa
+
+Moja droga pani Alyth,
+
+Mój pan, Mag Davaeorn, po raz kolejny pozwolił mi na tę przyjemność, bym napisał do Pani z podziękowaniem za ostatnią partię wyśmienitych łakoci oraz wina z Calimshanu, a także bym przedłożył nasze zamówienie na przyszły miesiąc. Życie z dala od cywilizacji, jak to mamy w zwyczaju, sprawia, że jestem niezwykle wdzięczny nie tylko za tak wyrafinowane wiktuały, jakie rutynowo nam Pani zapewnia, ale i za możliwość korespondowania z tak utalentowaną i piękną damą. Z radością czytam osobiste dopiski i przyjmuję drobne upominki, które dołącza Pani do faktur przewozowych. Paczuszka „cukierkowych całusów”, dla przykładu, była doprawdy miłym gestem (czy byłoby zbyt zuchwałym z mojej strony pytać, czy te prawdziwe smakują równie wybornie?). Jako dostawczynię moich zapasów, usilnie proszę o niezwłoczne uzupełnienie moich braków.
+
+W odpowiedzi na Pani pytanie (czy może raczej zaproszenie) z ostatniego prywatnego bileciku: wielce doceniłbym możliwość odwiedzenia Pani przybytku oraz samej Pani osobiście. Pozostaje jedynie kwestia pozwolenia Maga Davaeorna. Pokornie proszę o wyrozumiałość, gdyż mój Pan nie należy do najbardziej pobłażliwych pracodawców i mało prawdopodobne, by pozwolił mi stąd odejść. Być może mogłaby Pani wysłać notę z prośbą o osobiste zajęcie się jakąś sprawą przez jednego z naszych pracowników. Wtedy mógłbym łatwiej poruszyć ten temat w rozmowie z nim. Szansa ujrzenia Pani, w ten czy inny sposób, z pewnością doda mi sił przekonywania.
+
+Na zawsze oddany,
+
+Stephan~
+
+@218 = ~List do Ciszy~
+@219 = ~Cisza w Sanktuarium
+
+BARKIS JEST CHĘTNY~
+
+@220 = ~Cordelia~
+@221 = ~Camryn~
+@222 = ~Słucham?~ [TIShf]
+@223 = ~Tamah~
+@224 = ~Czego chcesz?~ [TITamf]
+@225 = ~Torba na książki~
+@226 = ~To kunsztownie zdobiona skórzana torba na książki. <CHARNAME> otrzymał ją od skryby Camryna jako prezent pożegnalny, gdy opuszczał Candlekeep. Ma idealny kształt do noszenia ksiąg.~~To kunsztownie zdobiona skórzana torba na książki. <CHARNAME> otrzymała ją od skryby Camryna jako prezent pożegnalny, gdy opuszczała Candlekeep. Ma idealny kształt do noszenia ksiąg.~
+@227 = ~List do Tamah~
+@228 = ~Droga Tamah,
+Tu, w ciszy mojego gabinetu, brakuje mi skrobania Twojego pióra, Twojego cichego kaszlu i skrzypienia krzesła, gdy się poruszasz. Wszystkich tych drobnych odgłosów, które zwiastowały ten radosny fakt, że Ty – droga Ty – byłaś blisko mnie. Nie musiałem nawet podnosić wzroku, by wiedzieć, że Twoje delikatne palce tworzyły piękno tuż obok. Mogłem nawet wyciągnąć stopę pod wspólnym stołem i otrzeć się o Twoje smukłe kostki. Tamte dni były niebem; myślałem, że będę je miał na zawsze... Teraz mam je tylko w moich marzeniach, Tamah. Tylko z twarzą zalaną łzami.
+--C.~
+@229  = ~Słodka Tamah,
+Kiedy spotkaliśmy się po raz pierwszy, powiedziałaś mi, że przypominam ci dziadka twojej matki – elfiego uczonego cieszącego się niemałym uznaniem w Targowie. Czułaś się onieśmielona różnicą wieku między nami, zakresem i ogromem mojej wiedzy oraz moim znacznie bogatszym doświadczeniem życiowym. Mówiłaś, że twoja młodość i jeszcze nieugruntowana wiedza sprawia, iż czujesz się niegodna pracy, którą ci zaoferowałem. Ach, moja płomienna kochanko! Wiedz, że czułem się równie niegodny miłości tak wspaniałej kobiety jak ty. W moim łożu i w moich ramionach moje stulecia były zaledwie chwilami w porównaniu z twoim instynktownym, bezgranicznym zrozumieniem miłosnych uniesień. Czułem się równie niedoświadczony jak ty, moja droga, gdy opowiadałaś mi o pięknych zakątkach zewnętrznego świata, wyjaśniałaś żarty stajennego Dreppina i – co nie mniej ważne – prowadziłaś mnie od bezmyślnego pożądania ku niedoścignionej rozkoszy. Uznaj zatem, że w tej i w większości innych spraw jesteśmy doskonale dobranymi partnerami, bez względu na nasz wiek.
+-- C.~
+
+@230  = ~Ukochana Tamah,
+
+Tego ranka, gdy znów obudziłem się samotnie — jak to ostatnio bywa — myśli moje powędrowały ku dotykowi twoich włosów. Ku ich ciężarowi na moich otwartych dłoniach, tuż zanim jedwabiste pasma wymykają się spomiędzy palców splamionych atramentem. Moja droga... To jaśniejąca, świetlista aureola, , zdobiąca twe skronie. Oddałbym wszystkie pozostałe mi poranki, by móc raz jeszcze przeciągnąć hebanowy grzebień przez te kosmyki — po nocy spędzonej razem, gdy ich luźne końce łaskotały moje usta albo rozpościerały się z rozkoszą na mojej poduszce.
+
+— C.~
+
+@231  = ~Moja najdroższa Tamah,
+Niewiele jest dziś w moich myślach takich rzeczy, które zdołałyby całkowicie odegnać wspomnienie twoich oczu - wielkich i głębokich niczym leniwie płynąca rzeka. Ach, jakże one jaśniały, gdy się uśmiechałaś! Płonęły, jakby od środka rozświetlało je dzikie, gorejące ognisko. I to dla kogo? Dla tego starego pedanta i jego żartów sprzed stuleci, których, jak mówiłaś, tak bardzo byłaś spragniona. Zaprawdę, moja miłości, czuję się zarazem onieśmielony, jak i zdumiony radością, którą odnajdywałaś w mojej obecności, i nigdy nie przestanę dziwić się tajemnicy tego wszystkiego.
+-- C.~
+
+@232  = ~@232 = Droga Tamah,
+Serce we mnie drgnęło z bólu, lecz potrzebowałem chwili, by wspomnieć, że dzisiejszy dzień wyznacza piątą rocznicę twojego odejścia. W moim żalu wciąż brak miejsca na choćby jedną z tych drobnych przyjemności, które niegdyś wypełniały mi życie. Dlaczego? Ponieważ w ciągu zaledwie dwudziestu krótkich lat odcisnęłaś swe piętno na każdym, najmniejszym przejawie szczęścia. Wciąż nie mogę pracować, jeść ani spać (ba! nie zaznaję nawet elfiego transu), by nie dręczyło mnie wspomnienie twej straty. Ta ostra, namacalna nieobecność wciąż mi towarzyszy; niczym cień przesłaniający słońce mego życia. Jakże pragnę twojego powrotu.
+-- C.~
+
+@233  = ~Urocza Tamah,
+Ach, moja droga, odczuwam twą nieobecność dotkliwie nie tylko w chwilach samotności, lecz także w towarzystwie tych, których zwę moimi przyjaciółmi. Miałaś tak błyskotliwy umysł, że wszyscy szanowali cię pomimo twego młodego wieku. Z łatwością wymieniałaś uszczypliwości z Ulrauntem i żarty z Gorionem. Potrafiłaś rozprawiać o dziejach Cormyru z Phlydią równie swobodnie, co wymieniać rubaszne dowcipy z Winthropem. Nigdy nie uważałem, by mojemu własnemu językowi czegokolwiek brakowało, dopóki nie poznałem ciebie. W twojej obecności potyka się on i zacina przy najprostszym słowie. Jedynie wyraz moich oczu był wymowny, gdy z miłością podziwiały twą pewność siebie i tę niezwykłą radość życia.
+-- C.~
+
+@234 = ~Moja Zuchwała Tamah,
+Późno w nocy nawiedziło mnie wspomnienie chwili, w której się w sobie zakochaliśmy. Pracowaliśmy wówczas nad wydaniem „Uwodzenia nimfy” autorstwa Celsora. Ty przygotowywałaś ilustracje, ja zaś miałem nakładać kolorowe ilustracje i płatki złota. Ach... jakże swawolne ryciny stworzyłaś, moja droga. A przy tym tak piękne. Tylko skryba z moim stażem potrafi docenić, jak rzadko trafia się ilustrator o takim talencie. Tylko ktoś taki jak ty potrafiłby na powrót rozbudzić w starym elfie wigor i męskość. Pamiętam, że ilustrowaliśmy scenę, w której Coreddon pieści Ephemerę w ogrodzie, i wtedy twoja dłoń musnęła moją. Moje serce już wtedy należało do ciebie, najdroższa, lecz bałem się odezwać, byś nie wyśmiała fantazji starego elfa. Drżąc, położyłem dłoń na twojej, a ty spytałaś, czy możesz być moją Ephemerą. Moje usta, których wcześniej używałem jedynie do przemawiania, znalazły wtedy znacznie zacniejsze zastosowanie; tej nocy z pewnością starałem się dorównać Coreddonowi, choć wątpię, by Ulraunt był zachwycony, wiedząc, jaki użytek zrobiliśmy z jego zagonu begonii w ogrodach Candlekeep!
+-- C.~
+@235  = ~Tamah,
+Na ile sposobów mogę ci wyznać, że miałaś rację? Że pewnego dnia i ja zacznę miotać się w murach Candlekeep niczym ptak w klatce. Szukałem schronienia w tej bibliotece, by nigdy nie musieć stawiać czoła swoim lękom, lecz oto stoję tu, wpatrując się w nie uporczywie. Pozwól, że opowiem ci krótko o moim dzieciństwie, Tamah. Urodziłem się w Waterdeep w roku 1032 KD – w tym samym, w którym mistrz magii Aghairon został pierwszym lordem Waterdeep i zaprowadził w mieście rządy oparte na rozumie, a nie na sile oręża. Powinienem o tym wiedzieć najlepiej: moi rodzice byli jego przyjaciółmi i zginęli podczas próby powstania wznieconej przez jednego z pokonanych watażków, których Aghairon zastąpił. Dlatego od dziecka bałem się kogokolwiek pokochać. Choć w Waterdeep nastał pokój, miasto wciąż kipi od ambicji mistrzów gildii. Nigdy nie czułem się bezpieczny nigdzie poza Candlekeep. A jednak, moja mądra Tamah, miałaś rację. Nawet tu, w ukryciu, w mojej wieży, odnalazła mnie miłość. Namiętność na krótko zawładnęła moimi nocami, a słodka harmonia dniami. Próbując zatrzymać cię przy sobie, odepchnąłem cię... Niestety, wciąż opłakuję stratę mojej najdroższej przyjaciółki i towarzyszki! Z twoją siłą, która odpędza lęk, moja miłości, wiem, że zdołam stąd odejść. Trzymając cię za rękę, mógłbym odmienić to życie.
+-- C.~
+
+@236  = ~Moja Tamah,
+Dziś po południu wyglądałem przez okno i ujrzałem, że jaskółki powróciły pod okapy Biblioteki. Chronią się w rzeźbieniach i zdobieniach budynku. Jedna para postanowiła uwić gniazdo na gzymsie okna naszej... mojej sypialni. Zapłakałem, choć z otwartymi ramionami witam tę małą parę i ich młode w moich skromnych progach. Przypomnij mi, słodka... Czyż nie rozmawialiśmy kiedyś o ślubie? O dzieciach? Czyż nie droczyliśmy się, wyobrażając sobie dziecko z moim podbródkiem i twoimi oczami? Przypuszczam, że w transie mógłbym przywołać każde wypowiedziane słowo, gdybym nie bał się, że to wspomnienie doprowadzi mnie do szaleństwa. Rodziny i dzieci zawitały do Candlekeep, moja miłości; Zarówno Winthrop jak i Gorion adoptowali dziecko. Tupot dziecięcych stóp niesie się echem po halach Biblioteki, a <CHARNAME>, syn Goriona, już dwukrotnie przewrócił moje kałamarze. Powinienem się rozzłościć, lecz zamiast tego dałem mu kolorowy rysik i czysty zwój, by miał na czym rysować. Czy i mnie nie dano niegdyś szansy na owe proste przejawy miłości wobec własnego potomstwa? Jakże mogłem pozostać tak ślepym?
+-- C.~~Moja Tamah,
+Dziś po południu wyglądałem przez okno i ujrzałem, że jaskółki powróciły pod okapy Biblioteki. Chronią się w rzeźbieniach i zdobieniach budynku. Jedna para postanowiła uwić gniazdo na gzymsie okna naszej... mojej sypialni. Zapłakałem, choć z otwartymi ramionami witam tę małą parę i ich młode w moich skromnych progach. Przypomnij mi, słodka... Czyż nie rozmawialiśmy kiedyś o ślubie? O dzieciach? Czyż nie droczyliśmy się, wyobrażając sobie dziecko z moim podbródkiem i twoimi oczami? Przypuszczam, że w transie mógłbym przywołać każde wypowiedziane słowo, gdybym nie bał się, że to wspomnienie doprowadzi mnie do szaleństwa. Rodziny i dzieci zawitały do Candlekeep, moja miłości; Zarówno Winthrop jak i Gorion adoptowali dziecko. Tupot dziecięcych stóp niesie się echem po halach Biblioteki, a <CHARNAME>, córka Goriona, już dwukrotnie przewróciła moje kałamarze. Powinienem się rozzłościć, lecz zamiast tego dałem jej kolorowy rysik i czysty zwój, by miała na czym rysować. Czy i mnie nie dano niegdyś szansy na owe proste przejawy miłości wobec własnego potomstwa? Jakże mogłem pozostać tak ślepym?
+-- C.~
+
+@237  = ~Moja Ukochana Tamah,
+Minęły lata, odkąd mnie opuściłaś, a szuflady mego biurka zaczynają pękać od listów do ciebie. Rozpaczliwie potrzebuję sposobu, by się z tobą skontaktować, choć nie mam pojęcia, dokąd się udałaś. Ostatnio mnie jednak olśniło: jesteś utalentowaną iluminatorką. W istocie znacznie zręczniejszą ode mnie. Od samego początku możnowładcy gotowi byli płacić krocie za próbki twojej pracy. A teraz wydanie książki sygnowane imieniem „Tamah” jest bezcenne. Wiem, że rozbawiłaby cię wieść, iż pewien paniczyk zyskał wstęp do Candlekeep tylko dlatego, że przyniósł jedno z naszych „specjalnych” wydań „Uwodzenia nimfy” Celsora. Jakże byliby zgorszeni, gdyby wiedzieli, jak wspaniałe miłosne uniesienia działy się zaledwie cale od każdego egzemplarza, który stworzyliśmy! Ale zapominam o celu dzisiejszego listu. Gdzieś tam musisz pracować dla bogatej rodziny lub prywatnej biblioteki. Jeśli wyślę w świat księgę... możesz ją przeczytać. Możesz nawet przypomnieć sobie, gdzie zwykliśmy chować nasze miłosne liściki. I odnaleźć ten list... Zacznę umieszczać moją korespondencję w tomach poezji, które kopiuję dla mecenasów. Ufam, że choć jeden dotrze do ciebie i zapewni cię o mej niegasnącej miłości. Nie dbam o to, co działo się między twoim odejściem a chwilą, w której to przeczytasz, ukochana. Chcę, byś wróciła.
+-- C.~
+
+@238  = ~Moja Miłości... Moja najdroższa Tamah,
+Ulraunt śmieje się teraz za każdym razem, gdy o tobie wspomnę. Bo nawet po upływie trzech dekad wciąż nazywam cię „moją miłością”. Jego postawa nie jest wyjątkowa. Większość znających mnie ludzi uważa to trwałe przywiązanie za dziwactwo, nazywając je „elfią więzią” i kręcąc z litością głowami, jakbym był jakimś głupcem, wciąż cię kochając. Nawet ty, najbliższa memu sercu, nie potrafiłaś zrozumieć, jak mogłem trzymać swe serce w zamknięciu przez trzysta lat, dopóki ty (!) nie wtargnęłaś w moje życie, narzucając swą dobrotliwą tyranię jego samotnemu biciu. Wiedz zatem, kochanie, że nawet wśród tak osobliwie wiernych istot jak elfy zdarzają się tacy, którzy zdumiewają własny rodzaj swą samotniczą naturą. Ja byłem jednym z nich; za młodu byłem chłodny i nieczuły na emocje. Rodzice nazwali mnie „órëlóra” („bezduszny”) z powodu mojego dystansu. Moje serce należało zawsze do ptradawnych sekretów i ukrytej wiedzy. W kwiecie wieku stałem się magiem o niemałej potędze, a potem porzuciłem magię dla rozkoszy płynącej z czystej nauki. Śmiałem się z moich pobratymców – tak elfów, jak i ludzi – którzy tworzyli więzi miłości tylko po to, by patrzeć, jak rozrywają je słudzy Czasu. Wyobraź sobie więc moje zdziwienie, gdy spotkałem ciebie. Zostałem zbudzony do życia: biegałem szaleńczo za tobą po halach Biblioteki i ogrodach Candlekeep! Musiałem zatracić się w kontemplacji twego piękna i doprowadzić cię, na wpół śmiejącą się, na wpół jęczącą, do rozkoszy, jakiej żadne z nas wcześniej nie znało. Pierwsza i ostatnia w moim sercu, Tamah... Oczywiście, że wciąż jesteś „moją miłością”!!
+-- C.~
+
+@239  = ~Moja Słodka Tamah,
+Piszę ten list o doprawdy niestosownej porze – wpół do czwartej nad ranem. Leżałem bezsennie wystarczająco długo, zacznę więc dzień nieco wcześniej od wiadomości do ciebie. Jak wiesz, nie potrzebuję snu, lecz elfi trans przynosi mi ostatnio jedynie bezustanne powtórzenia naszej ostatniej kłótni i twojego nazbyt pośpiesznego odejścia. Pustka snu jednak uciekła ode mnie, pozostawiając mnie z tęsknotą za twoim ciałem. Tak bardzo chciałbym powrócić do dni, gdy sypialiśmy nadzy i spleceni ze sobą. Pragnę cię poczuć, posmakować, poczuć fakturę twej skóry na moich wargach i języku. Lecz niestety, mój pąku róży, tylko we wspomnieniu mogę, niczym motyl, wdychać twój odurzający zapach i spijać nektar z twych jedwabistych płatków. Jestem zupełnie sam w tych głuchych godzinach; muszę sam ujarzmić swe zbuntowane ciało bez twej łaskawej pomocy. Niech bogowie mi pomogą!
+-- C.~
+
+@240  = ~Dla mojej drogiej Tamah,
+Pamiętam, jak rozmawiając o małżeństwie, opowiadałem ci o najstarszym z elfich zwyczajów: wymianie ślubów wiecznej miłości. Byłaś zdziwiona, odkrywszy, że elfy nie potrzebują budynków kościelnych, kapłanów, ceremonii ani aprobaty straży czy urzędów, by się połączyć. To wszystko, moja miłości, to tylko otoczka dla prostej umowy między dwojgiem oddanych sobie partnerów. Nigdy nie byłem przeciwny ludzkim weselom – zapraszano mnie na nie nieraz – lecz uważam je za zabawnie powtarzalne. Poślubiłbym cię w każdy wybrany przez ciebie sposób, moja droga, lecz zawsze będę ci przypominał, że i tak już do ciebie należę. Słowa, które wypowiedzieliśmy do siebie w ogrodach Candlekeep, wyznając sobie miłość, były moją przysięgą. Nie potrzebuję innych obietnic, by na wieczność być twoim mężczyzną. Przyjmij ten pierścień jako dowód moich słów, że jesteś jedyną kobietą, z którą pragnę być związany.
+-- C.~
+
+@241  = ~Wybacz mi, Tamah,
+Dziś rano znów przypomniałem sobie naszą ostatnią kłótnię... lecz tym razem inaczej. W moich myślach znów wybiegasz w gniewie, ponieważ nie chciałem opuścić bezpiecznych murów Candlekeep. Znów przypominasz mi, że Strażnik Ksiąg nie pochwalał naszego związku i tylko z niechęcią pozwoliłby nam wychowywać tu dzieci. Moje protesty, że przecież nam nie zakazał – że moglibyśmy mieć tu rodzinę – trafiały w próżnię. Pamiętam, jak mówiłaś, że chcesz poczuć wolność życia bez granic kamiennych murów i codziennie słyszeć chór młodych głosów wokół siebie, karmiąc najmłodsze z nich. Chciałaś wiedzieć, że wszystkie będą miały otwarte pola i lasy do odkrycia, zamiast stęchłego powietrza hal Biblioteki. Normalne odgłosy natury zamiast szeptów wymuszonej ciszy. Wszystko to zapamiętałem, miłości, lecz z pewną różnicą. Tym razem, wiedząc to, czego nie wiedziałem wtedy – co oznacza życie jedynie z twą nieobecnością u boku – wyobraziłem sobie, że ulegam i daję ci to, czego tak bardzo pragniesz. Skąd ta zmiana? órëlóra stało się quantë órë... Moje serce jest pełne...
+-- C.~
+
+@242  = ~<CHARNAME>...
+<DAYANDMONTH>, Roku Sztandaru <YEAR>.
+
+
+Piszę w pośpiechu ostatnią wiadomość... Tym razem do ciebie. Gdy wstałem dziś rano, poczułem w powietrzu ekscytację. Przeczucie, że coś w moim życiu zaraz ulegnie zmianie. Nawet jeśli oznacza to spotkanie z własną śmiercią, całe moje serce rwie się, by tę zmianę przyjąć. Możesz uznać to za głupstwo,ale w to właśnie wierzę i jestem pewien, iż ujrzę dziś Tamah, choćby tylko w zaświatach... I mówię tu o Arvanaith, gdzie wkroczę bez swej ludzkiej ukochanej u boku.
+Błądzę myślami i na moment zapomniałem o celu mojego listu...  <CHARNAME>... Chcę cię o coś prosić, mając pełną świadomość, że trzymano cię w niewiedzy co do twej przeszłości (nam, którzy wiedzieliśmy, zabroniono o tym mówić, by nie przyciągać... niechcianej... uwagi)... Proszę cię, byś przyjął zmianę. Odmowa może prowadzić jedynie do nieszczęścia. To lekcja, którą pragnę ci przekazać. Zapamiętaj ją dobrze. Dołączam do tego listu mały dowód mojego uznania. Służył mi dobrze przez całe życie. Niech tobie również dobrze służy.
+Na zawsze twój przyjaciel,
+-- Camryn~
+
+
+
+@243  = ~Astrophel i Stella~ //"Sonnet 45: Stella Oft Sees" by Sir Philip Sidney
+@244  = ~Stella tak często widzi moją biedę, 
+Wypisaną na twarzy chmurnej i ponurej, 
+Lecz nie zna litości dla hańby, w której
+Tonę, choć wie, że przez nią w taką rozpacz idę. 
+Lecz gdy słuchała baśni (którą ktoś powiadał)
+O kochankach nieznanych, co cierpieli srodze,
+Litość w niej wezbrała i na serca drodze
+Z łez potok, z morza uczuć zrodzony, osiadał.
+Ach, jeśli zmyślenie, co w obrazach mami,
+Choć kłamliwe, swobodniej łaskę w tobie budzi
+Niż sługi twego zguba, co honor twój trudzi:
+Pomyśl, najdroższa, czytając między wierszami,
+Że we mnie ruinę kochanka oglądasz:
+Nie jestem sobą; współczuj baśni, jeśli żądasz.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+@245  = ~Stella tak często widzi moją biedę, 
+Wypisaną na twarzy chmurnej i ponurej, 
+Lecz nie zna litości dla hańby, w której
+Tonę, choć wie, że przez nią w taką rozpacz idę. 
+Lecz gdy słuchała baśni (którą ktoś powiadał)
+O kochankach nieznanych, co cierpieli srodze,
+Litość w niej wezbrała i na serca drodze
+Z łez potok, z morza uczuć zrodzony, osiadał.
+Ach, jeśli zmyślenie, co w obrazach mami,
+Choć kłamliwe, swobodniej łaskę w tobie budzi
+Niż sługi twego zguba, co honor twój trudzi:
+Pomyśl, najdroższa, czytając między wierszami,
+Że we mnie ruinę kochanka oglądasz:
+Nie jestem sobą; współczuj baśni, jeśli żądasz.~
+@246  = ~Pamphilia to Amphilanthus~ //"from Pamphilia to Amphilanthus: 4" by Lady Mary Wroth
+@247  = ~When I beeheld the Image of my deere
+With greedy lookes mine eyes would that way bend,
+Fear, and desire did inwardly contend;
+Feare to bee mark’d, desire to drawe still neere,
+And in my soule a speritt wowld apeer,
+Which boldnes waranted, and did pretend
+To bee my genius, yett I durst nott lend
+My eyes in trust wher others seemed soe cleere,
+Then did I search from whence this danger ’rose,
+If such unworthynes in mee did rest
+As my sterv’d eyes must nott with sight bee blest;
+When jealousie her poyson did disclose;
+Yett in my hart unseense of jealous eye
+The truer Image shall in triumph lye.
+
+(The spine of this book is a bit thicker than usual.)~
+@248  = ~When I beeheld the Image of my deere
+With greedy lookes mine eyes would that way bend,
+Fear, and desire did inwardly contend;
+Feare to bee mark’d, desire to drawe still neere,
+And in my soule a speritt wowld apeer,
+Which boldnes waranted, and did pretend
+To bee my genius, yett I durst nott lend
+My eyes in trust wher others seemed soe cleere,
+Then did I search from whence this danger ’rose,
+If such unworthynes in mee did rest
+As my sterv’d eyes must nott with sight bee blest;
+When jealousie her poyson did disclose;
+Yett in my hart unseense of jealous eye
+The truer Image shall in triumph lye.~
+@249  = ~Sonet 18~ //Sonet 18 Williama Szekspira.
+@250  = ~Czy Cię do dnia letniego porównać mam śmiałość?
+Tyś jest nad lato milsza i łagodniejsza:
+Pąki maja wiatr targa, a lata nietrwałość
+Sprawia, że pora jego jest najkrótsza, najmniejsza.
+Czasem zbyt mocno złote oko niebios świeci,
+Czasem blask jego chmury mrożą niewczesne;
+Każde piękno od piękna kiedyś odleci,
+Przez traf lub zmian natury koleje bolesne.
+Lecz Twoje wieczne lato nigdy nie wyblaknie, Własność Twojej urody przy Tobie zostanie,
+Śmierć Cię w mrokach swych zamknąć próżno będzie łaknie,
+Gdy w wiecznych moich strofach znajdziesz trwanie.
+Póki ludzie oddychać, patrzeć będą zdolni,
+Póty wiersz ten żyć będzie — i Ciebie uwalniał.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+@251  = ~Czy Cię do dnia letniego porównać mam śmiałość?
+Tyś jest nad lato milsza i łagodniejsza:
+Pąki maja wiatr targa, a lata nietrwałość
+Sprawia, że pora jego jest najkrótsza, najmniejsza.
+Czasem zbyt mocno złote oko niebios świeci,
+Czasem blask jego chmury mrożą niewczesne;
+Każde piękno od piękna kiedyś odleci,
+Przez traf lub zmian natury koleje bolesne.
+Lecz Twoje wieczne lato nigdy nie wyblaknie, Własność Twojej urody przy Tobie zostanie,
+Śmierć Cię w mrokach swych zamknąć próżno będzie łaknie,
+Gdy w wiecznych moich strofach znajdziesz trwanie.
+Póki ludzie oddychać, patrzeć będą zdolni,
+Póty wiersz ten żyć będzie — i Ciebie uwalniał.~
+
+@252  = ~Do Celii~ //"Song: to Celia" by Ben Jonson
+
+@253  = ~Pij do mnie tylko wzrokiem swym, 
+Ja wzrokiem ci odpowiem; 
+Lub złóż na czary brzegu pocałunek, 
+A wina pić nie przyjdzie mi na zdrowie. 
+Pragnienie, co ze źródeł duszy rwie, 
+Napoju szuka w niebie: 
+Lecz choćby Jowisz nektar posłał mnie, 
+Nie chciałbym go – nad ciebie.
+
+Posłałem ci różany wieniec niedawno, 
+Nie aby uczcić ciebie nim jedynie, 
+Lecz by mu dać nadzieję, że przy tobie 
+Kwiat żaden nigdy nie uwiędnie, nie zginie. 
+Tyś tylko tchnęła nań i w tejże chwili 
+Odesłałaś go do mnie: 
+Odmienił zapach; teraz wonią twoją, 
+Nie własną, tchnie niezłomnie.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+@254  = ~Pij do mnie tylko wzrokiem swym, 
+Ja wzrokiem ci odpowiem; 
+Lub złóż na czary brzegu pocałunek, 
+A wina pić nie przyjdzie mi na zdrowie. 
+Pragnienie, co ze źródeł duszy rwie, 
+Napoju szuka w niebie: 
+Lecz choćby Jowisz nektar posłał mnie, 
+Nie chciałbym go – nad ciebie.
+
+Posłałem ci różany wieniec niedawno, 
+Nie aby uczcić ciebie nim jedynie, 
+Lecz by mu dać nadzieję, że przy tobie 
+Kwiat żaden nigdy nie uwiędnie, nie zginie. 
+Tyś tylko tchnęła nań i w tejże chwili 
+Odesłałaś go do mnie: 
+Odmienił zapach; teraz wonią twoją, 
+Nie własną, tchnie niezłomnie.~
+
+I@255  = ~Idzie w piękności – jak ta noc~ //"She Walks in Beauty": by Lord Byron
+@256  = ~I. Idzie w piękności – jak ta noc, 
+Co bezchmurny i gwiezdny ma strop; 
+Jasność i mrok tu całą moc Z
+lały w jej wzroku, lica snop: 
+W światło, co taką budzi cześć, 
+Jakiej jaskrawym dniom brak jest.
+
+II. Jeden cień więcej, promień mniej – 
+I już by wdzięk ten stracił blask, 
+Co fali kruków lśni na niej, 
+Lub lico łagodzi bez łask; 
+Gdzie myśl słodka się wywodzi, 
+Skąd czystość i dobro pochodzi.
+
+III. A to licu, a to brwi,
+Tak wymownej, choć spokojnej, 
+Uśmiech, co zwycięstwo śni, 
+Blask, co barwę ma przejrzystą,
+Mówią o dniach w dobroci spędzonych, 
+O duszy w myślach uciszonych,
+O sercu, co kocha miłością czystą.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+@257  = ~I. Idzie w piękności – jak ta noc, 
+Co bezchmurny i gwiezdny ma strop; 
+Jasność i mrok tu całą moc Z
+lały w jej wzroku, lica snop: 
+W światło, co taką budzi cześć, 
+Jakiej jaskrawym dniom brak jest.
+
+II. Jeden cień więcej, promień mniej – 
+I już by wdzięk ten stracił blask, 
+Co fali kruków lśni na niej, 
+Lub lico łagodzi bez łask; 
+Gdzie myśl słodka się wywodzi, 
+Skąd czystość i dobro pochodzi.
+
+III. A to licu, a to brwi,
+Tak wymownej, choć spokojnej, 
+Uśmiech, co zwycięstwo śni, 
+Blask, co barwę ma przejrzystą,
+Mówią o dniach w dobroci spędzonych, 
+O duszy w myślach uciszonych,
+O sercu, co kocha miłością czystą.~
+@258  = ~Spojrzenie~ //"The Look": by Sara Teasdale 
+@259  = ~Strephon mnie całował w maju,
+Robin zaś jesienią,
+Colin tylko patrzył na mnie, Nic słowa nie zmienią.
+
+Żartem był Strephona uścisk,
+Robina – zabawą,
+Lecz pocałunek w oczach Colina
+Jest senną i dzienną jawą.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+
+@260  = ~Strephon mnie całował w maju,
+Robin zaś jesienią,
+Colin tylko patrzył na mnie, Nic słowa nie zmienią.
+
+Żartem był Strephona uścisk,
+Robina – zabawą,
+Lecz pocałunek w oczach Colina
+Jest senną i dzienną jawą.~
+@261  = ~Ja cię kochałam pierwsza~ //"Monna Innominata (I loved you first)" by Christina Georgina Rossetti
+@262  = ~Ja cię kochałam pierwsza; potem twoja 
+Miłość, nad moją wzleciawszy wysoko, 
+Tak dumną pieśń zaczęła, że niepokój 
+Gołębich gruchań zagłuszyła w zdrojach.
+
+Kto komu winien więcej? Trwała moja, 
+Twoja w mgnieniu urosła nad miarę; 
+Jam kochała w domysłach, ty – przez wiarę 
+W to, czym być mogłam; tak się miłość zbroi.
+
+Lecz waga i miara – to krzywda dla dwojga: 
+Prawdziwa miłość nie zna „moje”, „twoje”, 
+Wolna od „ja” i „ty” – w jedno się splotło.
+
+To, co jest jednym, jest przecież obojgiem: 
+Wspólna nam siła, wspólna droga oto, 
+Bo miłość jedna nas oboje spaja.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+@263  = ~Ja cię kochałam pierwsza; potem twoja 
+Miłość, nad moją wzleciawszy wysoko, 
+Tak dumną pieśń zaczęła, że niepokój 
+Gołębich gruchań zagłuszyła w zdrojach.
+
+Kto komu winien więcej? Trwała moja, 
+Twoja w mgnieniu urosła nad miarę; 
+Jam kochała w domysłach, ty – przez wiarę 
+W to, czym być mogłam; tak się miłość zbroi.
+
+Lecz waga i miara – to krzywda dla dwojga: 
+Prawdziwa miłość nie zna „moje”, „twoje”, 
+Wolna od „ja” i „ty” – w jedno się splotło.
+
+To, co jest jednym, jest przecież obojgiem: 
+Wspólna nam siła, wspólna droga oto, 
+Bo miłość jedna nas oboje spaja.~
+@264  = ~Gdy przy swej lutni śpiewa Korynna~ //by Thomas Campion
+@265  = ~Gdy przy swej lutni śpiewa Korynna, 
+Głos jej ożywia strunę, co winna 
+Dźwięczeć najwyżej i najczyściej, 
+By w echa jasny blask się uiścić; 
+Lecz kiedy smutek pieśń jej ogarnie, 
+Struna pod westchnień pęka ciężarem, 
+Bo lutnia musi żyć lub umierać 
+Z jej pasją, która mnie chce pożerać: 
+Gdy o radości Korynna śpiewa, 
+W moich się myślach wiosna rozdziewa, 
+Lecz jeśli smutek pieśń jej ogarnie, 
+Z mego się serca rwie struna marnie.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+
+@266  = ~Gdy przy swej lutni śpiewa Korynna, 
+Głos jej ożywia strunę, co winna 
+Dźwięczeć najwyżej i najczyściej, 
+By w echa jasny blask się uiścić; 
+Lecz kiedy smutek pieśń jej ogarnie, 
+Struna pod westchnień pęka ciężarem, 
+Bo lutnia musi żyć lub umierać 
+Z jej pasją, która mnie chce pożerać: 
+Gdy o radości Korynna śpiewa, 
+W moich się myślach wiosna rozdziewa, 
+Lecz jeśli smutek pieśń jej ogarnie, 
+Z mego się serca rwie struna marnie.~
+
+@267  = ~Namiętny pasterz do swej miłości~ //by Christopher Marlowe
+
+@268  = ~Chodź, żyj ze mną, bądź moją miłością, 
+Będziemy czerpać z wszelkich rozkoszy, 
+Które doliny, gaje, wzgórza, pola 
+I strome góry dają nam w udziale.
+
+Będziemy siadać sobie na skałach, 
+Patrząc, jak pasterz owce swe pasie, 
+Nad płytką rzeką, w której kaskady 
+Ptaki śpiewają swe madrygały.
+
+Z płatków róż łoże ci przygotuję 
+I tysiąc wonnych, barwnych bukietów, 
+Czepek z kwiatów i taką spódnicę, 
+Co mirtu liśćmi cała wyszyta;
+
+Szaty z wełny, najcieńszej z wełen, 
+Co ją z najmilszych owiec strzyżemy, 
+Wyściełane kapcie na chłody, 
+Z klamrą ze szczerego złota;
+
+Z pasem ze słomy i pączków bluszczu, 
+Z guzem z bursztynu, haftem z koralu: 
+Jeśli cię nęcą takie rozkosze, 
+Chodź, żyj ze mną, bądź moją miłością.
+
+A pasterze będą ci tańczyć i śpiewać 
+W każdy majowy poranek: 
+Jeśli te dary myśl twą poruszą, 
+Chodź, żyj ze mną, bądź moją miłością.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+
+@269  = ~Chodź, żyj ze mną, bądź moją miłością, 
+Będziemy czerpać z wszelkich rozkoszy, 
+Które doliny, gaje, wzgórza, pola 
+I strome góry dają nam w udziale.
+
+Będziemy siadać sobie na skałach, 
+Patrząc, jak pasterz owce swe pasie, 
+Nad płytką rzeką, w której kaskady 
+Ptaki śpiewają swe madrygały.
+
+Z płatków róż łoże ci przygotuję 
+I tysiąc wonnych, barwnych bukietów, 
+Czepek z kwiatów i taką spódnicę, 
+Co mirtu liśćmi cała wyszyta;
+
+Szaty z wełny, najcieńszej z wełen, 
+Co ją z najmilszych owiec strzyżemy, 
+Wyściełane kapcie na chłody, 
+Z klamrą ze szczerego złota;
+
+Z pasem ze słomy i pączków bluszczu, 
+Z guzem z bursztynu, haftem z koralu: 
+Jeśli cię nęcą takie rozkosze, 
+Chodź, żyj ze mną, bądź moją miłością.
+
+A pasterze będą ci tańczyć i śpiewać 
+W każdy majowy poranek: 
+Jeśli te dary myśl twą poruszą, 
+Chodź, żyj ze mną, bądź moją miłością.~
+
+@270  = ~Stara Arkadia~ //by Sir Philip Sidney
+
+@271  = ~Tamże, mój Claiusie, Urania zsiadła z konia; sam koń, zdało mi się, ubolewał, że go tak odciążono: a co do ciebie, biedny Claiusie, gdyś szedł jej dopomóc, widziałem, jak cześć i pożądanie tak tobą miotały, żeś w jednej chwili i płonął, i drżał, i zamiast ją podtrzymać, sam o mało nie upadłeś. Tam usiadła, racząc przyjąć mój płaszcz (wtedy najparadniejszy) pod siebie; na tamtym pagórku obróciła się, spoglądając wstecz ku swemu dawnemu schronieniu, a z powodu rozstania niosąc w oczach wielki smutek, którego blask miał w sobie jednak tak naturalną pogodę, że sprawiał, iż sam smutek zdawał się uśmiechać; przy owym obrocie przemówiła do nas wszystkich, otwierając wiśnię swych warg, a Panie, jakże zachłannie uszy moje pasły się słodkimi słowami, które wyrzekła! A tutaj położyła dłoń na twoich oczach, gdy ujrzała w nich wzbierające łzy, jak gdyby chciała je przed innymi ukryć, a sama poczuć nieco twego żalu. Lecz biada mi, tam, właśnie tam postawiła stopę w łodzi, w owej chwili dzieląc swą niebiańską piękność między ziemię a morze. Lecz gdy już wsiadła, czy nie dostrzegłeś, jak wiatry świszczały, a morza tańczyły z radości, jak żagle pęczniały z dumy, a wszystko dlatego, że mają Uranię? O Uranio, bądź błogosławiona, Uranio, najsłodsza piękności i najpiękniejsza słodyczy!
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+@272  = ~Tamże, mój Claiusie, Urania zsiadła z konia; sam koń, zdało mi się, ubolewał, że go tak odciążono: a co do ciebie, biedny Claiusie, gdyś szedł jej dopomóc, widziałem, jak cześć i pożądanie tak tobą miotały, żeś w jednej chwili i płonął, i drżał, i zamiast ją podtrzymać, sam o mało nie upadłeś. Tam usiadła, racząc przyjąć mój płaszcz (wtedy najparadniejszy) pod siebie; na tamtym pagórku obróciła się, spoglądając wstecz ku swemu dawnemu schronieniu, a z powodu rozstania niosąc w oczach wielki smutek, którego blask miał w sobie jednak tak naturalną pogodę, że sprawiał, iż sam smutek zdawał się uśmiechać; przy owym obrocie przemówiła do nas wszystkich, otwierając wiśnię swych warg, a Panie, jakże zachłannie uszy moje pasły się słodkimi słowami, które wyrzekła! A tutaj położyła dłoń na twoich oczach, gdy ujrzała w nich wzbierające łzy, jak gdyby chciała je przed innymi ukryć, a sama poczuć nieco twego żalu. Lecz biada mi, tam, właśnie tam postawiła stopę w łodzi, w owej chwili dzieląc swą niebiańską piękność między ziemię a morze. Lecz gdy już wsiadła, czy nie dostrzegłeś, jak wiatry świszczały, a morza tańczyły z radości, jak żagle pęczniały z dumy, a wszystko dlatego, że mają Uranię? O Uranio, bądź błogosławiona, Uranio, najsłodsza piękności i najpiękniejsza słodyczy!~
+@273  = ~Dekameron, przezwany Księciem Galeotto~ //from "The Decameron" by Giovanni Boccaccio
+
+@274  = ~Ilekroć, najmiłościwsze panie, pomyślę o tym, jak litościwe jesteście z natury swej, tylekroć przyznaję, że początek niniejszego dzieła wyda się wam smutny i bolesny. Trzyma bowiem ono na swym czole bolesne wspomnienie minionej, niszczącej zarazy, powszechny smutek budzącej w każdym, kto ją widział albo o niej słyszał. Nie chciałbym jednak, aby to was odstraszyło od dalszego czytania i abyście sądziły, że pośród samych westchnień i łez błądzić będziecie.
+
+Niechaj ten przykry początek będzie dla was niczym innym, jak dla wędrowców góra stroma i urwista, za którą leży piękna i wesoła dolina; tym milsza się ona wydaje, im trudniejszy był trud wchodzenia i schodzenia. Po największej wesołości smutek następuje, tak samo cierpienia kończą się radością niechybną. Po tej krótkiej udręce (mówię krótkiej, bo na niewielu stronach opisanej) nastąpią wnet miłe i radosne rzeczy, których byście się może po takim początku nie spodziewały.
+
+Zaprawdę, gdybym mógł was inną drogą do celu swego przywieść, a nie tą tak spadzistą ścieżką, uczyniłbym to chętnie; lecz bez tego przypomnienia przeszłych cierpień niepodobna byłoby dowieść, jak doszło do zdarzeń, o których niżej czytać będziecie. Musiałem tedy te słowa napisać.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+@275  = ~Ilekroć, najmiłościwsze panie, pomyślę o tym, jak litościwe jesteście z natury swej, tylekroć przyznaję, że początek niniejszego dzieła wyda się wam smutny i bolesny. Trzyma bowiem ono na swym czole bolesne wspomnienie minionej, niszczącej zarazy, powszechny smutek budzącej w każdym, kto ją widział albo o niej słyszał. Nie chciałbym jednak, aby to was odstraszyło od dalszego czytania i abyście sądziły, że pośród samych westchnień i łez błądzić będziecie.
+
+Niechaj ten przykry początek będzie dla was niczym innym, jak dla wędrowców góra stroma i urwista, za którą leży piękna i wesoła dolina; tym milsza się ona wydaje, im trudniejszy był trud wchodzenia i schodzenia. Po największej wesołości smutek następuje, tak samo cierpienia kończą się radością niechybną. Po tej krótkiej udręce (mówię krótkiej, bo na niewielu stronach opisanej) nastąpią wnet miłe i radosne rzeczy, których byście się może po takim początku nie spodziewały.
+
+Zaprawdę, gdybym mógł was inną drogą do celu swego przywieść, a nie tą tak spadzistą ścieżką, uczyniłbym to chętnie; lecz bez tego przypomnienia przeszłych cierpień niepodobna byłoby dowieść, jak doszło do zdarzeń, o których niżej czytać będziecie. Musiałem tedy te słowa napisać.~
+@276  = ~Królowa Elfów~ //"The Faerie Queene": by Edmund Spenser
+@277  = ~Ja, który dawniej w pasterskiej odzieży 
+Muzę swą kryłem, jak czas mi doradził, 
+Teraz, ku trudnej i nowej rubieży, 
+Fletnię na trąbę groźnąem wygładził, 
+Bym o rycerzach i damach prowadził 
+Pieśń, co ich chwały obwieści światu; 
+Skoro mnie, sługę swojego, Muza aredzis 
+Wybrała, bym blask ich przywrócił kwiatu: 
+Wojny i miłość wierną splotę w pieśń bogatą.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+@278  = ~Ja, który dawniej w pasterskiej odzieży 
+Muzę swą kryłem, jak czas mi doradził, 
+Teraz, ku trudnej i nowej rubieży, 
+Fletnię na trąbę groźnąem wygładził, 
+Bym o rycerzach i damach prowadził 
+Pieśń, co ich chwały obwieści światu; 
+Skoro mnie, sługę swojego, Muza aredzis 
+Wybrała, bym blask ich przywrócił kwiatu: 
+Wojny i miłość wierną splotę w pieśń bogatą.~
+@279  = ~Do dziewic, by nie marnowały czasu~ //"To the Virgins, to Make Much of Time" by Robert Herrick
+
+@280  = ~Zrywajcie pąki róż, póki czas, 
+Bo czas ucieka wciąż; 
+Ten kwiat, co dziś uśmiechem wita was, 
+Jutro padnie w kurz.
+
+Lampa niebios, słońce wspaniałe, 
+Im wyżej wzbija się, 
+Tym szybsze biegu ma udziały, 
+Tym bliżej zmierzchu mknie.
+
+Ten wiek jest najlepszy, co pierwszy, 
+Gdy krew i młodość gore; 
+Gdy miną – czas gorszy i najgorszy 
+W następców wejdzie porę.
+
+Więc wyzbyjcie się skrupułów, póki czas, 
+I idźcie przed ołtarze; 
+Kto raz młodości blask utracił, ten już 
+O powrocie niech nie marzy.
+
+(Grzbiet tej księgi jest nieco grubszy, niż można by się spodziewać)~
+
+@281  = ~Zrywajcie pąki róż, póki czas, 
+Bo czas ucieka wciąż; 
+Ten kwiat, co dziś uśmiechem wita was, 
+Jutro padnie w kurz.
+
+Lampa niebios, słońce wspaniałe, 
+Im wyżej wzbija się, 
+Tym szybsze biegu ma udziały, 
+Tym bliżej zmierzchu mknie.
+
+Ten wiek jest najlepszy, co pierwszy, 
+Gdy krew i młodość gore; 
+Gdy miną – czas gorszy i najgorszy 
+W następców wejdzie porę.
+
+Więc wyzbyjcie się skrupułów, póki czas, 
+I idźcie przed ołtarze; 
+Kto raz młodości blask utracił, ten już 
+O powrocie niech nie marzy.~
+
+
+282  = ~Zmiana~ //by Kathleen Jessie Raine
+@283  = ~Change
+
+Słońce mówi do księżyca: Zostać nie możesz.
+Zmień się — Mówi księżyc do wód: 
+Wszystko płynie.
+
+Zmień się — Mówią pola do traw: 
+Czas siewu i żniw, 
+Plewa i ziarno.
+
+Musisz się zmienić — 
+Mówi czerw do pąka, 
+Choć nie w różę,
+
+Płatki więdną, 
+By mogły wzlecieć skrzydła 
+Niesione wiatrem.
+
+Zmieniasz się — 
+Mówi śmierć do dziewczyny — twą bladą twarz 
+W pamięć, w piękno.
+
+Czy gotów jesteś się zmienić? — 
+Mówi myśl do serca — pozwolić jej odejść 
+Przez całe twe życie
+
+Ku nieznanemu, nienarodzonemu W alchemii Snu świata?
+
+Zmienisz się — Mówią gwiazdy do słońca, Mówi noc do gwiazd.
+
+Said the sun to the moon,
+You cannot stay.
+
+Change
+Says the moon to the waters,
+All is flowing.
+
+Change
+Says the fields to the grass,
+Seed-time and harvest,
+Chaff and grain.
+
+You must change said,
+Said the worm to the bud,
+Though not to a rose,
+
+Petals fade
+That wings may rise
+Borne on the wind.
+
+You are changing
+said death to the maiden, your wan face
+To memory, to beauty.
+
+Are you ready to change?
+Says the thought to the heart, to let her pass
+All your life long
+
+For the unknown, the unborn
+In the alchemy
+Of the world's dream?
+
+You will change,
+says the stars to the sun,
+Says the night to the stars.
+
+(The spine of this book is a bit thicker than usual.)~
+@284  = ~Change
+Said the sun to the moon,
+You cannot stay.
+
+Change
+Says the moon to the waters,
+All is flowing.
+
+Change
+Says the fields to the grass,
+Seed-time and harvest,
+Chaff and grain.
+
+You must change said,
+Said the worm to the bud,
+Though not to a rose,
+
+Petals fade
+That wings may rise
+Borne on the wind.
+
+You are changing
+said death to the maiden, your wan face
+To memory, to beauty.
+
+Are you ready to change?
+Says the thought to the heart, to let her pass
+All your life long
+
+For the unknown, the unborn
+In the alchemy
+Of the world's dream?
+
+You will change,
+says the stars to the sun,
+Says the night to the stars.~
+
+Zmiana //by Kathleen Jessie Raine
+
+
+
+@285  = ~Z księgi wysuwa się list.~
+@286  = ~Z księgi wysuwa się list, a wraz z nim pierścień.~
+
+@287  = ~Pierścień zaręczynowy~
+@288  = ~To pierścień zaręczynowy, który Camryn przesłał Tamah w z jednym ze swych ukrytych listów.~
+
+@289  = ~Pierścień Camryna~
+@290  = ~Pierścień ten należał niegdyś do Camryna, Mistrza Iluminatorów i Skrybów w Candlekeep. Był on wielkim miłośnikiem nauki i wiedzy, doskonale obeznanym z dziejami wielu ludów, miejsc i przedmiotów. <CHARNAME> otrzymał ten Pierścień Uczonych jako pożegnalny dar, zanim opuścił mury Candlekeep.
+
+STATYSTYKI:
+
+Inteligencja: +1
+Wiedza: +5~~Pierścień ten należał niegdyś do Camryna, Mistrza Iluminatorów i Skrybów w Candlekeep. Był on wielkim miłośnikiem nauki i wiedzy, doskonale obeznanym z dziejami wielu ludów, miejsc i przedmiotów. <CHARNAME> otrzymała Pierścień Uczonych jako pożegnalny dar, zanim opuściła mury Candlekeep.
+
+STATYSTYKI:
+
+Inteligencja: +1
+Wiedza: +5~
+
+@291  = ~Dispero~
+
+@292  = ~Eteryczne widmo~
+@293  = ~List, którego adresatem jest <CHARNAME>~
+/*
+@294  = 
+@295  =
+@296  =
+@297  =
+@290  =
+@299  =
+@300  =
+*/
+
+/* new for v3.0 */
+/* Journal entry for Scar's Return */
+
+@10000 = ~Ciało Scara
+
+Odnalazłem wazę Scara na wystawie kramu ze starzyzną, znanego jako Sklep z używanymi rzeczami Donnerja. Kram ten znajduje się na festynie we Wrotach Baldura. Powinienem zapytać sprzedawcę, skąd pochodzi ten dzban. Wiem, że był ona dla Scara niezwykle cenny — widziałem go wcześniej w jego prywatnych komnatach.~~Ciało Scara
+
+Odnalazłam wazę Scara na wystawie kramu ze starzyzną, znanego jako Sklep z używanymi rzeczami Donnerja. Kram ten znajduje się na festynie we Wrotach Baldura. Powinnam zapytać sprzedawcę, skąd pochodzi ten dzban. Wiem, że był ona dla Scara niezwykle cenny — widziałam go wcześniej w jego prywatnych komnatach.~

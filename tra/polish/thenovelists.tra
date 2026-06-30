@@ -1,0 +1,663 @@
+@0    = ~[Kitty] ...chodzi mi o to, ¿e...~
+@1    = ~[Kitty] ...ale spójrz tylko, Dai! To zwisa z krzaka niczym wielkie, czarne, z³owrogie oko! I na dodatek! Na dodatek ma w³aœciwoœci halucynogenne!~
+@2    = ~[Kitty] A wilcza jagoda jest niezwykle inwazyjna. Potrafi opanowaæ ca³¹ polanê w mgnieniu oka! Gdybyœ tylko wiedzia³ cokolwiek o ogrodnictwie...~
+@3    = ~[Dai] Wiem o ogrodnictwie ca³kiem sporo, Kruszynko.~
+@4    = ~[Kitty] Kogo nazywasz kruszynk¹, ty... ma³y cz³owieczku.~
+@5    = ~[Kitty] Hej, ty tam, tak, ty. Mo¿e pomo¿esz nam rozstrzygn¹æ pewn¹ pal¹c¹ kwestiê natury filozoficznej:~
+@6    = ~[Dai] Co budzi wiêksz¹ grozê –~
+@7    = ~[Kitty] Jagoda czy ga³ka muszkato³owa?~
+@8    = ~[Kitty] Jago...~
+@9    = ~[Dai] Ga³k...~
+@10   = ~[player] W dzieciñstwie prze¿y³em traumatyczne zdarzenie zwi¹zane z pó³k¹ na przyprawy. Wszystko wysypa³o siê na owoce! Samo to pytanie jest...~~[player] W dzieciñstwie prze¿y³am traumatyczne zdarzenie zwi¹zane z pó³k¹ na przyprawy. Wszystko wysypa³o siê na owoce! Samo to pytanie jest...~
+@11   = ~[player] S³ucham?~
+@12   = ~[Kitty] ...och, jaaasne, ale...~
+@13   = ~[Dai] ...i przecie¿ niewiele osób jada dzisiaj jagody. Kiedyœ mo¿e i tak, ale teraz raczej wszyscy wol¹ borówki.~
+@14   = ~[Kitty] Ale mogliby, gdyby tylko chcieli.~
+@15   = ~[Dai] Pewno. Jeszcze ktoœ by siê pomyli³, zjad³ wilcz¹ jagodê i pad³ trupem od trucizny.~
+@16   = ~[Kitty] No i to dopiero jest przera¿aj¹ce.~
+@17   = ~[Dai] ...s³uszna uwaga. O, hej, jak siê miewasz?~
+@18   = ~[player] ...kontynuujcie...~
+@19   = ~[Dai] ...podczas gdy ga³ka muszkato³owa, w szczelnie owiniêtych balach, przemierza góry Khazari na... grzbietach jaków, poœród szczêku broni przy odpieraniu ataków z³odziei przypraw i l¹dowych piratów – zmierzam do tego, ¿e taka podró¿ hartuje w niej pewn¹ dzikoœæ... O, czeœæ!~
+@20   = ~[Kitty] ...chyba nie mówisz powa¿nie!~
+@21   = ~[Dai] ...no i mamy jeszcze tê kara-turañsk¹ odmianê jagody...~
+@22   = ~[Kitty] To nie jest jagoda! Nie nale¿y nawet do tej samej rodziny – i ty œmiesz nazywaæ siê ogrodnikiem!~
+@23   = ~[Dai] Ma „jagodê” w nazwie, wiêc siê liczy. O, znowu ty. Przyjemna karczma, nieprawda¿?~
+@24   = ~[Kitty] ...Wiesz co? Zrobi³am siê naprawdê g³odna...~
+@25   = ~[Dai] ...rozwa¿ podstawowe kategorie. Wiêkszoœæ przypraw jest odrobinê toksyczna, to w³aœnie nadaje im ten wigor i pikanteriê. Z kolei owoce daj¹ s³odycz i smak, ale w kuchni u¿ywa siê ich g³ównie do robienia przetworów. Twierdzê zatem, ¿e zio³a z natury maj¹ w³aœciwoœci zbawienne...~
+@26   = ~[Kitty] Och. Oooch. Czy¿byœmy znowu schodzili na temat tego, czym jest dobro i z³o? Serio?~
+@27   = ~[Dai] A i owszem! Uwielbiam debaty.~
+@28   = ~[Kitty] Och! Witaj ponownie. Powiedz mojemu przyjacielowi, ¿e to ja zawsze mam racjê.~
+
+@29   = ~[Kitty] Psst! <CHARNAME>!~
+@30   = ~[Dai] Hej, <CHARNAME>. Mo¿esz nam poœwiêciæ chwilê?~
+@31   = ~[player] Jestem trochê zajêty...~~[player] Jestem trochê zajêta...~
+@32   = ~[player] Nie teraz, w³aœnie walczê.~
+@33   = ~[player] Kitty, Dai, s³uchajcie mnie uwa¿nie. WleŸliœcie prosto do Gildii Z³odziei, plugawego gniazda rzezimieszków, morderców i siewców zamêtu... a co gorsza, s³ysza³em, ¿e mog¹ tu byæ *uliczni mimowie*. Uciekajcie! Bêdê os³aniaæ wasz¹ ucieczkê!~~[player] Kitty, Dai, s³uchajcie mnie uwa¿nie. WleŸliœcie prosto do Gildii Z³odziei, plugawego gniazda rzezimieszków, morderców i siewców zamêtu... a co gorsza, s³ysza³am, ¿e mog¹ tu byæ *uliczni mimowie*. Uciekajcie! Bêdê os³aniaæ wasz¹ ucieczkê!~
+@34   = ~[player] Mniej gadania, wiêcej czytania!~
+@35   = ~[Kitty] I jak? Jakie wra¿enia?~
+@36   = ~[player] Bardzo mi siê podoba³a ta mowa z siódmego rozdzia³u – „Nas niewielu, nas szczêœliwych, ta kompania braci...”~
+@37   = ~[player] To b³yskotliwy portret skreœlony wasz¹ proz¹ – oddaliœcie moj¹ naturê co do joty!~
+@38   = ~[player] To niedorzeczne – mam na koncie znacznie wiêcej ofiar!~
+@39   = ~[player] Szkoda, ¿e w tej historii nie ma wiêcej ma³p.~
+@40   = ~[player] No wiêc, em... czy oparliœcie w¹tek romantyczny na jakiejœ prawdziwej osobie? A jeœli tak, to czy mogê prosiæ o adres tego Delio?~
+@41   = ~[player] Có¿... da siê to czytaæ bez bólu.~
+@42   = ~[Dai] Czekaj, Kitty. Czy ty myœlisz o tym samym, co ja?~
+@43   = ~[Kitty] Dok³adnie o tym samym, Dai. Dok³adnie o tym samym.~
+
+
+@44   = ~[Kitty] Jesteœmy pisarzami. Tworzymy poczytne powieœci. „Olœniona: Diwa Mistrza Podziemi”, „Mroki przeznaczenia: Tarapaty Paladyna”... tego typu rzeczy. Mo¿e o nas s³yszeliœcie? Piszemy pod pseudonimem K. D. Troumpett.~
+@45   = ~[Skie] O mój Bo¿e! O mój Bo¿e! Mogê prosiæ o autograf? Em, nie mam przy sobie papieru, mo¿e podpiszecie siê bezpoœrednio na *mnie*?~
+@46   = ~[Kitty] Jasne!~
+@47   = ~[Eldoth] Spójrzcie tylko, zaszczycili nas autorzy „poczytnych powieœci”. Doprawdy, wyrastaj¹ przed nami niczym perz na grz¹dce...~
+@48   = ~[Dai] A ty to kto niby...?~
+@49   = ~[Eldoth] Eldoth.~
+@50   = ~[Dai] Wybacz, stary, ale to imiê zupe³nie nic mi nie mówi.~
+@51   = ~[Kitty] Jestem pewna, ¿e polubilibyœmy ciê, gdybyœmy poznali ciê bli¿ej.~
+@52   = ~[player] Pytasz, czy o was s³ysza³em?! K. D. Troumpett! Wasze ksi¹¿ki pomog³y mi przetrwaæ okres dojrzewania... ba, nauczy³y mnie, jak...~~[player] Pytasz, czy o was s³ysza³am?! K. D. Troumpett! Wasze ksi¹¿ki pomog³y mi przetrwaæ okres dojrzewania... ba, nauczy³y mnie, jak...~
+@53   = ~[player] To nazwisko obi³o mi siê o uszy. Imoen namiêtnie kupowa³a wasze ksi¹¿ki.~
+@54   = ~[player] Biblioteka Candlekeep obfitowa³a raczej w ksiêgi m¹droœci i wiedzy tajemnej ni¿ w... „poczytne powieœci”.~
+@55   = ~[player] Nie, w moich stronach wasze nazwisko nie by³o znane.~
+@56   = ~[Imoen] Musia³am je kupowaæ, bo <CHARNAME> wiecznie mi je *wypo¿ycza³*.~~[Imoen] Musia³am je kupowaæ, bo <CHARNAME> wiecznie mi je *wypo¿ycza³a*.~
+@57   = ~[Kitty] Nasze najnowsze literackie wydanie...~
+@58   = ~[Dai] „Pó³mrok: Mroczne po¿¹danie” w³aœnie trafi³o do druku, wiêc szukamy tematu na nastêpn¹ ksi¹¿kê.~
+@59   = ~[Kitty] Wygl¹dasz na kogoœ, kto sporo podró¿uje.~
+@60   = ~[Dai] Obi³o ci siê o uszy coœ o ciekawych bohaterach lub bohaterkach, którzy mogliby staæ siê natchnieniem dla wiekopomnego dzie³a literatury popularnej?~
+@61   = ~[player] Có¿... macie na przyk³ad mnie...~
+@62   = ~[player] Drizzt do'Urden chyba krêci³ siê gdzieœ w okolicy.~
+@63   = ~[player] S¹dz¹c po plotkach, Elminster jest niemal wszêdobylski.~
+@64   = ~[player] Mo¿e ta rudow³osa wojowniczka, ta z niebieskimi tatua¿ami na ca³ym ramieniu? Jak ona siê nazywa³a...?~
+@65   = ~[player] Wci¹¿ s³ychaæ plotki o niejakim Sarevoku – przystojny, bogaty, czaruj¹cy, z t¹ swoj¹ niespo¿yt¹ energi¹...~
+@66   = ~[player] Nikt nie przychodzi mi teraz do g³owy.~
+@67   = ~[player] Ta... „literatura popularna” to zupe³nie nie moja bajka. Nie przeszkadzam wam d³u¿ej.~
+@68   = ~[Dai] Chwileczkê, przypomnij mi, kim w³aœciwie jesteœ?~
+@69   = ~[Kitty] Mistrz do'Urden ma swojego w³asnego, nadwornego barda. Prawa do publikacji obstawili tak szczelnie, ¿e mysz siê nie przeœlizgnie.~
+@70   = ~[Dai] Ach, *Elminster*.~
+@71   = ~[Kitty] Za ka¿dym razem, gdy ktoœ wypowiada – lub zapisuje – jego imiê, on o tym *wie*.~
+@72   = ~[Dai] Potem zgarnia wszystkie tantiemy. Myœl jednak dobra. Mmmm, dojrza³y idea³... wieki doœwiadczenia, magiczne palce...~
+@73   = ~[Kitty] Alias! Wyborna wojowniczka, niewiasta o wielkiej s³awie i niepospolitych przymiotach.~
+@74   = ~[Dai] Jej pancerz te¿ odznacza³ siê pewnymi... przymiotami? Ale¿ by to by³a ilustracja na ok³adkê...~
+@75   = ~[Kitty] Ju¿ j¹ mieliœmy na ok³adce. W zesz³ym roku. *wzdycha*~
+@76   = ~[Dai] ...~
+@77   = ~[Kitty] Sarevok...~
+@78   = ~[Dai] Kiedyœ to rozwa¿aliœmy...~
+@79   = ~[Kitty] I wtedy ci...~
+@80   = ~[Dai] Potem oni...~
+@81   = ~[Kitty] Na koniec zjawili siê ci z *Kara-Tur*.~
+@82   = ~[Dai] Powiedzmy tylko, ¿e ten cz³owiek bardzo ceni swoj¹ prywatnoœæ. My zaœ *szanujemy* to u obiecuj¹cych biznesmenów.~
+@83   = ~[Kitty] Có¿, daj nam znaæ, jeœli przyjdzie ci do g³owy ktoœ ciekawy.~
+
+
+@84   = ~[Dai] Czekaj, Kitty! Patrz! Ta linia szczêki, ten b³ysk w oku...~
+@85   = ~[Kitty] Istotnie, widzia³am tê czuprynê na listach goñczych w ca³ym mieœcie. Ty jesteœ <CHARNAME>, prawda? Bohater z kopalni Nashkel? Mœciwy Anio³ z Kniei Otulonej?~~[Kitty] Istotnie, widzia³am tê czuprynê na listach goñczych w ca³ym mieœcie. Ty jesteœ <CHARNAME>, prawda? Bohaterka z kopalni Nashkel? Mœciwy Anio³ z Kniei Otulonej?~
+@86   = ~[Dai] Rany, jeœli wierzyæ plotkom, jesteœ jaœniej¹cym filarem cnoty i mistrzem solidnego kopania ty³ków!~~[Dai] Rany, jeœli wierzyæ plotkom, jesteœ jaœniej¹cym filarem cnoty i mistrzyni¹ solidnego kopania ty³ków!~
+@87   = ~[player] Wielki Poszukiwacz Przygód™ we w³asnej osobie. Teraz patrzcie – jeœli uœmiechnê siê pod odpowiednim k¹tem, œwiat³o idealnie odbije siê od moich zêbów.~~[player] Wielka Poszukiwaczka Przygód™ we w³asnej osobie. Teraz patrzcie – jeœli uœmiechnê siê pod odpowiednim k¹tem, œwiat³o idealnie odbije siê od moich zêbów.~
+@88   = ~[player] Czasem mam wra¿enie, ¿e ka¿dy o mnie s³ysza³ i *ka¿dy* chce, bym by³ jego ch³opcem na posy³ki. *wzdycha*~~[player] Czasem mam wra¿enie, ¿e ka¿dy o mnie s³ysza³ i *ka¿dy* chce, bym by³a jego dziewczyn¹ na posy³ki. *wzdycha*~
+@89   = ~[player] Nie czujê siê komfortowo z t¹ ca³¹ s³aw¹. Robi³em tylko to, co musia³em. Krok po kroku.~~[player] Nie czujê siê komfortowo z t¹ ca³¹ s³aw¹. Robi³am tylko to, co musia³am. Krok po kroku.~
+@90   = ~[player] Z tym „filarem cnoty” to chyba lekka przesada. Ja i prawo raczej nie zawsze kroczymy t¹ sam¹ œcie¿k¹... Po fakcie jednak zazwyczaj mamy zawsze niez³y ubaw!~
+@91   = ~[player] Tak naprawdê jestem pod³ym cz³owiekiem. Po prostu dajê koœcio³om mnóstwo pieniêdzy, wiêc MUSZ¥ mówiæ o mnie mi³e rzeczy.~
+
+@92   = ~[Kitty] Brzmisz jak dobry cz³owiek. To wymarzony materia³ na g³ównego bohatera – zw³aszcza z tym twoim baga¿em doœwiadczeñ. Ktoœ, kogo ¿ycie nie oszczêdza³o i kto musia³ dokonywaæ najtrudniejszych wyborów... Opowiedz nam o sobie coœ wiêcej.~~[Kitty] Brzmisz jak dobra osoba. To wymarzony materia³ na g³ówn¹ bohaterkê – zw³aszcza z tym twoim baga¿em doœwiadczeñ. Ktoœ, kogo ¿ycie nie oszczêdza³o i kto musia³ dokonywaæ najtrudniejszych wyborów... Opowiedz nam o sobie coœ wiêcej.~
+
+
+@93   = ~[player] Jasne.~
+@94   = ~[player] Ech, zmieni³em zdanie. Wcale nie chcê trafiæ do tej waszej ksi¹¿ki.~~[player] Ech, zmieni³am zdanie. Wcale nie chcê trafiæ do tej waszej ksi¹¿ki.~
+@95   = ~[Dai] Hmm, mrocznie. Wykupujesz msze ¿a³obne za dusze swoich wyr¿niêtych w pieñ wrogów?~
+@96   = ~[player] Ma³o tego, finansujê sierociñce dla ich licznego, osieroconego potomstwa. Te biedne... *chlip* sierotki...~
+@97   = ~[player] Nie mam pojêcia, co te œwiêtoszki robi¹ z tym z³otem, ale to czysta frajda patrzeæ, jak wymuszaj¹ uœmiech, gdy tylko przekraczam próg œwi¹tyni.~
+
+@98   = ~[player] Dostajê zni¿ki w sklepach, jeœli ludzie mnie lubi¹. Kilka drobnych datków na cele charytatywne tu i tam naprawdê dobrze s³u¿y mojemu bud¿etowi.~
+@99   = ~[Kitty] Widzê tu interesuj¹cy œwiat³ocieñ w rozwoju postaci. Dobrze. Zróbmy to.~
+@100  = ~[Dai] O mój Bo¿e! Ten charakterystyczny orê¿, to zmarszczone czo³o, ta wszechogarniaj¹ca aura potêpienia...~
+@101  = ~[Kitty] Twoja twarz zdobi listy goñcze rozlepione w ca³ym mieœcie!~
+@102  = ~[Dai] Jesteœ <CHARNAME>, prawda? B³agamy, nie zabijaj nas! (Czy mo¿emy prosiæ o autograf?)~
+@103  = ~[player] Wszystko to jedno wielkie nieporozumienie! Wszed³em do tego domu tylko dlatego, ¿e zdawa³o mi siê, ¿e s³yszê p³acz dziecka! A potem pomyœla³em, ¿e ten p³acz dobiega z tej potrójnie zaryglowanej skrzyni na piêtrze...~~[player] Wszystko to jedno wielkie nieporozumienie! Wesz³am do tego domu tylko dlatego, ¿e zdawa³o mi siê, ¿e s³yszê p³acz dziecka! A potem pomyœla³am, ¿e ten p³acz dobiega z tej potrójnie zaryglowanej skrzyni na piêtrze...~
+
+
+@104  = ~[player] Postrzegam siebie raczej jako uroczego ³ajdaka ni¿ bezwzglêdnego ³otra.~~[player] Postrzegam siebie raczej jako urocz¹ ³ajdaczkê ni¿ bezwzglêdn¹ ³otrzycê.~
+@105  = ~[player] Nie chcia³em go zabiæ...~~[player] Nie chcia³am go zabiæ...~
+@106  = ~[player] „Wszechogarniaj¹ca aura potêpienia” – to mi siê podoba. Mo¿e pozwolê wam po¿yæ odrobinê d³u¿ej.~
+@107  = ~[player] W rzeczywistoœci wiodê nad wyraz godne, cnotliwe i nudne ¿ycie. Po prostu p³acê bardom, by szargali moje imiê. Reputacja drania przydaje siê w... napiêtych sytuacjach.~~[player]W rzeczywistoœci wiodê nad wyraz godne, cnotliwe i nudne ¿ycie. Po prostu p³acê bardom, by szargali moje imiê. Reputacja ladaco przydaje siê w... napiêtych sytuacjach.~
+@108  = ~[Dai] Stokrotne dziêki, o Potê¿ny. Odmalujemy ciê w samych superlatywach. Co powiesz na p³on¹ce œlepia i aurê czystej grozy?~~[Dai] Stokrotne dziêki, o Potê¿na. Odmalujemy ciê w samych superlatywach. Co powiesz na p³on¹ce œlepia i aurê czystej grozy?~
+@109  = ~[Kitty] Wiêc pod t¹ mroczn¹ pow³ok¹ kryje siê z³ote serce? To siê œwietnie sprzeda. Mów dalej!~
+@110  = ~[Dai] Hultaj, ba³amut i huncwot, co?~~[Dai] Intrygantka, kusicielka i awanturnica, co?~
+@111  = ~[Kitty] O, z TAKIM materia³em mo¿emy zdzia³aæ cuda.~
+@112  = ~[player] Brzmi œwietnie. Mo¿ecie dopisaæ scenê, w której huœtam siê na ¿yrandolu?~
+@113  = ~[Kitty] Có¿, wróæ do nas, jeœli zmienisz zdanie.~
+@114  = ~[Dai] Bêdziemy tu przez ca³y tydzieñ.~
+
+
+
+@115  = ~[Dai] Ju¿ wyci¹gam notes. Tylko zwil¿ê o³ówek i mo¿emy zaczynaæ. <CHARNAME>! Opowiedz nam o swoich barwnych wyczynach.~
+@116  = ~[player] R¹ba³em drewno i nosi³em wodê wdowom na ca³ym Wybrze¿u Mieczy.~~[player] R¹ba³am drewno i nosi³am wodê wdowom na ca³ym Wybrze¿u Mieczy.~
+@117  = ~[player] Zdarzy³o mi siê ubiæ paru tasloi i gnolli.~
+@118  = ~[player] Moj¹ specjalnoœci¹ jest oczyszczanie plugawych siedlisk z nieumar³ego pomiotu.~
+@119  = ~[player] Moim ¿ywio³em s¹ hulanki i swawole. W ka¿dym mieœcie zostawiam kogoœ ze z³amanym sercem.~
+@120  = ~[player] Wêdruj¹c po Wybrze¿u Mieczy, zarobi³em GÓRÊ Z£OTA...~~[player] Wêdruj¹c po Wybrze¿u Mieczy, zarobi³am GÓRÊ Z£OTA...~
+@121  = ~[player] Lubiê myœleæ, ¿e na swój skromny sposób przys³u¿y³em siê nauce – choæby odzyskuj¹c rzadkie ksiêgi z ruin szko³y Ulcastera.~~[player] Lubiê myœleæ, ¿e na swój skromny sposób przys³u¿y³am siê nauce – choæby odzyskuj¹c rzadkie ksiêgi z ruin szko³y Ulcastera.~
+@122  = ~[player] Có¿, zdarzy³a siê pewna... em... przygoda z Pasem Zmiany P³ci...~
+@123  = ~[player] Opowiem wam, jak zdoby³em tê broñ – spójrzcie tylko na te kolce i plamy krwi...~~[player] Opowiem wam, jak zdoby³am tê broñ – spójrzcie tylko na te kolce i plamy krwi...~
+@124  = ~[player] Powinniœcie byli zobaczyæ Most Firewine, kiedy ju¿ z nim skoñczy³em.~~[player] Powinniœcie byli zobaczyæ Most Firewine, kiedy ju¿ z nim skoñczy³am.~
+@125  = ~[player] Robi³em kiedyœ naciêcie na pasie za ka¿dym razem, gdy kogoœ ubi³em. Pas siê rozlecia³, wiêc musia³em sprawiæ sobie nowy.~~[player] Robi³am kiedyœ naciêcie na pasie za ka¿dym razem, gdy kogoœ ubi³am. Pas siê rozlecia³a, wiêc musia³am sprawiæ sobie nowy.~
+@126  = ~[player] Kojarzycie tê naje¿on¹ pu³apkami wie¿ê na po³udniu? Na samym dole czai³ siê Demoniczny Rycerz. Ju¿ siê nie czai.~
+@127  = ~[player] Hej, zastanawialiœcie siê kiedyœ, co siê sta³o z Balduranem, za³o¿ycielem tego miasta? Bo ja znam prawdê.~
+@128  = ~[player] No wiesz, to ca³e zamieszanie z brakiem ¿elaza, plotki o wojnie z Amn... Nashkel to by³ dopiero pocz¹tek!~
+@129  = ~[player] Ja... niedawno musia³em przedzieraæ siê przez katakumby pod moim dawnym domem i zabijaæ bestie o twarzach ludzi, których kocha³em...~~[player] Ja... niedawno musia³am przedzieraæ siê przez katakumby pod moim dawnym domem i zabijaæ bestie o twarzach ludzi, których kocha³am...~
+@130  = ~[player] Tak siê sk³ada, ¿e w moich ¿y³ach p³ynie krew boga. Przemawia do mnie w snach. Co wiêcej, muszê siê zmierzyæ z moim boskim przyrodnim bratem, który stoi za ostatnimi rzeziami na Wybrze¿u Mieczy.~
+@131  = ~[player] W³aœciwie to jestem teraz w samym œrodku pewnej przygody – mo¿e wrócê, gdy ju¿ bêdzie po wszystkim i opowiem wam zakoñczenie?~
+@132  = ~[player] Coœ jeszcze?~
+@133  = ~[Dai] Jasne. Ruszaj w œwiat i daj im popaliæ, dzieciaku.~
+@134  = ~[Kitty] I dostarczaj nam kolejnych tematów, by nasze pióra nie wysch³y...~
+@135  = ~[Kitty] To dobre na budowanie klimatu, mo¿e do pierwszego rozdzia³u, ale g³ówny w¹tek potrzebuje czegoœ o znacznie wiêkszym kalibrze.~
+
+@136  = ~[Dai] Wiêc lubisz sobie poflirtowaæ, co? To siê dobrze sprzeda, o ile na koñcu odnajdziesz Prawdziw¹ Mi³oœæ™.~~[Dai] Wiêc lubisz sobie poflirtowaæ, co? To siê dobrze sprzeda, o ile na koñcu odnajdziesz Prawdziw¹ Mi³oœæ™.~
+@137  = ~[Kitty] To ty ocali³eœ tê biedn¹, niszczej¹c¹ ksiêgê? Dai, <CHARNAME> zas³u¿y³ na drinka.~~[Kitty] To ty ocali³aœ tê biedn¹, niszczej¹c¹ ksiêgê? Dai, <CHARNAME> zas³u¿y³a na drinka.~
+@138  = ~[Dai] Pozwól, ¿e uœcisnê ci d³oñ.~
+@139  = ~[Kitty] Firewine? Powa¿nie?~
+@140  = ~[Dai] Ka¿dy nizio³ek wie, ¿e na Moœcie Firewine nie ma nic poza krêtymi tunelami i *koboldami*.~
+@141  = ~[Kitty] Nizio³cze podrostki biegaj¹ tam piæ, ¿eby nianie ich nie widzia³y. I ty nam wyje¿d¿asz z Firewine? *Pfe*.~
+@142  = ~[player] Grrr.~
+@143  = ~[player] *wzdycha*~
+@144  = ~[player] Uwa¿aj na s³owa.~
+@145  = ~[Dai] Brodzisz po kolana we krwi, co? No, z tym mo¿emy ju¿ coœ zrobiæ.~
+@146  = ~[Kitty] To ty przeszed³eœ przez Wie¿ê Durlaga niczym niszczycielski ¿ywio³? NieŸle!~~[Kitty] To ty przesz³aœ przez Wie¿ê Durlaga niczym niszczycielski ¿ywio³? NieŸle!~
+
+@147  = ~[Dai] Powieœæ historyczna! Piêknie! Bêd¹ jakieœ jurne dziewoje?~
+@148  = ~[Kitty] Ooo, moglibyœmy prowadziæ dwie równoleg³e historie – w g³ównych rolach Balduran i <CHARNAME>. Planujesz za³o¿yæ jakieœ miasto? Powinieneœ to zrobiæ, to by nada³o naszej ksi¹¿ce literackiego presti¿u.~~[Kitty] oo, moglibyœmy prowadziæ dwie równoleg³e historie – w g³ównych rolach Balduran i <CHARNAME>. Planujesz za³o¿yæ jakieœ miasto? Powinnaœ to zrobiæ, to by nada³o naszej ksi¹¿ce literackiego presti¿u.~
+@149  = ~[Dai] O, to jest teraz na topie! Przy okazji wpleciemy coœ o staro¿ytnych spiskach i Tajemnych Kodach™ ukrytych w architekturze. To zawsze chwyta...~
+@150  = ~[Kitty] Ooo, mrocznie. Mo¿esz mówiæ dalej, czy to zbyt bolesne? Choæ skoro o tym wspominasz, to pewnie dasz radê...~
+@151  = ~[Dai] To brzmi nieco... niewiarygodnie.~
+@152  = ~[Kitty] Spokojnie, damy radê to ograæ.~
+@153  = ~[Dai] Mów dalej...~
+@154  = ~[player] Zanim przejdziemy do g³ównej historii, opowiem wam kilka anegdot o moich towarzyszach.~
+@155  = ~[player] Wszystko zaczê³o siê ch³odnym wiosennym rankiem w Candlekeep, kiedy mój przybrany ojciec Gorion powiedzia³, ¿e musimy natychmiast uciekaæ...~
+@156  = ~[Kitty] Uhm-hm...~
+@157  = ~[Dai] *skrobie w notatniku*~
+@158  = ~[Kitty] ... bogowie, co za niesamowity zwrot akcji!...~
+@159  = ~[Dai] ... i co dalej? Mów! ...~
+@160  = ~[Kitty] ... *wzdycha* To takie piêkne...~
+@161  = ~[Kitty] Daj mi ten o³ówek, ch³opcze, rêka ci ju¿ drêtwieje...~
+@162  = ~[Dai] Rewelacja, <CHARNAME>, wyjdzie z tego kawa³ œwietnej lektury.~
+
+
+
+@341 = ~Plotka g³osi, ¿e z kopalni Nashkel uratowa³eœ kogoœ drobnego i ca³kiem urodziwego.~~Plotka g³osi, ¿e z kopalni Nashkel uratowa³aœ kogoœ drobnego i ca³kiem urodziwego.~
+
+
+
+@163  = ~[Dai] A teraz... pora na w¹tek mi³osny.~
+@164  = ~[player] Owszem – oto Xan. Choæ nie biorê odpowiedzialnoœci za to, jak zareaguje na miano „urodziwego”.~
+@165  = ~[player] Nie nazwa³bym go „moim obiektem westchnieñ”, ale faktycznie uratowa³em Xana, który stoi obok mnie.~~[player] Nie nazwa³abym go „moim obiektem westchnieñ”, ale faktycznie uratowa³am Xana, który stoi obok mnie.~
+@166  = ~[player] Tak, mówicie o elfickim czarodzieju Xanie, choæ nie ma go teraz ze mn¹.~
+@167  = ~[player] Tak, chodzi wam o elfickiego czarodzieja Xana. Za³atwia w³aœnie pewne sprawy gdzieœ indziej.~
+@168  = ~[player] Nic mi o tym nie wiadomo. Sk¹d w ogóle taki pomys³?~
+@169  = ~[player] Có¿, kogoœ tam uratowa³em, ale nie przypominam sobie, jak siê nazywa³.~~[player] Có¿, kogoœ tam uratowa³am, ale nie przypominam sobie, jak siê nazywa³.~
+@170  = ~[player] Mi³oœæ? Wolê u¿ywaæ ¿ycia. A muszê przyznaæ, ¿e to wyj¹tkowo wdziêczne zajêcie.~
+
+@171  = ~[player] Osobê, do której coœ czujê, pozna³em w zupe³nie innych okolicznoœciach.~~[player] Osobê, do której coœ czujê, pozna³am w zupe³nie innych okolicznoœciach.~
+@172  = ~[player] W³aœciwie to zasch³o mi w gardle, a goni¹ mnie pilne sprawy. Wrócê i opowiem wam resztê póŸniej, zgoda?~
+@173  = ~[Dai] Jasna sprawa!~
+@174  = ~[Kitty] Bêdziemy tutaj, porz¹dkuj¹c notatki.~
+@175  = ~[Dai] I pij¹c.~
+@176  = ~[Kitty] Tak, i pij¹c.~
+@177  = ~[Dai] Jest trochê... tyczkowaty.~
+@178  = ~[Kitty] Ale uroczy! Mam ochotê go uszczypn¹æ w policzki. Niech mi ktoœ poda drabinkê!~
+@179  = ~[Dai] Czy to Ksiê¿ycowe Ostrze? Powiernicy tych mieczy s¹ w tym sezonie niezwykle modni. Rozumiem ten poci¹g...~
+
+@180  = ~[Kitty] Ca³y ten mroczny tragizm pod tytu³em „ostatni obroñca elfiej ojczyzny, któremu miecz po¿era duszê” to wdziêczny temat na opowieœæ, ale...~
+
+@181  = ~[Dai] Dobrze by³oby odkryæ jakieœ nowe l¹dy.~
+@182  = ~[Kitty] Czarodziej! Magia umys³u, wiêŸ dusz...~
+@183  = ~[player] Mo¿e i uratowa³em Xana i podró¿owa³ ze mn¹ przez jakiœ czas, ale ³¹czy³o nas tylko kole¿eñstwo.~~[player] Mo¿e i uratowa³am Xana i podró¿owa³a ze mn¹ przez jakiœ czas, ale ³¹czy³o nas tylko kole¿eñstwo.~
+@184  = ~[player] Nie widzê siebie i Xana w roli pary.~
+@185  = ~[player] Xan i ja, có¿... *rumieni siê*~
+@186  = ~[player] Wola³bym nie roztrz¹saæ teraz tematu moich uczuæ moich uczuæ.~~[player] Wola³abym nie roztrz¹saæ teraz tematu moich uczuæ moich uczuæ.~
+@187  = ~[player] Nie ¿eby brakowa³o mi chêci, ale nie s¹dzê, by on gustowa³ w mê¿czyznach. *wzdycha*~
+@188  = ~[Dai] A kogo obchodz¹ fakty?~
+@189  = ~[Kitty] Zawsze uwa¿a³am fakty jedynie za... luŸne sugestie.~
+@190  = ~[Dai] Po prostu kogoœ zmyœlimy i po krzyku. Kogo sobie ¿yczysz?~
+@191  = ~[player] Skoro mamy kogoœ zmyœliæ, to poproszê urokliw¹ damê, o któr¹ móg³bym konkurowaæ.~~[player] Skoro mamy kogoœ zmyœliæ, to poproszê urokliw¹ damê, o któr¹ mog³abym konkurowaæ.~
+@192  = ~[player] No dobrze, napiszcie o jakimœ wspania³ym mê¿czyŸnie, do którego móg³bym wzdychaæ.~~[player] No dobrze, napiszcie o jakimœ wspania³ym mê¿czyŸnie, do którego mog³abym wzdychaæ.~
+@193  = ~[player] Czy ta historia nie obroni siê bez wciœniêtego na si³ê romansu albo sproœnoœci?~
+@194  = ~[player] Dlaczego nie mo¿ecie po prostu opisaæ osoby, na której naprawdê mi zale¿y?~
+@195  = ~[Kitty] Owszem, opowieœæ mo¿e siê obejœæ bez zagl¹dania pod spódnicê, ale szczypta pikanterii tylko dodaje smaku.~
+@196  = ~[Dai] I nakrêca sprzeda¿ tak, ¿e nawet sobie nie wyobra¿asz.~
+@197  = ~[Kitty] Wiêc co ty na to?~
+@198  = ~[player] Nie. Poka¿cie swój kunszt jako pisarze. Chcê zobaczyæ, co potraficie stworzyæ poza gatunkowymi schematami.~
+
+@199  = ~[player] Skoro tak stawiacie sprawê, to poproszê o jak¹œ urocz¹ damê, o której wzglêdy móg³bym siê ubiegaæ.~~[player] Skoro tak stawiacie sprawê, to poproszê o jak¹œ urocz¹ damê, o której wzglêdy mog³abym siê ubiegaæ.~
+
+@200  = ~[player] W takim razie napiszcie o wspania³ym mê¿czyŸnie, za którym móg³bym wzdychaæ.~~[player] W takim razie napiszcie o wspania³ym mê¿czyŸnie, za którym mog³abym wzdychaæ.~
+@201  = ~[player] Skoro tak stawiacie sprawê, to poproszê o jak¹œ urocz¹ damê, o której wzglêdy móg³bym siê ubiegaæ.~~[player] Skoro tak stawiacie sprawê, to poproszê o jak¹œ urocz¹ damê, o której wzglêdy mog³abym siê ubiegaæ.~
+
+@202  = ~[Dai] Ech. Czasami potrzebujemy dystansu miêdzy prywatnymi uczuciami a t¹ ca³¹ jarmarczn¹ fikcj¹, w któr¹ je ubieramy. Poza tym twoja sympatia raczej nie pali siê do pozowania. Chyba ¿e...? Nie, niemo¿liwe.~
+@203  = ~[player] W takim razie opiszcie mnie jako singla, proszê.~~[player] W takim razie opiszcie mnie jako singielkê, proszê.~
+@204  = ~[player] Jeœli mam wybieraæ miêdzy idea³em a niczym, to poproszê o urokliw¹ damê o której wzglêdy móg³bym siê ubiegaæ~~[player] Jeœli mam wybieraæ miêdzy idea³em a niczym, to poproszê o urokliw¹ damê o której wzglêdy mog³abym siê ubiegaæ~
+@205 = ~[Kitty] Hmmm. Jak¹ pikantn¹ historiê napiszemy? Zobaczmy... <CHARNAME> w samym œrodku namiêtnej intrygi...~
+
+@206  = ~[Dai] A mo¿e...~
+@207  = ~[Kitty] Dwie dziewczyny, bliskie jak siostry, razem na dobre i na z³e. Pewnie widywa³y siê nago setki razy, ale nic z tego nie wynika³o, bo „nie s¹ takie”. A¿ nagle, pewnego dnia...~
+@208  = ~[Dai] Ch³opak i dziewczyna, z¿yci jak brat z siostr¹, razem na dobre i na z³e. Widzieli siê nago raz czy dwa, ale nic z tego nie wynika³o, bo „nie s¹ tacy”. A¿ nagle, pewnego dnia...~
+@209  = ~[Dai] Dwaj faceci, kumple na zabój, razem na dobre i na z³e. Pewnie widywali siê nago tysi¹c razy, ale nic z tego nie wynika³o, bo „nie s¹ tacy”. A¿ nagle, pewnego dnia...~
+@210  = ~[Kitty] Dostrzegaj¹ siebie w zupe³nie nowym œwietle. Blask w oczach, ogrom wspólnych prze¿yæ, urocze zak³opotanie przy ustalaniu relacji na nowo...~
+@211  = ~[player] Brzmi œwietnie!~
+@212  = ~[player] Trochê to md³e.~
+@213  = ~[player] Nie czujê tej chemii. Coœ innego?~
+
+@214  = ~[Imoen] Em... <CHARNAME>? Czy tylko ja mam wra¿enie, ¿e zaraz zrobi siê dziwnie?~
+@215  = ~[player] Nie zrobi siê.~
+@216  = ~[player] A... chcesz, ¿eby tak siê zrobi³o?~
+@217  = ~[Imoen] Hej, moglibyœcie mnie opisaæ jako tak¹ dziarsk¹ towarzyszkê? Wiecie – kogoœ tak niesamowitego, ¿e ca³a kontynuacja jest tylko o niej?~
+@218  = ~[Dai] Da siê zrobiæ, m³oda damo.~
+
+@219  = ~[Kitty] A co powiecie na mroczny, namiêtny romans przekraczaj¹cy granicê ¿ycia i œmierci?~
+@220  = ~[Dai] Wampiry! Krwiopijcy! Zakazany owoc!~
+@221  = ~[player] Jedyne nieumar³e istoty, jakie dot¹d widzia³em, to go³e koœci, duchy albo gnij¹ce truch³a – ma³o to poci¹gaj¹ce. Macie coœ innego?~~[player] Jedyne nieumar³e istoty, jakie dot¹d widzia³am, to go³e koœci, duchy albo gnij¹ce truch³a – ma³o to poci¹gaj¹ce. Macie coœ innego?~
+@222  = ~[player] E tam. Co jeszcze macie w zanadrzu?~
+@223  = ~[Kitty] Mój wróg, moja mi³oœæ... ch³ód jej piersi przy moim rozgrzanym ciele, jej lodowata d³oñ we w³osach... i ta nieustanna œwiadomoœæ mojego bij¹cego serca, têtni¹cego gor¹c¹ czerwieni¹ ¿ycia. Oooch, s³odki bogu.~
+
+@224  = ~Staro¿ytny lord nieumar³ych, co? Surowy, z b³yskiem w oku. *Mój wróg*. A jednak œwiadomoœæ, ¿e pragnie mnie po¿reæ, sprawia, ¿e czujê siê... po¿¹dany.~~Staro¿ytny lord nieumar³ych, co? Surowy, z b³yskiem w oku. *Mój wróg*. A jednak œwiadomoœæ, ¿e pragnie mnie po¿reæ, sprawia, ¿e czujê siê... po¿¹dana.~
+@225  = ~Staro¿ytny lord nieumar³ych, co? Surowy, z b³yskiem w oku. *Mój wróg*. A jednak œwiadomoœæ, ¿e pragnie mnie po¿reæ, sprawia, ¿e czujê siê... po¿¹dany.~~Staro¿ytny lord nieumar³ych, co? Surowy, z b³yskiem w oku. *Mój wróg*. A jednak œwiadomoœæ, ¿e pragnie mnie po¿reæ, sprawia, ¿e czujê siê... po¿¹dana.~
+
+@226  = ~[Kitty] Mój wróg, moja mi³oœæ... miêkkoœæ jej bia³ej skóry, jej lodowata d³oñ we w³osach... i ta œwiadomoœæ bij¹cego serca, têtni¹cego czerwieni¹ ¿ycia. Ooch, kochanie.~
+@227  = ~[Dai] Zderzenie dwóch ognistych temperamentów – radosne bitwy, ostre s³owa rzucane w gniewie, straszliwe nieporozumienia, potem bolesna roz³¹ka... i wreszcie s³odycz pojednania...~
+@228  = ~[player] P³omienny romans bardzo by mi odpowiada³.~
+@229  = ~[player] Ooo, mo¿ecie napisaæ tê scenê, w której jedno przyciska drugie do œciany i dochodzi do namiêtnego poca³unku?~
+@230  = ~[player] Ju¿ od samego s³uchania czujê siê zmêczony. Macie coœ innego w zanadrzu?~~[player] Ju¿ od samego s³uchania czujê siê zmêczona. Macie coœ innego w zanadrzu?~
+
+@231  = ~[Kitty] A mo¿e s³odka, delikatna historia mi³osna dla kontrastu? Czu³e s³owa, wasza dwójka wtulona w siebie jak zagubione dzieci, opatruj¹cy nawzajem swoje rany...~
+@232  = ~[player] Od tej s³odyczy a¿ bol¹ mnie zêby. Niech wam bêdzie.~
+@233  = ~[player] Tak. Mo¿e to dziwne u kogoœ o rêkach tak splamionych krwi¹ jak moje, ale lubiê dbaæ o bliskich.~
+@234  = ~[player] W³aœciwie to wola³bym zakochaæ siê w moim najlepszym druhu.~~[player] W³aœciwie to wola³abym zakochaæ siê w moim najlepszym druhu.~
+@235  = ~[player] E, jednak wybieram romans z wampirem.~
+@236  = ~[player] Wybieram ten romans z wigorem i pasj¹.~
+@237  = ~[player] ¯adna z waszych propozycji do mnie nie przemawia. Mo¿ecie napisaæ tê ksi¹¿kê bez w¹tku mi³osnego?~
+
+
+@238  = ~[Dai] Wyœmienity wybór. Powiedz nam tylko... jak bardzo dos³owni mamy byæ w opisach?~
+@239  = ~[player] Têskne spojrzenia, „przypadkowe” dotyki i mnóstwo dwuznacznych dialogów. Niech czytelnicy sami zgaduj¹, czy jesteœmy par¹.~
+@240  = ~[player] Chcê, ¿eby nasze uczucia by³y jasne i ¿eby by³o wiadomo, ¿e za zamkniêtymi drzwiami nie nudzimy siê ze sob¹, ale fizyczne detale zostawcie dla siebie.~
+@241  = ~[player] Chcia³bym, ¿ebyœcie pokazali co nieco... oczywiœcie o ile zrobicie to ze smakiem.~~[player] Chcia³abym, ¿ebyœcie pokazali co nieco... oczywiœcie o ile zrobicie to ze smakiem.~
+@242  = ~[player] Czy moglibyœcie... Mo¿ecie wpleœæ mnóstwo fraz w stylu „wyrzeŸbione plecy”, „lazurowe sfery oczu” i „z³ociste coœ-tam po¿¹dania”?~
+@243  = ~[Kitty] *wzdycha* No dobrze.~
+@244  = ~[Dai] Bycie gwiazd¹ literatury przygodowej to powa¿ne i uroczyste zobowi¹zanie.~
+@245  = ~[Kitty] Bycie gwiazd¹ lekkich romansów to powa¿ne i uroczyste zobowi¹zanie.~
+@246  = ~[Dai] Podoba nam siê twój styl, <CHARNAME>!~
+@247  = ~[Kitty] Potrafisz staæ siê potworem, który zachwyca?~
+@248  = ~[Dai] Odnajdziesz nas, gdy dopadnie nas szaroœæ dnia, i wyrwiesz z naszych bezpiecznych, nudnych zak¹tków...~
+@249  = ~[Kitty] I wci¹gniesz w œwiat dziwów, niebezpieczeñstw i emocjonalnego zamêtu?~
+@250  = ~[Kitty] I wci¹gniesz w œwiat dziwów, niebezpieczeñstw i naprawdê pikantnych scen sypialnianych?~
+@251  = ~[Dai] Czy us³yszysz nas, gdy nasze serca powiedz¹ „Tak”? Czy pchniesz nas naprzód, ale nigdy mocniej, ni¿ zdo³amy znieœæ?~
+@252  = ~[Kitty] Czy bêdziesz nas potrzebowaæ, byœmy ciê kochali?~
+@253  = ~[player] Ach...~
+@254  = ~[player] Có¿...~
+@255  = ~[player] Zrobiê, co w mojej mocy.~
+@256  = ~[Dai] Doskonale!~
+@257  = ~[Imoen] Ooo, ja te¿ chcê! Mogê pomóc? <CHARNAME> i ja znamy siê jak ³yse konie. No i nieŸle piszê. Mam tu taki wiersz... nie mog³am znaleŸæ rymu dla jednego ze s³ów, wiêc jeszcze nie skoñczy³am, ale...~
+@258  = ~[Dai] Wiecie co... przeœlijcie nam swoje prace poczt¹, a my odezwiemy siê do was.~
+@259  = ~[Kitty] Jak tylko znajdziemy chwilê, ¿eby... rzuciæ na nie okiem. No, na czym to skoñczyliœmy? Ach, tak...~
+@260  = ~[Dai] Podpisz tutaj, tutaj i tutaj (na koñcu czerwonym atramentem, to taka tradycja), uœciœnijmy d³onie na szczêœcie...~
+@261  = ~[Kitty] No to dobiliœmy targu!~
+@262  = ~[player] Ale ja nie...~
+@263  = ~[Imoen] Bêdê w ksi¹¿ce!~
+@264  = ~[player] Gorion ostrzega³ mnie, ¿eby niczego nie podpisywaæ!!~
+@265  = ~[player] Aaarggh!!!~
+@266  = ~[Kitty] Dostaniesz egzemplarz z autografem, jak tylko skoñczymy.~
+
+@267  = ~[Dai] Regularnie przepytujemy podobne indywidua. Nic tak nie o¿ywia opowieœci, jak szczypta lokalnego kolorytu.~
+@267  = ~[Dai] Czêsto przeprowadzamy wywiady z takimi typkami dla nadania tekstom lokalnego kolorytu.~
+@268  = ~[Kitty] Niklos i Narlen maj¹ NAJLEPSZ¥ grypserê!~
+@269  = ~[Dai] Prawie skoñczyliœmy pierwszy szkic... *twojej ksi¹¿ki*.~
+@270  = ~[Kitty] Skoro ju¿ têdy przechodzisz – chcesz rzuciæ okiem?~
+@271  = ~[Dai] Mo¿e odpowiesz nam na kilka ostatnich, nurtuj¹cych nas pytañ?~
+@272  = ~[player] Jestem w samym œrodku politycznej rzezi. Nie mam na to czasu!~
+
+
+@273  = ~[player] To nie pora na lekturê! Mój boski braciszek-megaloman zaszy³ siê w Podmroku jak ranny borsuk! Muszê to doprowadziæ do koñca!~
+
+@274  = ~[Kitty] Wygl¹dasz na kompletnie wykoñczonego, <CHARNAME> – s³aniasz siê na nogach. Ta ca³a rzeŸ i polityka na pewno mog¹ poczekaæ te parê godzin.~~[Kitty] Wygl¹dasz na kompletnie wykoñczon¹, <CHARNAME> – s³aniasz siê na nogach. Ta ca³a rzeŸ i polityka na pewno mog¹ poczekaæ te parê godzin.~
+
+@275  = ~[Dai] £ap za krzes³o, zetrzyj krew z twarzy i napij siê naszej specjalnej, nocnej herbaty...~
+@276  = ~[Kitty] Dobra herbata, na zio³ach.~
+@277  = ~[Dai] Odprê¿ siê przy ksi¹¿ce. Zobaczysz, ¿e wymierzanie sprawiedliwoœci pójdzie ci potem znacznie sprawniej.~
+@278  = ~[Kitty] A my w miêdzyczasie przepytamy twoich towarzyszy.~
+@279  = ~[Dai] Wszyscy na tym skorzystaj¹!~
+@280  = ~[player] Nie, najpierw muszê rozprawiæ siê z Sarevokiem. Wrócê póŸniej.~
+@281  = ~[player] To niedorzeczne, nie mam na to czasu.~
+@282  = ~[player] Tak, chwila wytchnienia z dobr¹ ksi¹¿k¹ brzmi œwietnie. Dawajcie tê herbatê!~
+@283  = ~[player] Od wieków chcia³em to przeczytaæ!~~[player] Od wieków chcia³am to przeczytaæ!~
+@284  = ~[player] A mo¿e po prostu wezmê j¹ i przeczytam póŸniej...? Mo¿na tak?~
+@285  = ~[Kitty] Œwietnie! Ju¿ parzê herbatê – a Dai wyczaruje ci kopiê do poczytania.~
+@286  = ~[Kitty] Pewnie! Dai zaraz wyczaruje ci kopiê.~
+@287  = ~[Dai] Powodzenia w szturmowaniu Podmroku...~
+@288  = ~[Kitty] WeŸmiemy twoje uwagi pod rozwagê przy pracy nad kolejn¹ wersj¹.~
+@289  = ~[Dai] O, radosny dniu! Nasz bohater jest zadowolony!~~[Dai] O, radosny dniu! Nasza bohaterka jest zadowolona!~
+@290  = ~[Kitty] Ruszaj, <CHARNAME>. Koniecznie notuj wszystkie ciekawe wydarzenia i szokuj¹ce zwroty akcji...~
+@291  = ~[Dai] Niech twoja ostateczna konfrontacja bêdzie szybka, decyduj¹ca i pe³na dramatyzmu!~
+
+
+
+
+@292  = ~* * * * * * OTO DZIECIÊ CANDLEKEEP     * * * * * *
+
+
+              czyli POWIEŒÆ oparta na Faktach, pióra
+
+
+                                K. D. Troumpett~
+@293  = ~Wszystko sprowadza³o siê do tej jednej chwili. Pó³ork Mulahey inkantowa³ mod³y do swego mrocznego, szalonego boga, a w d³oniach dzier¿y³ same b³yskawice.
+     — Musisz wiedzieæ — rzek³ <CHARNAME> swobodnym tonem — ¿e nie mogê pozwoliæ ci na kontynuowanie tej dzia³alnoœci. — Zgrzyt wyci¹ganej stali odbi³ siê echem w mrocznej jaskini. — To koniec!...~~Wszystko sprowadza³o siê do tej jednej chwili. Pó³ork Mulahey inkantowa³ mod³y do swego mrocznego, szalonego boga, a w d³oniach dzier¿y³ same b³yskawice.
+     — Musisz wiedzieæ — rzek³a <CHARNAME> swobodnym tonem — ¿e nie mogê pozwoliæ ci na kontynuowanie tej dzia³alnoœci. — Zgrzyt wyci¹ganej stali odbi³ siê echem w mrocznej jaskini. — To koniec!...~
+
+@294  = ~(Czytaj dalej)~
+@295  = ~(Przeskocz do koñca)~
+
+@296  = ~Wszystko zawsze musia³o mieæ swój koniec w podobnym bagnie. Pó³ork Mulahey inkantowa³ mod³y do swego mrocznego, szalonego boga, a w d³oniach dzier¿y³ same b³yskawice.
+     — O bogowie, przestañ ju¿ — przeci¹gn¹³ leniwie <CHARNAME>, wyraŸnie znudzony. — Tyle zachodu i rabanu o moj¹ skromn¹ osobê? Zostaw ten piorun, ch³opcze, a na pewno uda nam siê wypracowaæ coœ... satysfakcjonuj¹cego dla obu stron...~~Wszystko zawsze musia³o mieæ swój koniec w podobnym bagnie. Pó³ork Mulahey inkantowa³ mod³y do swego mrocznego, szalonego boga, a w d³oniach dzier¿y³ same b³yskawice.
+     — O bogowie, przestañ ju¿ — przeci¹gnê³a leniwie <CHARNAME>, wyraŸnie znudzona. — Tyle zachodu i rabanu o moj¹ skromn¹ osobê? Zostaw ten piorun, ch³opcze, a na pewno uda nam siê wypracowaæ coœ... satysfakcjonuj¹cego dla obu stron...~
+
+@297  = ~Œwit otworzy³ nad Wrotami Baldura, Dam¹ Miast, swe przekrwione, czerwone œlepia i wyci¹gn¹³ blade, dr¿¹ce palce ku szczytom wie¿ i strzelistym iglicom. Na gzymsie wokó³ najwy¿szej wie¿y Pa³acu Ksi¹¿êcego oddzia³ stra¿ników P³omiennej Piêœci o kamiennych obliczach osaczy³ samotnego awanturnika, wisz¹cego niebezpiecznie na piorunochronie.
+     — Mogê to wyjaœniæ! — krzykn¹³ <CHARNAME>, machaj¹c rozpaczliwie nogami. — Przysiêgam, ¿e w odpowiednim kontekœcie ma to sens!...~~Œwit otworzy³ nad Wrotami Baldura, Dam¹ Miast, swe przekrwione, czerwone œlepia i wyci¹gn¹³ blade, dr¿¹ce palce ku szczytom wie¿ i strzelistym iglicom. Na gzymsie wokó³ najwy¿szej wie¿y Pa³acu Ksi¹¿êcego oddzia³ stra¿ników P³omiennej Piêœci o kamiennych obliczach osaczy³ samotn¹ awanturniczkê, wisz¹c¹ niebezpiecznie na piorunochronie.
+     — Mogê to wyjaœniæ! — krzyknê³a <CHARNAME>, machaj¹c rozpaczliwie nogami. — Przysiêgam, ¿e w odpowiednim kontekœcie ma to sens!...~
+
+@298  = ~— Ach, lecz po có¿ te ja³owe spory, mój ty dumny jastrzêbiu? — W gêstniej¹cym mroku jaskini Davaeorn ukaza³ siê pod postaci¹ pomarszczonego gnoma oferuj¹cego worki kosztownoœci. Jego g³os przeszed³ w melodyjne przymilanie siê. — Jesteœmy do siebie tacy podobni, ty i ja. Razem mo¿emy... —
+     Ostatnie s³owa ugrzêz³y mu w gardle, gdy zad³awi³ siê piêtnastoma centymetrami hartowanej stali.
+     <CHARNAME> przemówi³ dr¿¹cym g³osem, w którym s³ychaæ by³o zarówno warkniêcie, jak i ³kanie: — W *niczym* ciê nie przypominam!~~— Ach, lecz po có¿ te ja³owe spory, mój ty dumny jastrzêbiu? — W gêstniej¹cym mroku jaskini Davaeorn ukaza³ siê pod postaci¹ pomarszczonego gnoma oferuj¹cego worki kosztownoœci. Jego g³os przeszed³ w melodyjne przymilanie siê. — Jesteœmy do siebie tacy podobni, ty i ja. Razem mo¿emy... —
+     Ostatnie s³owa ugrzêz³y mu w gardle, gdy zad³awi³ siê piêtnastoma centymetrami hartowanej stali.
+     <CHARNAME> przemówi³a dr¿¹cym g³osem, w którym s³ychaæ by³o zarówno warkniêcie, jak i ³kanie: — W *niczym* ciê nie przypominam!~
+
+@299  = ~— Ach, lecz po có¿ te ja³owe spory, mój ty dumny jastrzêbiu? — W gêstniej¹cym mroku jaskini Davaeorn snu³ opowieœæ o mrocznych rozkoszach, o nagrodach i potêdze, jakie <CHARNAME> otrzyma, jeœli tylko zboczy ze œcie¿ki honoru. — Do³¹cz do mnie, m³ode dzieciê, a razem bêdziemy mogli... —
+     Ostatnie s³owa ugrzêz³y mu w gardle, nies³yszane przez nikogo.
+     <CHARNAME> wyrwa³ zakrzywiony nó¿ z piersi zepsutego maga i otar³ czarn¹ krew Davaeorna. — Tylko byœ mnie spowalnia³...~~— Ach, lecz po có¿ te ja³owe spory, mój ty dumny jastrzêbiu? — W gêstniej¹cym mroku jaskini Davaeorn snu³ opowieœæ o mrocznych rozkoszach, o nagrodach i potêdze, jakie czekaj¹ <CHARNAME> otrzyma, jeœli tylko zboczy ze œcie¿ki honoru. — Do³¹cz do mnie, m³ode dzieciê, a razem bêdziemy mogli... —
+     Ostatnie s³owa ugrzêz³y mu w gardle, nies³yszane przez nikogo.
+     <CHARNAME> wyrwa³a zakrzywiony nó¿ z piersi zepsutego maga i otar³a czarn¹ krew Davaeorna. — Tylko byœ mnie spowalnia³...~
+	 
+@300  = ~      (Notatki na marginesie)
+
+----- Czy nie zaczynamy tej opowieœci zbyt gwa³townie? – D
+
+----- Najpierw akcja, kontekst póŸniej. – K~
+
+@301  = ~      ...Iskry wystrzeli³y, gdy <CHARNAME> z irytacj¹ grzeba³ patykiem w wêglach. W powietrzu unosi³ siê zapach sosnowej ¿ywicy i szczypa³ ch³ód póŸnowiosennego przymrozku. Po drugiej stronie ogniska oczy Delia wskazywa³y na konsternacjê – przyjaciel naszego bohatera by³ ostatnio dziwnie niespokojny. „Dok¹d teraz ruszysz?” G³os Delia by³ znajomy i beznamiêtny zarazem.
+     — Na pó³noc. Do Kniei Otulisko. Myœlê, ¿e znasz powody.
+     — Znam. <CHARNAME>, ja... —
+     Delio urwa³, gdy jeden z ich towarzyszy stêkn¹³ przez sen; potê¿ny wojownik wierci³ siê w kocach niczym pijany niedŸwiedŸ, by po chwili znów rozpocz¹æ chrapliwe chrapanie.
+     — Nie teraz. Porozmawiamy póŸniej...~~            ...Iskry wystrzeli³y, gdy <CHARNAME> z irytacj¹ grzeba³ patykiem w wêglach. W powietrzu unosi³ siê zapach sosnowej ¿ywicy i szczypa³ ch³ód póŸnowiosennego przymrozku. Po drugiej stronie ogniska oczy Delia wskazywa³y na konsternacjê – przyjaciel naszej bohaterki by³ ostatnio dziwnie niespokojny. „Dok¹d teraz ruszysz?” G³os Delia by³ znajomy i beznamiêtny zarazem.
+     — Na pó³noc. Do Kniei Otulisko. Myœlê, ¿e znasz powody.
+     — Znam. <CHARNAME>, ja... —
+     Delio urwa³, gdy jeden z ich towarzyszy stêkn¹³ przez sen; potê¿ny wojownik wierci³ siê w kocach niczym pijany niedŸwiedŸ, by po chwili znów rozpocz¹æ chrapliwe chrapanie.
+     — Nie teraz. Porozmawiamy póŸniej...~
+
+@302  = ~(Wróæ do pocz¹tku)~
+
+@303  = ~      ...Iskry wystrzeli³y, gdy <CHARNAME> z irytacj¹ grzeba³ patykiem w wêglach. W powietrzu unosi³ siê zapach sosnowej ¿ywicy i szczypa³ ch³ód póŸnowiosennego przymrozku. Po drugiej stronie ogniska oczy Delia lœni³y w ciemnoœci niczym bursztynowe dyski. „Dok¹d teraz ruszysz?” G³os Delia, aksamitny i mocny jak stara brandy, by³ zarazem beznamiêtny.
+     — Na pó³noc. Do Kniei Otulisko. Myœlê, ¿e znasz powody.
+     — Znam. <CHARNAME>, ja... —
+     Delio urwa³, gdy jeden z ich towarzyszy stêkn¹³ przez sen; potê¿ny wojownik wierci³ siê w kocach niczym pijany niedŸwiedŸ, by po chwili znów rozpocz¹æ chrapliwe chrapanie.
+     — Nie teraz. Porozmawiamy póŸniej...~~      ...Iskry wystrzeli³y, gdy <CHARNAME> z irytacj¹ grzeba³a patykiem w wêglach. W powietrzu unosi³ siê zapach sosnowej ¿ywicy i szczypa³ ch³ód póŸnowiosennego przymrozku. Po drugiej stronie ogniska oczy Delia lœni³y w ciemnoœci niczym bursztynowe dyski. „Dok¹d teraz ruszysz?” G³os Delia, aksamitny i mocny jak stara brandy, by³ zarazem beznamiêtny.
+     — Na pó³noc. Do Kniei Otulisko. Myœlê, ¿e znasz powody.
+     — Znam. <CHARNAME>, ja... —
+     Delio urwa³, gdy jeden z ich towarzyszy stêkn¹³ przez sen; potê¿ny wojownik wierci³ siê w kocach niczym pijany niedŸwiedŸ, by po chwili znów rozpocz¹æ chrapliwe chrapanie.
+     — Nie teraz. Porozmawiamy póŸniej...~
+
+@304  = ~      ...Iskry wystrzeli³y, gdy <CHARNAME> z irytacj¹ grzeba³ patykiem w wêglach. W powietrzu unosi³ siê zapach sosnowej ¿ywicy i szczypa³ ch³ód póŸnowiosennego przymrozku. Po drugiej stronie ogniska Delio przygl¹da³ siê, jak rozmyœla <CHARNAME>, jakby samym spojrzeniem chcia³ obna¿yæ duszê m³odego awanturnika. „Dok¹d teraz ruszysz?” G³os Delia by³ szorstki i beznamiêtny.
+     — Na pó³noc. Do Kniei Otulisko. Myœlê, ¿e znasz powody.
+     — Znam. <CHARNAME>, ja... —
+     Delio urwa³, gdy jeden z ich towarzyszy stêkn¹³ przez sen; potê¿ny wojownik wierci³ siê w kocach niczym pijany niedŸwiedŸ, by po chwili znów rozpocz¹æ chrapliwe chrapanie.
+     — ...Nie teraz. Porozmawiamy póŸniej...~~      ...Iskry wystrzeli³y, gdy <CHARNAME> z irytacj¹ grzeba³a patykiem w wêglach. W powietrzu unosi³ siê zapach sosnowej ¿ywicy i szczypa³ ch³ód póŸnowiosennego przymrozku. Po drugiej stronie ogniska Delio przygl¹da³ siê, jak rozmyœla <CHARNAME>, jakby samym spojrzeniem chcia³ obna¿yæ duszê m³odej awanturniczki. „Dok¹d teraz ruszysz?” G³os Delia by³ szorstki i beznamiêtny.
+     — Na pó³noc. Do Kniei Otulisko. Myœlê, ¿e znasz powody.
+     — Znam. <CHARNAME>, ja... —
+     Delio urwa³, gdy jeden z ich towarzyszy stêkn¹³ przez sen; potê¿ny wojownik wierci³ siê w kocach niczym pijany niedŸwiedŸ, by po chwili znów rozpocz¹æ chrapliwe chrapanie.
+     — ...Nie teraz. Porozmawiamy póŸniej...~
+
+@305  = ~      (Notatki na marginesie)
+
+----- Czy to nie za wczeœnie, by wstawiæ jakieœ „z³ociste coœ tam po¿¹dania”? – K
+
+----- Nigdy nie jest za wczeœnie. – D~
+
+
+
+@306  = ~      (Notatki na marginesie)
+
+----- „Znajomy g³os”? „Znajomy”? Znajome jest nudne. – K
+
+----- To mo¿e: „spokojny, godny zaufania g³os”. – D
+
+----- Rozwalasz mnie, Dai! „Och, próbowa³eœ mnie poca³owaæ? Wybacz, by³eœ tak *spokojny* i *godny zaufania*, ¿e zasnê³am. Chcesz spróbowaæ jeszcze raz?” – K
+
+----- Mo¿emy to nieco pog³êbiæ. Mo¿e Delio przeszed³ mutacjê o parê lat za wczeœnie? Ludziom siê to zdarza, niech bóg b³ogos³awi te ma³e brzd¹ce. Em, „pewny, chrapliwy g³os” albo „g³os aksamitny i mocny jak stara brandy”... – D
+
+----- Brandy bêdzie dobre. A skoro o tym mowa, wci¹¿ mam pó³ butelki tego dobrego trunku. Chcesz wpaœæ wieczorem i pomóc mi go dopiæ? – K~
+
+@307  = ~...Delia zacisnê³a obie d³onie na ko³nierzu drugiej kobiety i z ca³ej si³y pchnê³a j¹ na œcianê. Spojrzenie, które pos³a³a jej <CHARNAME>, spoczê³o na bladych, zwodniczo smuk³ych d³oniach Delii, a potem ona sama zaczê³a histerycznie chichotaæ.
+     — Nie! — warknê³a Delia przez zaciœniête zêby. — Nie mo¿esz siê teraz rozsypaæ. Zrób to dla mnie. Reszta siê zaszy³a – nie podziêkuj¹ ci, jeœli zawiœniesz jak pierwsza lepsza awanturnica — Grzmot znów przetoczy³ siê po niebie, a d³ugo zapowiadany deszcz lun¹³ na zau³ek, zmieniaj¹c w³osy Delii w czarne, krucze pióra i sprawiaj¹c, ¿e bia³a koszula, któr¹ mia³a na sobie <CHARNAME>, przylgnê³a do cia³a awanturniczki – nie, do ciele *zbiega*...~
+@308  = ~— Jesteœ ranna — wyszepta³a Delia, wpatruj¹c siê w rozszerzaj¹c¹ siê czerwon¹ plamê, rozlewaj¹c¹ siê na bia³ej tkaninie pod jej palcami. Przeklinaj¹c, poci¹gnê³a za sznurek ko³nierza i odchyli³a materia³. Wpatrywa³a siê w proste jak ciêcie brzytw¹ rany biegn¹ce wzd³u¿ smuk³ej szyi. Mimowolnie jej d³oñ przesunê³a siê, by zakryæ ranê, lecz zbyt lekko, by zatamowaæ krew. Czerwieñ splami³a jej palce, gdy spoczê³y na delikatnie têtni¹cym pulsie. 
+     <CHARNAME> przykry³a jej d³oñ swoj¹.~
+
+@309  = ~...Delio zacisn¹³ obie d³onie na ko³nierzu drugiego mê¿czyzny i z ca³ej si³y pchn¹³ go na œcianê. Spojrzenie, które pos³a³ jej <CHARNAME>, spoczê³o na silnych d³oniach Delia o d³ugich palcach, a on sam zacz¹³ histerycznie chichotaæ.
+     — Nie! — warkn¹³ Delio przez zaciœniête zêby. — Nie mo¿esz siê teraz rozsypaæ. Zrób to dla mnie. Reszta siê zaszy³a – nie podziêkuj¹ ci, jeœli zawiniesz jak pospolity zbir. — Grzmot znów przetoczy³ siê po niebie, a d³ugo zapowiadany deszcz lun¹³ na zau³ek, zmieniaj¹c w³osy Delia w czarne, krucze pióra i sprawiaj¹c, ¿e bia³a koszula, któr¹ mia³ na sobie <CHARNAME> przyleg³a do cia³a awanturnika – nie, do ciele *uciekiniera*...~
+@310  = ~— Jesteœ ranny — wyszepta³ Delio, wpatruj¹c w rozszerzaj¹c¹ siê czerwon¹ plamê, rozlewaj¹c¹ siê na bia³ej tkaninie pod jej palcami Przeklinaj¹c, poci¹gn¹³ za sznurek ko³nierza i odchyli³ materia³. Wpatrywa³ siê w proste jak ciêcie brzytw¹ rany biegn¹ce wzd³u¿ silnej szyi. Mimowolnie jego d³oñ przesunê³a siê, by zakryæ ranê, lecz zbyt lekko, by zatamowaæ krew. Czerwieñ splami³a jego palce, gdy spoczê³y na delikatnie têtni¹cym pulsie.
+     <CHARNAME> przykry³ jego d³oñ swoj¹.~
+
+@311  = ~...Delio zacisn¹³ obie d³onie na ko³nierzu towarzyszki i z ca³ej si³y pchn¹³ j¹ na œcianê. Spojrzenie, które pos³a³a mu <CHARNAME>, spoczê³o na silnych d³oniach Delio o d³ugich palcach, a ona sama zaczê³a histerycznie chichotaæ.
+     — Nie! — warkn¹³ Delio przez zaciœniête zêby. — Nie mo¿esz siê teraz rozsypaæ. Zrób to dla mnie. Reszta siê zaszy³a – nie podziêkuj¹ ci, jeœli zawiœniesz jak pierwsza lepsza awanturnica — Grzmot znów przetoczy³ siê po niebie, a d³ugo zapowiadany deszcz lun¹³ na zau³ek, zmieniaj¹c w³osy Delii w czarne, krucze pióra i sprawiaj¹c, ¿e bia³a koszula, któr¹ mia³a na sobie <CHARNAME>, przylgnê³a do cia³a awanturniczki – nie, do ciele *zbiega*...~
+ 
+
+
+@312  = ~— Jesteœ ranna — wyszepta³ Delio, wpatruj¹c w rozszerzaj¹c¹ siê czerwon¹ plamê, rozlewaj¹c¹ siê na bia³ej tkaninie pod jej palcami Przeklinaj¹c, poci¹gn¹³ za sznurek ko³nierza i odchyli³ materia³. Wpatrywa³ siê w proste jak ciêcie brzytw¹ rany biegn¹ce wzd³u¿ smuk³ej szyi. Mimowolnie jego d³oñ przesunê³a siê, by zakryæ ranê, lecz zbyt lekko, by zatamowaæ krew. Czerwieñ splami³a jej palce, gdy spoczê³y na delikatnie têtni¹cym pulsie. 
+     <CHARNAME> przykry³a jego d³oñ swoj¹.~
+
+@313  = ~...Delio zacisn¹³ obie d³onie na ko³nierzu stoj¹cej obok osoby i z ca³ej si³y pchn¹³ j¹ na œcianê. Spojrzenie, jakie pos³a³ jej <CHARNAME> spoczê³o na na bladych, zwodniczo smuk³ych d³oniach Delio, a <CHARNAME> zacz¹³ histerycznie chichotaæ.
+     — Nie! — warkn¹³ Delio przez zaciœniête zêby. — Nie mo¿esz siê teraz rozsypaæ. Musisz to zrobiæ dla mnie. Reszta siê zaszy³a – nie podziêkuj¹ ci, jeœli zawiœniesz jak pospolity zbir. — Grzmot znów przetoczy³ siê po niebie, a d³ugo zapowiadany deszcz lun¹³ na zau³ek, zmieniaj¹c w³osy Delio w czarne, krucze pióra i sprawiaj¹c, ¿e bia³a koszula, któr¹ mia³ na sobie <CHARNAME> przyleg³a do cia³a awanturnika – nie, do ciele *uciekiniera*...~ ~...Delio zacisn¹³ obie d³onie na ko³nierzu stoj¹cej obok osoby i z ca³ej si³y pchn¹³ j¹ na œcianê. Spojrzenie, jakie pos³a³a jej <CHARNAME> spoczê³o na na bladych, zwodniczo smuk³ych d³oniach Delio, a <CHARNAME> zaczê³a histerycznie chichotaæ.
+     — Nie! — warkn¹³ Delio przez zaciœniête zêby. — Nie mo¿esz siê teraz rozsypaæ. Musisz to zrobiæ dla mnie. Reszta siê zaszy³a – nie podziêkuj¹ ci, jeœli zawiœniesz jak pospolita awanturnica. — Grzmot znów przetoczy³ siê po niebie, a d³ugo zapowiadany deszcz lun¹³ na zau³ek, zmieniaj¹c w³osy Delio w czarne, krucze pióra i sprawiaj¹c, ¿e bia³a koszula, któr¹ mia³a na sobie <CHARNAME> przyleg³a do cia³a awanturniczki – nie, do ciele *uciekiniera*...~
+
+@314  = ~— Jesteœ ranny — wyszepta³ Delio, wpatruj¹c w rozszerzaj¹c¹ siê czerwon¹ plamê, rozlewaj¹c¹ siê na bia³ej tkaninie pod jej palcami Przeklinaj¹c, poci¹gn¹³ za sznurek ko³nierza i odchyli³ materia³. Wpatrywa³ siê w proste jak ciêcie brzytw¹ rany biegn¹ce wzd³u¿ silnej szyi. Mimowolnie jego d³oñ przesunê³a siê, by zakryæ ranê, lecz zbyt lekko, by zatamowaæ krew. Czerwieñ splami³a jego palce, gdy spoczê³y na delikatnie têtni¹cym pulsie.
+     <CHARNAME> przykry³ jego d³oñ swoj¹.~~— Jesteœ ranna — wyszepta³ Delio, wpatruj¹c w rozszerzaj¹c¹ siê czerwon¹ plamê, rozlewaj¹c¹ siê na bia³ej tkaninie pod jej palcami Przeklinaj¹c, poci¹gn¹³ za sznurek ko³nierza i odchyli³ materia³. Wpatrywa³ siê w proste jak ciêcie brzytw¹ rany biegn¹ce wzd³u¿ smuk³ej szyi. Mimowolnie jego d³oñ przesunê³a siê, by zakryæ ranê, lecz zbyt lekko, by zatamowaæ krew. Czerwieñ splami³a jego palce, gdy spoczê³y na delikatnie têtni¹cym pulsie.
+     <CHARNAME> przykry³a jego d³oñ swoj¹.~
+	 
+	 
+@315  = ~Ksiê¿yc wyjrza³ z niewielkiej wyrwy w gêstych chmurach, omiataj¹c ich mokre twarze srebrnym blaskiem. W oddali okrzyki stra¿ników P³omiennej Piêœci wzmog³y siê niczym ujadanie ogarów pod¹¿aj¹cych silnym tropem.
+     — Czas siê zbieraæ — uœmiechn¹³ siê <CHARNAME>...~~Ksiê¿yc wyjrza³ z niewielkiej wyrwy w gêstych chmurach, omiataj¹c ich mokre twarze srebrnym blaskiem. W oddali okrzyki stra¿ników P³omiennej Piêœci wzmog³y siê niczym ujadanie ogarów pod¹¿aj¹cych silnym tropem.
+     — Czas siê zbieraæ — uœmiechnê³a siê <CHARNAME>...~
+
+@316  = ~      (Notatki na marginesie)
+
+----- Co ty masz z tymi scenami z wod¹? – K
+
+----- Podnios³oœæ, interaktywna sceneria, ten odwieczny motyw p³yn¹cej wody symbolizuj¹cy silne emocje... no i nieoczekiwanie mokra tkanina, czule opiêta na zgrabnych cia³ach. – D
+
+----- Twoja argumentacja jest przekonuj¹ca. – K~
+
+@317  = ~      (Notatki na marginesie)
+
+----- A mo¿e moglibyœmy przemyciæ jakiœ w¹tek romantyczny miêdzy towarzyszami, których prowadzi <CHARNAME>? Jak¹œ scenê poca³unku! Albo mi³osne katusze. Na krostowate odmro¿enia Ogmy, potrzebujemy tu jakichœ *podtekstów*. – K
+
+----- Mogê ci pomóc z tymi podtekstami. – D~
+
+@318  = ~...— Wszystko sta³o siê jasne — og³osi³ <CHARNAME>, ruszaj¹c dziarsko przed siebie. Podeszwy jego butów stuka³y rytmicznie o bruk. — Spaczona ruda z Nashkel, tajemnicze znikniêcie dziedzica Srebrnej Gwiazdy, zmienne przepowiednie Galileusa z Lasu. Nawet ta absurdalna plaga koboldów przy Moœcie Firewine.
+     — Nie chcesz chyba powiedzieæ... — krzykn¹³ lojalny zausznik, którego prowadzi³ <CHARNAME>.
+     — Owszem. Kierunek: Pa³ac Ksi¹¿êcy!...~~...— Wszystko sta³o siê jasne — og³osi³a <CHARNAME>, ruszaj¹c dziarsko przed siebie. Obcasy jej butów stuka³y rytmicznie o bruk. — Spaczona ruda z Nashkel, tajemnicze znikniêcie dziedzica Srebrnej Gwiazdy, zmienne przepowiednie Galileusa z Lasu. Nawet ta absurdalna plaga koboldów przy Moœcie Firewine.
+     — Nie chcesz chyba powiedzieæ... — krzykn¹³ lojalny zausznik, którego prowadzi³a <CHARNAME>.
+     — Owszem. Kierunek: Pa³ac Ksi¹¿êcy!...~
+
+@319  = ~...Przysadzista, posêpna wie¿a kruszy³a siê i osiada³a, gdy <CHARNAME> oraz towarzysz¹ca mu dru¿yna wybiegli z niej co si³ w nogach. — Uff — wysapa³ poszukiwacz przygód. — Przynajmniej to ju¿ za nami. — Za ich plecami g³azy jeden po drugim osunê³y siê na ziemiê, jak gdyby czas, wyzwolony spod uroku szalonego snu Durlaga Zabójcy Trolli, pragn¹³ zmia¿d¿yæ wie¿ê niewidzialn¹, toporn¹ piêœci¹.
+     — A teraz — og³osi³ <CHARNAME> — wrócimy do miasta, do Wrót Baldura. Do wspania³ych pa³aców i krêtych zau³ków, do dziewcz¹t sprzedaj¹cych pomarañcze na skraju drogi, do flecistów, kupców, ¿eglarzy, szlachty zasiadaj¹cej na miêkkich poduszkach i tych wszystkich potê¿nych poszukiwaczy przygód, którzy trwoni¹ tam z³oto. Zamierzam do nich do³¹czyæ. Jesteœcie ze mn¹, przyjaciele?
+     Poturbowana kompania, któr¹ dowodzi³ <CHARNAME>, wyda³a radosny okrzyk.
+	— I powiem wam jeszcze jedno — mrukn¹³ pod nosem <CHARNAME> — naprawdê siê nie pogniewam, jeœli do koñca ¿ycia nie zobaczê ju¿ ¿adnego zmiennokszta³tnego...~~...Przysadzista, posêpna wie¿a kruszy³a siê i osiada³a, gdy <CHARNAME> oraz towarzysz¹ca jej dru¿yna wybiegli z niej co si³ w nogach. — Uff — wysapa³a poszukiwaczka przygód. — Przynajmniej to ju¿ za nami. — Za ich plecami g³azy jeden po drugim osunê³y siê na ziemiê, jak gdyby czas, wyzwolony spod uroku szalonego snu Durlaga Zabójcy Trolli, pragn¹³ zmia¿d¿yæ wie¿ê niewidzialn¹, toporn¹ piêœci¹.
+     — A teraz — og³osi³a <CHARNAME> — wrócimy do miasta, do Wrót Baldura. Do wspania³ych pa³aców i krêtych zau³ków, do dziewcz¹t sprzedaj¹cych pomarañcze na skraju drogi, do flecistów, kupców, ¿eglarzy, szlachty zasiadaj¹cej na miêkkich poduszkach i tych wszystkich potê¿nych poszukiwaczy przygód, którzy trwoni¹ tam z³oto. Zamierzam do nich do³¹czyæ. Jesteœcie ze mn¹, przyjaciele?
+     Poturbowana kompania, któr¹ dowodzi³a <CHARNAME>, wyda³a radosny okrzyk.
+	— I powiem wam jeszcze jedno — mruknê³a pod nosem <CHARNAME> — naprawdê siê nie pogniewam, jeœli do koñca ¿ycia nie zobaczê ju¿ ¿adnego zmiennokszta³tnego...~
+
+@320 = ~...Gdy uderzy³ silny, o¿ywczy wiatr, <CHARNAME> stan¹³ na dziobie statku, zostawiaj¹c za sob¹ duszny upa³ i szalone bestie z Zagubionej Wyspy Baldurana. Awanturnik tuli³ do piersi miecz – z³ot¹ relikwiê za³o¿yciela miasta, niezwykle skuteczn¹ przeciw zmiennokszta³tnym. W milczeniu zanosi³ b³agalne mod³y do Umberlee o pomyœlne wiatry, a najlepiej o wœciek³y sztorm, który roztrzaska³by wrêgi, byle tylko nada³ im prêdkoœci; musieli przecie¿ wróciæ do Wrót na czas...~~...Gdy uderzy³ silny, o¿ywczy wiatr, <CHARNAME> stanê³a na dziobie statku, zostawiaj¹c za sob¹ duszny upa³ i szalone bestie z Zagubionej Wyspy Baldurana. Awanturniczka tuli³a do piersi miecz – z³ot¹ relikwiê za³o¿yciela miasta, niezwykle skuteczn¹ przeciw zmiennokszta³tnym. W milczeniu zanosi³a b³agalne mod³y do Umberlee o pomyœlne wiatry, a najlepiej o wœciek³y sztorm, który roztrzaska³by wrêgi, byle tylko nada³ im prêdkoœci; musieli przecie¿ wróciæ do Wrót na czas...~
+
+
+@321  = ~...— Nie wiesz, ¿e wszyscy zabijamy to, co kochamy najbardziej? — Sêdziwy mêdrzec osun¹³ siê do przodu, a jego pomarszczona twarz wykrzywi³a siê w agonii, gdy <CHARNAME> przekrêci³ nó¿ w ranie. M³ody awanturnik pochwyci³ to w¹t³e cia³o i powoli opuœci³ je na ziemiê, by zakryæ oczy starca, zanim jeszcze zd¹¿y³y b³ysn¹æ srebrem. — Œpij spokojnie... ojcze.~~...— Nie wiesz, ¿e wszyscy zabijamy to, co kochamy najbardziej? — Sêdziwy mêdrzec osun¹³ siê do przodu, a jego pomarszczona twarz wykrzywi³a siê w agonii, gdy <CHARNAME> przekrêci³a nó¿ w ranie. M³oda awanturniczka pochwyci³a to w¹t³e cia³o i powoli opuœci³a je na ziemiê, by zakryæ oczy starca, zanim jeszcze zd¹¿y³y b³ysn¹æ srebrem. — Œpij spokojnie... ojcze.~
+
+@322  = ~      (Notatki na marginesie)
+
+----- Dai? Rozumiem, ¿e „srebrnoocy zmiennokszta³tni podszywaj¹cy siê pod bliskich” to teraz ulubiony straszak wszystkich doko³a, ale oni zaczynaj¹ mnie NAPRAWDÊ przera¿aæ. A co jeœli... nazwij mnie g³upi¹, ale co jeœli oni istniej¹ naprawdê? – K
+
+----- Sk¹d wiesz, ¿e ja to naprawdê ja, co? Musimy mieæ has³o. Gargulec. – D
+
+----- Tarta cytrynowa! – K
+
+----- Kocham ciê. – D~
+
+
+@323 = ~...<CHARNAME> opar³a swe kszta³tne ramiona o krawêdŸ wanny i z g³uchym stukniêciem odchyli³a g³owê, leniwie poruszaj¹c palcami u stóp. Jej piersi unosi³y siê lekko wœród mydlanych baniek. (Westchnê³a, wpó³ ws³uchana w g³os kochanka, wpó³ œni¹c w pachn¹cej wodzie).
+     — ...wyci¹gnêliœmy Jacka Stitchera i tego Cormyrczyka z – niewa¿ne sk¹d – i przehandlowaliœmy ten twój fikuœny sztylet z ametystem w rêkojeœci...
+     — Lubi³am ten sztylet — rzek³a <CHARNAME>, wci¹¿ nie otwieraj¹c oczu.
+     — ...koniec koñców, WSZYCY bêdziemy mieli strojne szaty na przyjêcie w pa³acu, nawet ten wasz ³owca...~
+
+@324 = ~— *B³agam*, powiedz, ¿e nie zamierzasz mnie ubraæ w krynolinê. — <CHARNAME> otworzy³a oczy i zatrzepota³a rzêsami z nadziej¹.
+     — Szerokie spódnice s¹ w tym roku krzykiem mody — odpar³ Delio, a jego bursztynowe oczy rozb³ys³y. — Podkreœlaj¹ te szerokie, em, biodra stworzone do rodzenia dzieci i, oczywiœcie, pozwalaj¹ na niezbêdn¹, rzucaj¹c¹ siê w oczy demonstracjê bogactwa materia³u.
+     (<CHARNAME> wzdrygnê³a siê).
+     — To pole bitwy jak ka¿de inne. Musimy dobraæ odpowiedni pancerz i broñ, inaczej nawet nie przejdziemy przez próg... co ty wyprawiasz?
+     <CHARNAME> zacisnê³a d³oñ na nadgarstku Delio i poci¹gnê³a go delikatnie, lecz nieub³aganie w dó³. — Czy nie powinniœmy oboje ³adnie pachnieæ? — zamrucza³a.~
+
+@325 = ~Lecz gdy Delio pochyli³ siê nad wann¹, zas³aniaj¹c œwiat³o, <CHARNAME> drgnê³a gwa³townie w wodzie.
+     — Ciii — szepn¹³ Delio, cofaj¹c siê i splataj¹c ich d³onie tak, by palce mocno do siebie przylgnê³y. — Jestem sob¹, jestem twój, nie jestem jakimœ... srebrnookim *czymœ*.
+     <CHARNAME> wziê³a g³êboki, dr¿¹cy oddech. — No dobrze. — Jej zêby b³ysnê³y w nag³ym uœmiechu. — Ale *ja* mogê nim byæ. Jak¿e, mój drogi, móg³byœ mnie... usatysfakcjonowaæ i sprawdziæ, czy to naprawdê ja?
+     W blasku lamp oczy Delio sta³y siê z³ociste i ciê¿kie od po¿¹dania, gdy przesuwa³ wzrokiem po umiêœnionym ciele, od stóp do g³ów i z powrotem. — Mam kilka pomys³ów.
+     — Lubiê wszystkie twoje pomys³y. — I przyci¹gnê³a go do siebie...~
+
+@326 = ~...<CHARNAME> opar³a swe smuk³e ramiona o krawêdŸ wanny i z g³uchym stukniêciem odchyli³a g³owê, poruszaj¹c palcami u stóp. Jej piersi unosi³y siê lekko wœród mydlanych baniek. (Westchnê³a, wpó³ ws³uchana w g³os kochanka, wpó³ œni¹c w pachn¹cej wodzie).
+     — ...wyci¹gnêliœmy Jacka Ig³ê i tego Cormyrczyka z – niewa¿ne sk¹d – i przehandlowaliœmy ten twój fikuœny sztylet z ametystem w rêkojeœci...
+     — Lubi³am ten sztylet — rzek³a <CHARNAME>, wci¹¿ nie otwieraj¹c oczu.
+     — ...koniec koñców, *wszyscy* bêdziemy mieli strojne szaty na przyjêcie w pa³acu, nawet ten wasz ³owca...~
+
+@327 = ~— *B³agam*, powiedz, ¿e nie zamierzasz mnie ubraæ w krynolinê. — <CHARNAME> otworzy³a oczy i zatrzepota³a rzêsami z nadziej¹.
+     — Szerokie spódnice s¹ w tym roku krzykiem mody — odpar³ Delio, a jego bursztynowe oczy rozb³ys³y. — Podkreœlaj¹ te szerokie, em, biodra stworzone do rodzenia dzieci i, oczywiœcie, pozwalaj¹ na niezbêdn¹, rzucaj¹c¹ siê w oczy demonstracjê bogactwa materia³u.
+     (<CHARNAME> wzdrygnê³a siê).
+     — To pole bitwy jak ka¿de inne. Musimy dobraæ odpowiedni pancerz i broñ, inaczej nawet nie przejdziemy przez próg... co ty wyprawiasz?
+     Zwinne palce, zacisnê³y siê na nadgarstku Deli. Kciuk dziewczyny zacz¹³ zataczaæ delikatne krêgi na jego pulsie, a potem poci¹gnê³a go lekko w dó³. — Czy nie powinniœmy oboje ³adnie pachnieæ? — zamrucza³a.~
+
+@328 = ~Lecz gdy Delio pochyli³ siê nad wann¹, zas³aniaj¹c œwiat³o, <CHARNAME> drgnê³a gwa³townie w wodzie.
+     — Ciii — szepn¹³ Delio, cofaj¹c siê i splataj¹c ich d³onie tak, by palce mocno do siebie przylgnê³y. — Jestem sob¹, jestem twój, nie jestem jakimœ... srebrnookim *czymœ*.
+     <CHARNAME> wziê³a g³êboki, dr¿¹cy oddech. — No dobrze. — Jej zêby b³ysnê³y w nag³ym uœmiechu. — Ale *ja* mogê nim byæ. Jak¿e, mój drogi, móg³byœ mnie... usatysfakcjonowaæ i sprawdziæ, czy to naprawdê ja?
+     W blasku lamp oczy Delio sta³y siê z³ociste i ciê¿kie od po¿¹dania, gdy przesuwa³ wzrokiem po giêtkim ciele, które ma <CHARNAME>, od stóp do g³ów i z powrotem. — Mam kilka pomys³ów.
+     — Lubiê wszystkie twoje pomys³y. — I przyci¹gnê³a go do siebie...~
+
+@329 = ~...<CHARNAME> opar³ swe mocne ramiona o krawêdŸ wanny i z g³uchym stukniêciem odchyli³a g³owê, leniwie pocieraj¹c podbródek i szyjê. (Westchn¹³, wpó³ ws³uchany w g³os kochanka, wpó³ œni¹c w pachn¹cej wodzie).
+     — ...wyci¹gnêliœmy Jacka Ig³ê i tego Cormyrczyka z – niewa¿ne sk¹d – i przehandlowaliœmy ten twój fikuœny sztylet z ametystem w rêkojeœci...
+     — Lubi³em ten sztylet — rzek³ <CHARNAME>, wci¹¿ nie otwieraj¹c oczu.
+     — ...koniec koñców, *wszyscy* bêdziemy mieli strojne szaty na przyjêcie w pa³acu, nawet ten wasz ³owca...~
+
+@330 = ~— *B³agam*, powiedz, ¿e nie zamierzasz mnie ubraæ w pludry. — <CHARNAME> spojrza³ na Delio b³agalnie.
+     — Wielkie spodnie s¹ w tym roku krzykiem mody — odpar³ Delio, a jego bursztynowe oczy rozb³ys³y. — Podkreœlaj¹ te szerokie, em, biodra stworzone do p³odzenia dzieci i, oczywiœcie, pozwalaj¹ na niezbêdn¹, rzucaj¹c¹ siê w oczy demonstracjê bogactwa materia³u.
+     (<CHARNAME> wzdrygn¹³ siê).
+     — To pole bitwy jak ka¿de inne. Musimy dobraæ odpowiedni pancerz i broñ, inaczej nawet nie przejdziemy przez próg... co ty wyprawiasz?
+     <CHARNAME> zacisn¹³ d³oñ na nadgarstku Delio i poci¹gn¹³ go delikatnie, lecz nieub³aganie w dó³. — Czy nie powinniœmy oboje ³adnie pachnieæ? — zamrucza³.~
+
+@331 = ~Lecz gdy Delio pochyli³ siê nad wann¹, zas³aniaj¹c œwiat³o, <CHARNAME> drgn¹³ gwa³townie w wodzie.
+     — Ciii — szepn¹³ Delio, cofaj¹c siê i splataj¹c ich d³onie tak, by palce mocno do siebie przylgnê³y. — Jestem sob¹, jestem twój, nie jestem jakimœ... srebrnookim *czymœ*.
+     <CHARNAME> wzi¹³ g³êboki, dr¿¹cy oddech. — No dobrze. — Jego zêby b³ysnê³y w nag³ym uœmiechu. — Ale *ja* mogê nim byæ. Jak¿e, mój drogi, móg³byœ mnie... usatysfakcjonowaæ i sprawdziæ, czy to naprawdê ja?
+     W blasku lamp oczy Delio sta³y siê z³ociste i ciê¿kie od po¿¹dania, gdy przesuwa³ wzrokiem po umiêœnionym ciele, które ma <CHARNAME>, od stóp do g³ów i z powrotem. — Mam kilka pomys³ów.
+     — Lubiê wszystkie twoje pomys³y. — I przyci¹gn¹³ Delio do siebie...~
+	 
+	 
+@332 = ~...<CHARNAME> opar³ swe giêtkie ramiona o krawêdŸ wanny i z g³uchym stukniêciem odchyli³ g³owê, leniwie pocieraj¹c podbródek i szyjê. (Westchn¹³, wpó³ ws³uchany w g³os kochanka, wpó³ œni¹c w pachn¹cej wodzie).
+     — ...wyci¹gnêliœmy Jacka Ig³ê i tego Cormyrczyka z – niewa¿ne sk¹d – i przehandlowaliœmy ten twój fikuœny sztylet z ametystem w rêkojeœci...
+     — Lubi³em ten sztylet — rzek³ <CHARNAME>, wci¹¿ nie otwieraj¹c oczu.
+     — ...koniec koñców, *wszyscy* bêdziemy mieli strojne szaty na przyjêcie w pa³acu, nawet ten wasz ³owca...~
+
+@333 = ~— *B³agam*, powiedz, ¿e nie zamierzasz mnie ubraæ w pludry. — <CHARNAME> spojrza³ na Delio b³agalnie.
+     — Wielkie spodnie s¹ w tym roku krzykiem mody — odpar³ Delio, a jego bursztynowe oczy rozb³ys³y. — Podkreœlaj¹ te szerokie, em, biodra stworzone do p³odzenia dzieci i, oczywiœcie, pozwalaj¹ na niezbêdn¹, rzucaj¹c¹ siê w oczy demonstracjê bogactwa materia³u.
+     (<CHARNAME> wzdrygn¹³ siê).
+     — To pole bitwy jak ka¿de inne. Musimy dobraæ odpowiedni pancerz i broñ, inaczej nawet nie przejdziemy przez próg... co ty wyprawiasz?
+     Zwinne palce, które ma <CHARNAME>, zacisnê³y siê na nadgarstku Delio; kciuk mê¿czyzny zacz¹³ zataczaæ delikatne krêgi na jego pulsie, a potem poci¹gn¹³ go lekko w dó³. — Czy nie powinniœmy oboje ³adnie pachnieæ? — zamrucza³.~
+
+@334 = ~(Notatki na marginesie)
+– Na przyjêcie! Wielmo¿ni i wspaniali goœcie, tyle œlicznych sukien, ¿e a¿ krêci siê w g³owie, te cudowne schody i, och! ¿yrandole, na których mo¿na siê huœtaæ! – D
+– Mo¿emy domkn¹æ ten w¹tek z zaginionym ch³opcem Srebrnych Tarcz... to znaczy, „Srebrnych Gwiazd”. – K
+– A jeœli nie podoba im siê, ¿e ich piêkne przyjêcie w pa³acu zostaje obsmarowane w popularnej prozie, to nastêpnym razem niech dadz¹ nam zaproszenia! – D
+– Wiesz... czy <CHARNAME> u¿ywa rapiera? – K~
+
+@335 = ~(Notatki na marginesie)
+– Dzieciak w ka¿dym razie wygl¹da na kogoœ, kto potrafi zwinnie pomykaæ miêdzy nogami. WyobraŸ sobie: sytuacja bez wyjœcia, lojalny towarzysz rzuca po marmurowej posadzce jak¹œ broñ, <CHARNAME> chwyta j¹ w ostatniej chwili, gdy pêdzi na niego zakuty w stal brutal z wielkim dwurêcznym mieczem. I nagle – ciach! Smuk³e ostrze trafia prosto w gard³o osi³ka, a ten wali siê na ziemiê niczym lawina (muszê znaleŸæ lepsze porównanie). Ale nie ma czasu na podziwianie widoków, bo po drugiej stronie sali, za wywróconym sto³em z ponczem, em... – D
+– Brzmi nieŸle. Kogo ustaliliœmy jako g³ównego z³ego? – K
+– To siê wyjaœni w swoim czasie, jestem pewien. – D~~(Notatki na marginesie)
+– Dzieciak w ka¿dym razie wygl¹da na kogoœ, kto potrafi zwinnie pomykaæ miêdzy nogami. WyobraŸ sobie: sytuacja bez wyjœcia, lojalny towarzysz rzuca po marmurowej posadzce jak¹œ broñ, <CHARNAME> chwyta j¹ w ostatniej chwili, gdy pêdzi na ni¹ zakuty w stal brutal z wielkim dwurêcznym mieczem. I nagle – ciach! Smuk³e ostrze trafia prosto w gard³o osi³ka, a ten wali siê na ziemiê niczym lawina (muszê znaleŸæ lepsze porównanie). Ale nie ma czasu na podziwianie widoków, bo po drugiej stronie sali, za wywróconym sto³em z ponczem, em... – D
+– Brzmi nieŸle. Kogo weŸmiemy na g³ównego przeciwnika? – K
+– To siê wyjaœni w swoim czasie. – D~
+
+@336 = ~(Notatki na marginesie)
+– Ma³o prawdopodobne. Co powiesz na olœniewaj¹cy pokaz magii, zarówno tej ziemskiej, jak i boskiej – ogieñ, lód, sypi¹ce siê mury, gdy pa³ac zostaje koszmarnie uszkodzony przez wszystkie œmigaj¹ce wokó³ zaklêcia, chodz¹ce szkielety i cienie, t³umy wrzeszcz¹cych ludzi uciekaj¹cych przed niedŸwiedziami, a *sama tkanka rzeczywistoœci* zdaje siê zachwiana i rozdarta. – D
+– W koñcu, <CHARNAME> zostaje ostatecznie wyprany z magicznej iskry i wszystko zdaje siê stracone... Ale czekaj! – <CHARNAME> zapada w nieopisany stan medytacji... – K
+– Booyah! B³yskawica prosto w twarz – kogo to mieliœmy jako g³ównego wroga? – D
+– To siê wyjaœni w swoim czasie. – K~~(Notatki na marginesie)
+– Ma³o prawdopodobne. Co powiesz na olœniewaj¹cy pokaz magii, zarówno tej ziemskiej, jak i boskiej – ogieñ, lód, sypi¹ce siê mury, gdy pa³ac zostaje koszmarnie uszkodzony przez wszystkie œmigaj¹ce wokó³ zaklêcia, chodz¹ce szkielety i cienie, t³umy wrzeszcz¹cych ludzi uciekaj¹cych przed niedŸwiedziami, a *sama tkanka rzeczywistoœci* zdaje siê zachwiana i rozdarta. – D
+– W koñcu, <CHARNAME> zostaje ostatecznie wyprana z magicznej iskry i wszystko zdaje siê stracone... Ale czekaj! – <CHARNAME> zapada w nieopisany stan medytacji... – K
+– Booyah! B³yskawica prosto w twarz – kogo to mieliœmy jako g³ównego wroga? – D
+– To siê wyjaœni w swoim czasie. – K~
+
+@337 = ~(Notatki na marginesie)
+– Eh, dla mnie <CHARNAME> wygl¹da raczej na typa, który prêdzej uci¹³by kawa³ek porz¹dnego dr¹ga i ewentualnie przywi¹za³ nó¿ na koñcu. ¯adnych rapierów. – D
+– To ma³o eleganckie jak na Pa³ac Ksi¹¿êcy. A gdyby tak laska z tarniny, któr¹ mia³ ksi¹¿ê Belt? WyobraŸ sobie: sytuacja jest beznadziejna, <CHARNAME> wyrywa j¹ z jego bezw³adnej d³oni i wywija ni¹ z gracj¹ mistrza kija, gromi¹c... te ca³e legiony bezimiennych, lecz zabójczych s³ugusów, którzy osaczaj¹ najbli¿szych towarzyszy, których prowadzi <CHARNAME>... – K
+– To by mog³o przejœæ. – D
+– Kto ma byæ naszym g³ównym wrogiem? – K
+– To siê wyjaœni w swoim czasie. – D~~(Notatki na marginesie)
+– Eh, dla mnie <CHARNAME> wygl¹da raczej na kogoœ, kto prêdzej uci¹³by kawa³ek porz¹dnego dr¹ga i ewentualnie przywi¹za³ nó¿ na koñcu. ¯adnych rapierów. – D
+– To ma³o eleganckie jak na Pa³ac Ksi¹¿êcy. A gdyby tak laska z tarniny, któr¹ mia³ ksi¹¿ê Belt? WyobraŸ sobie: sytuacja jest beznadziejna, <CHARNAME> wyrywa j¹ z jego bezw³adnej d³oni i wywija ni¹ z gracj¹ mistrzyni kija, gromi¹c... te ca³e legiony bezimiennych, lecz zabójczych s³ugusów, którzy osaczaj¹ najbli¿szych towarzyszy, których prowadzi <CHARNAME>... – K
+– To by mog³o przejœæ. – D
+– Kto ma byæ naszym g³ównym wrogiem? – K
+– To siê wyjaœni w swoim czasie, jestem pewien. – D~
+
+@338 = ~(Notatki na marginesie)
+– Dla mnie <CHARNAME> wygl¹da raczej na kogoœ, kto za³atwia sprawy go³ymi piêœciami. Taki zadumany zabijaka. Widzê to tak: gra w kotka i myszkê w sali pe³nej luster i parawanów, labirynt ruchomych obrazów, tropienie wrogów po samym oddechu i odg³osie kroków... Do tego unik przed no¿em gibkiego ninja z Kara-Tur, a w finale po prostu przebicie siê piêœci¹ przez dêbowe drzwi, by dopaœæ ostatniego, okrutnego przeciwnika. – D
+– Brzmi nieŸle. Kogo ustaliliœmy jako g³ównego wroga? – K
+– To siê wyjaœni w swoim czasie. – D~~(Notatki na marginesie)
+– Dla mnie <CHARNAME> wygl¹da raczej na kogoœ, kto za³atwia sprawy go³ymi piêœciami. Taka zadumana awanturniczka. Widzê to tak: gra w kotka i myszkê w sali pe³nej luster i parawanów, labirynt ruchomych obrazów, tropienie wrogów po samym oddechu i odg³osie kroków... Do tego unik przed no¿em gibkiej ninja z Kara-Tur, a w finale po prostu przebicie siê piêœci¹ przez dêbowe drzwi, by dopaœæ ostatniego, okrutnego przeciwnika. – D
+– Brzmi nieŸle. Kogo ustaliliœmy jako g³ównego wroga? – K
+– To siê wyjaœni w swoim czasie. – D~
+
+
+
+@339 = ~(Ostatni rozdzia³ nie zosta³ napisany...)~
+
+@340 = ~... gigantyczne, czerwone, z³oœliwe oko!~
+
+@341 = ~Plotka g³osi, ¿e z kopalni Nashkel uratowa³eœ kogoœ drobnego i ca³kiem urodziwego.~~Plotka g³osi, ¿e z kopalni Nashkel uratowa³aœ kogoœ drobnego i ca³kiem urodziwego.~
+
+@342 = ~[Dai] A co z tym napakowanym amantem, który sterczy ci za plecami?~
+@343 = ~[Kitty] Œwietnie wygl¹da³by pan na ok³adce, panie rycerzu. Honoraria móg³by pan oddaæ na cele charytatywne albo wydaæ na pastê do zbroi. (My nie oceniamy).~
+
+@344 = ~[Ajantis] Niestety, panno Kitty, panie Dai, z³o¿y³em rodzinie uroczyst¹ obietnicê, ¿e bêdê trzyma³ siê z dala od... pewnego rodzaju literatury..~
+
+@345 = ~[Dai] Ach, stara, poczciwa przysiêga: „¿adnych brukowców, ballad ani taniej beletrystyki”. Nie wiedzia³em, ¿e szlacheckie rody wci¹¿ to kultywuj¹.~
+@346 = ~[Ajantis] Moja matka bardzo ceni dawne tradycje.~
+@347 = ~[Kitty] <CHARNAME>? A co z t¹ pos¹gow¹ blondynk¹ u twego boku?~
+@348 = ~[Dai] Moglibyœmy opisaæ pani¹ w sposób doprawdy godny, ³askawa pani.~
+@349 = ~[Kitty] A co z t¹ gwieŸdzist¹ noc¹, gdy nagle zachcia³o nam siê szukaæ ig³y, <CHARNAME>? To by³o doprawdy rozkoszne: i to szukanie w *bardzo* wielkim stogu siana...~
+@350 = ~[Dai] Albo ten raz, gdy... ale ciii, Kitty, opowiem ci to z dala od delikatnych, mêskich uszu... *szepcze*~
+@351 = ~[Kitty] (prycha) To mo¿e byæ odrobinê *zbyt* pikantne dla naszych czytelników. (Nigdy nie s¹dzi³am, ¿e to powiem).~
+@352 = ~[player] Co on jej tam wyszepta³?~
+@353 = ~[Kitty] (PóŸniej, Dai).~
+@354 = ~[Coran] W ¿yciu ka¿dego z nas przychodzi chwila, gdy wzywa nas wy¿szy cel. To przera¿aj¹ce i ucz¹ce pokory, a jednak towarzyszy temu poczucie nieopisanej s³usznoœci... Z pokor¹ wiêc oferujê siebie jako bo¿yszcze seksu w waszej ksi¹¿ce.~
+@355 = ~[Kitty] Doprawdy, Coran? Ty?~
+@356 = ~[Dai] Po tym, jak zwia³eœ z miasta, zostawiaj¹c nam niedokoñczony „Modlitewnik Hanali: Sekrety mi³osnego elfa” i niepop³acone rachunki w barach w ca³ym mieœcie?~
+@357 = ~[Coran] Wys³a³em resztê moich notatek, kiedy tylko stra¿nicy œwi¹tynni przestali mnie œcigaæ...~
+@358 = ~[Kitty] Tak. Wys³a³eœ. NASZEJ KONKURENCJI!~
+@359 = ~[Dynaheir] Nie.~
+@360 = ~[Dai] Ale...~
+@361 = ~[Dynaheir] Moje relacje z przywódc¹ grupy nie s¹ na sprzeda¿ ani ku uciesze gawiedzi.~~[Dynaheir] Moje relacje z przywódczyni¹ grupy nie s¹ na sprzeda¿ ani ku uciesze gawiedzi.~
+@362 = ~[Dai] *wzdycha* Skoro tak sobie pani ¿yczy.~
+@363 = ~[Kitty] Kogo wiêc widzisz w roli swojej drugiej po³ówki? Mo¿e tê wojowniczkê z t¹ mocno sfatygowan¹ broni¹? (Niebezpieczne kobiety s¹ teraz w modzie).~
+@364 = ~[Shar-Teel] Chcecie mnie wsadziæ do ksi¹¿ki, wy ma³e pokurcze? Mog³abym was zmia¿d¿yæ samym kciukiem.~
+@365 = ~[Dai] (kaszle) Em, prosimy... nie czuj siê w obowi¹zku nam tego demonstrowaæ.~
+@366 = ~[Shar-Teel] To ¿aden k³opot. Patrz – kciuk wykrêca siê w³aœnie tak...~
+
+@367 = ~[Dai] Dopóki ca³e Candlekeep nie zmieni³o siê w stertê paruj¹cych odchodów minotaura. Tak przynajmniej s³yszeliœmy.~
+
+@368 = ~[Kitty] To w koñcu jaka jest prawda – robisz ludzi w konia? Czy mo¿e...~
+@369 = ~[player] Wrobiono mnie!~
+@370 = ~[player] S³uchajcie, z prawem nie zawsze mi po drodze, ale brzmi to znacznie gorzej, ni¿ jest w rzeczywistoœci. Naprawdê jestem ca³kiem mi³y – mo¿ecie zaufaæ tak uczciwej i godnej zaufania twarzy jak moja...~~[player] S³uchajcie, z prawem nie zawsze mi po drodze, ale brzmi to znacznie gorzej, ni¿ jest w rzeczywistoœci. Naprawdê jestem ca³kiem mi³a – mo¿ecie zaufaæ tak uczciwej i godnej zaufania twarzy jak moja...~
+@371 = ~[player] Mia³em ku temu dobre powody. Wierzcie mi, ¿al nie odstêpuje mnie na krok, ale wszystko, co zrobi³em, by³o podyktowane najlepszymi intencjami...~~[player] Mia³am ku temu dobre powody. Wierzcie mi, ¿al nie odstêpuje mnie na krok, ale wszystko, co zrobi³am, by³o podyktowane najlepszymi intencjami...~
+
+
+@372 = ~Lecz gdy Delio pochyli³ siê nad wann¹, zas³aniaj¹c œwiat³o, <CHARNAME> drgn¹³ gwa³townie w wodzie.
+— Ciii — szepn¹³ Delio, cofaj¹c siê i splataj¹c ich d³onie tak, by palce mocno do siebie przylgnê³y. — Jestem sob¹, jestem twój, nie jestem jakimœ... srebrnookim *czymœ*.
+<CHARNAME> wzi¹³ g³êboki, dr¿¹cy oddech. — No dobrze. — Jego zêby b³ysnê³y w nag³ym uœmiechu. — Ale *ja* mogê nim byæ. Jak¿e, mój drogi, móg³byœ mnie... usatysfakcjonowaæ i sprawdziæ, czy to naprawdê ja?
+W blasku lamp oczy Delio sta³y siê z³ociste i ciê¿kie od po¿¹dania, gdy przesuwa³ wzrokiem po smuk³ym ciele <CHARNAME>, od stóp do g³ów i z powrotem.
+— Mam kilka pomys³ów.
+— Lubiê wszystkie twoje pomys³y. — I przyci¹gn¹³ Delio do siebie...~

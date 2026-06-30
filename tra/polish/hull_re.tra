@@ -1,0 +1,55 @@
+@0    = ~[Hull] Wybrzeże Mieczy potrzebuje takich ludzi jak ty. Pomocnych. Ciągle jednak z ciebie dzieciak, musisz jeszcze trochę poćwiczyć.~
+@1    = ~[Hull] No, słuchaj... chyba nie wygadałeś się Gorionowi, co?~~[Hull] No, słuchaj... chyba nie wygadałaś się Gorionowi, co?~
+
+@2    = ~[player] O czym?~
+@3    = ~[player] Nie i nie mam teraz czasu na rozmowy. Powodzenia w pracy.~
+@4    = ~[Hull] O tym, że golnąłem sobie piwo na służbie i że tobie też proponowałem. Twój ojciec byłby wściekły, gdyby dowiedział się, że oferowałem jego dziecku alkohol, i to w czasie, gdy miałem pilnować bramy!~
+@5    = ~[player] Daj spokój, Hullu! Nie jestem już dzieckiem. Jestem tylko kilka lat młodszy od ciebie, więc przestań udawać, że mam dwanaście lat, dobrze? Poza tym, MOGĘ pić alkohol.~~[player] Daj spokój, Hullu! Nie jestem już dzieckiem. Jestem tylko kilka lat młodsza od ciebie, więc przestań udawać, że mam dwanaście lat, dobrze? Poza tym, MOGĘ pić alkohol.~
+@6    = ~[player] Jesteś skrajnie nieodpowiedzialny i powinieneś się cieszyć, że nikt nie dowiedział się o twoim piciu. Wybacz, ale oddałem ci już miecz, więc wracaj do swoich obowiązków. Ja też mam co robić.~~[player] Jesteś skrajnie nieodpowiedzialny i powinieneś się cieszyć, że nikt nie dowiedział się o twoim piciu. Wybacz, ale oddałam ci już miecz, więc wracaj do swoich obowiązków. Ja też mam co robić.~
+@7    = ~[Hull] Więc nikomu nie powiesz?~
+@8    = ~[player] Nie, nie... możesz spać spokojnie. Nie zapominaj jednak, że mam cię na oku! Pamiętasz, co obiecałeś? Mieliśmy się jeszcze kiedyś napić!~
+@9    = ~[player] Nadal boisz się o własną skórę? Nie, Gorion nic o niczym nie wie. Zresztą poważnie mówiąc, nie powinieneś pić na służbie. Co, gdyby ktoś zaatakował Candlekeep?~
+@10   = ~[player] Bogowie, jesteś strasznie irytujący! Jeszcze jedno słowo i powiem o wszystkim Gorionowi i Mistrzowi Bramy. Wybacz, muszę już iść.~~[player] Bogowie, jesteś strasznie irytująca! Jeszcze jedno słowo i powiem o wszystkim Gorionowi i Mistrzowi Bramy. Wybacz, muszę już iść.~
+@11   = ~[Hull] E tam, w Candlekeep nigdy nic się nie dzieje!~
+@12   = ~[player] Nie byłbym tego taki pewien. Obawiam się, że wkrótce może się to zmienić.~~[player] Nie byłabym tego taka pewna. Obawiam się, że wkrótce może się to zmienić.~
+@13   = ~[player] Pewnie masz rację.~
+@14   = ~[player] Nieważne. Muszę iść.~
+@15   = ~[Hull] No tak, jasne, ale pewnie nie dzisiaj.~
+@16   = ~[player] Nie mam pewności, czy jutro jeszcze tu będę...~
+@17   = ~[player] Nieważne. Muszę już iść, Hullu. Żegnaj.~
+@18   = ~[Hull] Eee tam. Spójrz na te mury. Zawsze tak było - Candlekeep swoje, a reszta świata swoje.~
+@19   = ~[Hull] Nic dziwnego, że raz na jakiś czas muszę wychylić kufla. Nawet jeśli akurat wypadła mi warta.~
+@20   = ~[player] Doszły mnie pewne słuchy...~
+@21   = ~[Hull] Miałem cię spytać... Słyszałem jak Deder mówił Ospreyowi, że Winthrop powiedział Dreppinowi, że Gorion wspomniał... zaraz, odchodzisz?~
+@22    = ~[player] Tak, niestety. Dlaczego pytasz? Będzie pan za mną tęsknił, panie strażniku?~
+@23   = ~[player] Tak, w końcu. Ledwo mogłem wytrzymać tę senną atmosferę.~~[player] Tak, w końcu. Ledwo mogłam wytrzymać tę senną atmosferę.~
+@24   = ~[player] Nie jestem pewien.~~[player] Nie jestem pewna.~
+@25   = ~[player] To nie twoja sprawa. Muszę już iść.~
+@26   = ~[Hull] Co?! Chyba w twoich snach! No, może odrobinę...~
+@27   = ~[Hull] Rozumiem.~
+@28   = ~[Hull] Ech, bez ciebie to miejsce stanie się jeszcze nudniejsze. Wiem, wiem, wszyscy tutaj posiadają ogromną wiedzę, ale tylko garstka z nich wie, jak się zrelaksować, zagrać w „pijanego pająka” i takie tam.~
+@29   = ~[player] Wiem. Będę za tobą tęsknił, Hullu. Wiesz, nie wiem, czy ci to kiedyś mówiłem, ale jesteś naprawdę w porządku. No, czasem straszny z ciebie leniuch, wciąż nazywasz mnie dzieciakiem i zapominasz o kąpieli, ale...~~[player] Wiem. Będę za tobą tęskniła, Hullu. Wiesz, nie wiem, czy ci to kiedyś mówiłam, ale jesteś naprawdę w porządku. No, czasem straszny z ciebie leniuch, wciąż nazywasz mnie dzieciakiem i zapominasz o kąpieli, ale...~
+@30   = ~[player] Jakoś będziesz musiał to przeżyć. No i pamiętaj – oni spróbują cię zanudzić na śmierć. Jak zrobi się zbyt poważnie, to wspomnij moje słowa - jest taka jedna beczka, której Winthrop rzadko zagląda do środka. Ta w rogu. *mruga*~
+
+@31   = ~[player] To już twój problem, Hullu. Ludzie czasem odchodzą. Naprawdę myślałeś, że zostanę tu na zawsze? Ha! Ruszam w świat. Ty też powinieneś zostawić Candlekeep za sobą. A teraz wybacz, mam sprawy do załatwienia.~
+@32   = ~[Hull] No, no! Wystarczy! Rozumiem, naprawdę!~
+@33   = ~[Hull] Heh, dzięki, będę o tym pamiętał! I wypiję za twoje zwycięstwo. Gdziekolwiek cię los rzuci, wychyl raz na jakiś czas kielich i za moje zdrowie.~
+
+@34   = ~[Hull] Wiesz, jest jeszcze coś. Zawsze myślałem, że spędzimy ze sobą trochę czasu, a teraz... pewnie jest już za późno. Ty zawsze potrafiłeś mnie pocieszyć, młody. Nawet jak Mistrz Bramy był wrzodem na tyłku, ty coś mówiłeś i znowu wracał mi humor.~~[Hull] Wiesz, jest jeszcze coś. Zawsze myślałem, że spędzimy ze sobą trochę czasu, a teraz... pewnie jest już za późno. Ty zawsze potrafiłaś mnie pocieszyć, młoda. Nawet jak Mistrz Bramy był wrzodem na tyłku, ty coś mówiłaś i znowu wracał mi humor.~
+
+@35   = ~[player] To jakaś propozycja?~
+@36   = ~[player] Zawsze można zapytać...~
+@37   = ~[player] Przepraszam, ale się spieszę. Jestem pewien, że jeszcze się kiedyś spotkamy. Żegnaj.~~[player] Przepraszam, ale się spieszę. Jestem pewna, że jeszcze się kiedyś spotkamy. Żegnaj.~
+@38   = ~[Hull] Wiesz, nikt by nie zauważył, gdybyśmy zniknęli na chwilę lub dwie. Tam, z tyłu... Chciałbym się pożegnać po mojemu. Zawsze chciałem pobyć z tobą sam na sam.~
+@39   = ~[player] Nie zauważyli, że piliśmy, więc nie zauważą też twojej małej przerwy. Chodź, Hullu. Nie chcę żałować straconych okazji.~
+@40   = ~[player] Nie jestem zainteresowany, Hullu, więc wracaj do pracy. Muszę się przygotować. Dzisiaj wyruszamy. Żegnaj.~~[player] Nie jestem zainteresowana, Hullu, więc wracaj do pracy. Muszę się przygotować. Dzisiaj wyruszamy. Żegnaj.~
+@41   = ~[Hull] Jestem pewien, młody, że żadne z nas nie będzie niczego żałować.~~[Hull] Jestem pewien, młoda, że żadne z nas nie będzie niczego żałować.~
+@42   = ~[Hull] Ech, idź, skoro musisz. Powinienem chyba wyczyścić ostrze. Tak na wszelki wypadek. Nie chcę, żeby zardzewiało.~
+@43   = ~[Hull] Było miło. Od razu lżej będzie wytrwać na służbie... zwłaszcza że wciąż czuję twój zapach, młody. Chciałbym móc ruszyć z tobą, ale...~~[Hull] Było miło. Od razu lżej będzie wytrwać na służbie... zwłaszcza że wciąż czuję twój zapach, młoda. Chciałbym móc ruszyć z tobą, ale...~
+@44   = ~[Hull] Słuchaj, weź mój miecz. To porządne ostrze, możesz mu zaufać. Przez te problemy z żelazem trudno o broń, na której można polegać. Nie jest magiczny, ale przynajmniej tak łatwo się nie złamie!~
+@45   = ~[player] Dziękuję, Hullu.~
+@46   = ~[player] Nie potrzebuję go.~
+@47   = ~[Hull] Zatrzymaj go, proszę. Może ci się przydać. Nie chcę, żebyś odchodził bezbronny.~~[Hull] Zatrzymaj go, proszę. Może ci się przydać. Nie chcę, żebyś odchodziła bezbronna.~
+@48   = ~[Hull] Po prostu uważaj na siebie. To żelazo i bandyci... Żyjemy w naprawdę niebezpiecznych czasach.~
+@49   = ~[Hull] Co? Cóż, w takim razie go nie bierz. Myślałem, że docenisz ten gest.~
+@50   = ~[Hull] Rozumiem. Pewnie kupiłeś już jakąś broń. To zrozumiałe. Po prostu uważaj na siebie. Ludzie mówią, że szlaki stały się ostatnio naprawdę niebezpieczne.~~[Hull] Rozumiem. Pewnie kupiłaś już jakąś broń. To zrozumiałe. Po prostu uważaj na siebie. Ludzie mówią, że szlaki stały się ostatnio naprawdę niebezpieczne.~

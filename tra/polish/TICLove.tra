@@ -1,0 +1,57 @@
+@0    = ~[Cordelia](śpiewa) Jutro rano biorę ślub...~
+@1    = ~[Dispero]Ach, ukochana! Nadszedł dzień, na który tak czekaliśmy.~
+@2    = ~[Cordelia]Tak, najdroższy. Pamiętasz nasze pierwsze spotkanie? Pilnowałeś wejścia do komnat Davaeorna, a ja pracowałam ze Stephenem nad różdżkami...~
+@3    = ~[Dispero]Pamiętam, choć wydaje się, jakby to było wieki temu. Uzupełniałaś wtedy różdżki magicznych pocisków... i nagle zobaczyłem twoją śliczną buzię po drugiej stronie komnaty. Upuściłaś pocisk, a ja ledwo zdążyłem zrobić unik! (śmieje się) To było ledwie pół roku temu?~
+@4    = ~[Cordelia]To był wypadek! Naprawdę!~
+@5    = ~[Dispero]Wiem, kochana...~
+@6    = ~[Cordelia]*wzdycha* Gdy pierwszy raz cię ujrzałam... Bogowie, byłeś taki pociągający! Ta pewność siebie, te mięśnie! Ręce mi drżały tak bardzo, że palce same zacisnęły się na różdżce! Kochany, nie przypuszczałam wtedy, jak ważny się dla mnie staniesz, ale od pierwszej chwili wiedziałam, że cię chcę. Pocałuj mnie, Dispero!~
+@7    = ~[Dispero](całują się) Jak słodko smakujesz! Cóż, mamy przed sobą całe życie, by się tym cieszyć. Ciekawe, kiedy przybędzie kapłan? Był tutaj jeszcze rano...~
+@8    = ~[Cordelia]Najdroższy... zdaje się, że nasi goście właśnie nadchodzą.~
+@9    = ~[Dispero]Tak. Pozwól, że się nimi zajmę... Chwileczkę! Kim jesteście?~
+
+@10   = ~[player]Nieproszonymi gośćmi weselnymi. Co jest? Nie ma szampana ani ciasta?~
+@11   = ~[player]Nazywam się <CHARNAME>. Przybywamy tu z moją drużyną, by uwolnić niewolników i zamknąć tę kopalnię.~
+@12   = ~[player]To nieistotne! Gadaj, gdzie znajdziemy zarządcę kopalni?~
+
+@13   = ~[Dispero]Nie zapraszaliśmy was. Muszę prosić, byście natychmiast stąd odeszli.~
+@14   = ~[Cordelia]Czekaj, ukochany, dowiedzmy się, czego chcą... Spójrz na nich! Są utytłani krwią, widać, że niedawno walczyli... Może te krzyki, które słyszeliśmy, wcale nie należały do ofiar ogrzego maga. Dzisiaj jest mój ślub... Nie chcę umierać!~
+@15   = ~[Dispero]Nie martw się, skarbie... ochronię cię. Czego od nas chcecie?~
+
+@16   = ~[player]Szukamy waszego szefa, który trzęsie tą kopalnią. Powiedzcie, gdzie on jest, a puścimy was wolno.~
+@17   = ~[player]Niczego. Po prostu tędy przechodzimy. Radzę wam stąd znikać.~
+@18   = ~[player]Chcemy waszej śmierci.~
+
+@19   = ~[Dispero]Hej! Nie pozwolę wam na to!~
+@20   = ~[Cordelia]Czekaj, kochanie... Spójrz na nich! Są zabryzgani krwią, widać, że dopiero co kogoś zabili... Może te wrzaski, które słyszeliśmy, to wcale nie sprawka potworów. Nie bądź głupcem, nie marnuj naszego życia przez jakieś niepoważne poczucie obowiązku. Dzisiaj jest mój ślub... nie chcę umierać!~
+@21   = ~[Dispero]Nie bój się, słońce... Cokolwiek się stanie, będę cię chronił. Słuchaj, kimkolwiek jesteś... <CHARNAME>... Po twoim wyglądzie sądzę, że wyrżnąłeś połowę kopalni, żeby tu dotrzeć...~~[Dispero]Nie bój się, słońce... Cokolwiek się stanie, będę cię chronił. Słuchaj, kimkolwiek jesteś... <CHARNAME>... Po twoim wyglądzie sądzę, że wyrżnęłaś połowę kopalni, żeby tu dotrzeć...~
+@22   = ~[Dispero]Planowaliśmy ten ślub i miodowy miesiąc od tygodni. Technicznie rzecz biorąc, jestem na urlopie. Przez wzgląd na moją damę, moglibyście po prostu udać, że nas nie widzieliście?~
+
+@23   = ~[player]Po prostu tędy przechodzimy. Radzę wam stąd znikać.~
+
+@24   = ~[Dispero]Szukasz Davaeorna? Nie mogę go wydać! Muszę chronić...~
+@25   = ~[Cordelia]Mnie!! Musisz chronić mnie!! Na nasze wesele wpadła banda nawiedzonych fanatyków, a ty myślisz tylko o ochronie faceta, któremu nawet nie chciało się tu przyjść! NIE! Nie poświęcę naszego życia dla głupich zasad. Dzisiaj jest mój ślub... nie chcę umierać!~
+@26   = ~[Dispero]Nie martw się, słońce... Cokolwiek się stanie, będę cię chronił.~
+@27   = ~[Dispero]Posłuchaj... najwyraźniej wyrzynacie naszych kolegów jak leci, skoro zaszliście aż tutaj. Pewnie powinienem spróbować was powstrzymać...~
+@28   = ~[Cordelia]Ale to MÓJ ślub! Nie pozwolę na to! Nie zamierzam poświęcać reszty naszej przyszłości przez garstkę marnych niewolników i starego pierdziela, który od trzech lat nie dał mi podwyżki! Znajdziemy sobie inne miejsce na ślub.~
+@29   = ~[Dispero]Eee... Moglibyście po prostu udawać, że nie widzieliście, jak wychodzimy?~
+
+@30   = ~[player]Powiedzcie, gdzie jest Davaeorn, a darujemy wam życie.~
+
+@31   = ~[Cordelia]Davaeorn jest na czwartym poziomie. Nie sposób go przegapić.~
+@32   = ~[Cordelia]Chodź, kochanie. Lepiej stracić pracę niż życie.~
+@33   = ~[Dispero]Już idę, skarbie.~
+
+@34   = ~[Cordelia]Posłuchamy twojej rady, nieznajomy. Bez urazy, ale mam nadzieję, że więcej się nie spotkamy.~~[Cordelia]Posłuchamy twojej rady, nieznajoma. Bez urazy, ale mam nadzieję, że więcej się nie spotkamy.~
+@35   = ~[Cordelia]Chodź, kochany. Mam kuzyna, który jest Zakapturzonym Czarodziejem w Athkatli. Może po naszym miesiącu miodowym pomoże mi do nich dołączyć, a ty znajdziesz miejsce w straży.~
+
+@36   = ~[Dispero]Nie pozwolę skrzywdzić Cordelii. Najpierw musisz przejść po moim trupie. Uciekaj, Cordelio!!~
+@37   = ~[Cordelia]Nie zostawię cię, Dispero!!~
+@38   = ~[Dispero]NIE!! Nie pozwolę, by zrobili ci krzywdę!! Uciekaj, póki jest czas!~
+@39   = ~[Cordelia]Umrzemy razem, najdroższy... nie odejdę stąd!~
+
+@40   = ~[Narrator]Zakochani z Kniei Otulisko
+
+Właśnie... przerwałem ślub w kopalniach Kniei Otulisko. Najwyraźniej bandyci też potrzebują odrobiny czułości...~~[Narrator]Zakochani z Kniei Otulisko
+
+Właśnie... przerwałam ślub w kopalniach Kniei Otulisko. Najwyraźniej bandyci też potrzebują odrobiny czułości...~
+@41   = ~[Narrator]Zakochani z Kniei Otulisko~

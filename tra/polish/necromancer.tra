@@ -1,0 +1,112 @@
+@0    = ~[Zrozpaczona matka] Kto mógłby zrobić coś takiego? Kto zabrał naszą drogą córkę zaledwie dzień po pogrzebie? *łka* Chcę, żeby ją odnaleźli, byśmy mogli w końcu pozwolić jej spocząć w spokoju. Kto kradnie ciała młodych dziewcząt z grobów?~
+/* nowe dla v3.0: zmieniona lokacja */
+@1    = ~Zrozpaczona matka przed kwaterą Płomiennej Pięści
+
+Przed kwaterą główną Płomiennej Pięści stoi pogrążona w żałobie matka. Ktoś wykradł ciało jej córki z grobu.~
+@2    = ~[Zrozpaczona matka] Kto robi takie rzeczy? Po co wykradać ciało młodej dziewczyny z jej grobu?...~
+@3    = ~[player] Przykro mi z powodu twojej straty.~
+@4    = ~[player] Wiem, co się stało z ciałem twojej córki.~
+@5    = ~[player] Mam ciało twojej córkę. Możesz ją teraz pochować.~
+@6    = ~[player] Muszę już iść.~
+@7    = ~[Zrozpaczona matka] Dziękuję ci, nieznajomy. Och, kochanie...~~[Zrozpaczona matka] Dziękuję ci, nieznajoma. Och, kochanie...~
+@8    = ~[Zrozpaczona matka] Ty... ty wiesz? Gdzie ona jest?~
+@9    = ~[player] Została wykradziona przez nekromantę, który stracił ukochaną... to właściwie dość tragiczna historia.~
+@10   = ~[player] Wiem, gdzie ona jest. Sprowadzę ją do ciebie.~
+@11   = ~[player] Ups, miałem zwłoki twojej córki, ale zdaje się, że gdzieś je zapodziałem. Chyba nie chciałaś ich z powrotem, co?~~[player] Ups, miałam zwłoki twojej córki, ale zdaje się, że gdzieś je zapodziałam. Chyba nie chciałaś ich z powrotem, co?~
+@12   = ~[Zrozpaczona matka] Dobrzy bogowie! Co on zrobił z ciałem mojej córki?~
+@13 = ~Nic. Jakiekolwiek miał zamiary, został powstrzymany na czas.~
+
+@14   = ~[Zrozpaczona matka] Cóż... dziękuję, że mi o tym powiedziałeś, nieznajomy... *wzdycha* Co ja teraz pocznę...~~[Zrozpaczona matka] Cóż... dziękuję, że mi o tym powiedziałeś, nieznajoma... *wzdycha* Co ja teraz pocznę...~
+@15   = ~[Zrozpaczona matka] Dlaczego... dlaczego mówisz takie rzeczy? Odejdź ode mnie i pozwól mi opłakiwać stratę córki.~
+@16   = ~[Zrozpaczona matka] Proszę, czy wiesz, co się z nią stało?~
+@17   = ~[Zrozpaczona matka] Moja... moja kruszynka! Och, dziękuję ci, nieznajomy... Jestem pewna, że żołnierze zajmą się winowajcą. Chcę ją tylko godnie pochować...~~[Zrozpaczona matka] Moja... moja kruszynka! Och, dziękuję ci, nieznajoma... Jestem pewna, że żołnierze zajmą się winowajcą. Chcę ją tylko godnie pochować...~
+
+/* nowe dla v3.0: zmieniona lokacja */
+/* nowe dla v3.0: zmieniona lokacja */
+@18    = ~Zrozpaczona matka przed kwaterą Płomiennej Pięści
+
+Przekazaliśmy ciało dziewczyny jej matce, czekającej przed kwaterą główną Płomiennej Pięści. Kobieta tak bardzo spieszyła się do świątyni, by pochować dziecko, że zupełnie zapomniała o jakiejkolwiek nagrodzie.~
+@19    = ~[Zrozpaczona matka] Och, miło że to mówisz. Tylu ludzi obiecywało, że ją odnajdzie...~
+
+@20    = ~[player] Kobieta przed kwaterą główną lamentuje nad kradzieżą ciała swojej córki. Wiesz coś więcej na ten temat?~
+@21    = ~[Oficer Płomiennej Pięści] To bardzo dziwna sprawa i nie jestem pewien, co o tym sądzić. Jak już wiesz, zwłoki dziewczyny skradziono noc po pogrzebie, po tym, jak zgodnie z życzeniem rodziców przez trzy dni i noce były wystawione w kaplicy. Wciąż jednak nie wiem, dlaczego ktoś zadawał sobie taki trud, by otworzyć grób, skoro mógł z łatwością zabrać ciało wcześniej.~
+@22    = ~[Oficer Płomiennej Pięści] Na szczęście to pierwszy taki incydent w tej okolicy od dłuższego czasu. Co prawda ponad pół roku temu zniknęły nam inne zwłoki, również młodej kobiety, ale nie znaleźliśmy wtedy żadnych śladów sprawcy. Zachowujemy czujność. Szaleniec ekshumujący ciała dziewcząt to ostatnia rzecz, jakiej nam teraz potrzeba.~
+
+@23    = ~[Arkion] Ach, och, ta jest młoda i całkiem świeża. W ogóle nie śmierdzi... Czyżby została jakoś zakonserwowana? Dziwne... Nie, nie sądzę, żeby się nadała. Potrzebuję czegoś bardziej zleżałego.~
+
+@24    = ~[Poszukująca matka] Błagam, jeśli ją znajdziesz, dopilnuj, żeby wróciła bezpiecznie do domu!~
+@25    = ~[Trevor] Oczywiście, pani. Będę wypatrywać twojej córki.~
+@26    = ~[Poszukująca matka] Chodzi o to, że ona czasem bawi się w tym zrujnowanym domu. Tak się boję się o moją kruszynkę!~
+@27    = ~[player] Wcale ci się nie dziwię. Jak mówiłem, sprawdziłem ten dom i tam jej nie ma. Jak ona się nazywa?
+~@28    = ~[Poszukująca matka] Susan. Och, niebiosa, gdzie ona może być?...~
+@29    = ~[Trevor] Jak tylko zobaczę Susan, dopilnuję, by wróciła do domu.~
+@30    = ~[Poszukująca matka] Dziękuję ci, panie.~
+@31    = ~[Trevor] Biedna kobieta. Szuka córki, która najwyraźniej zniknęła dziś rano. Miejmy nadzieję, że mała po prostu zapomniała o bożym świecie podczas zabawy.~
+@32    = ~Zaginiona Susan
+
+W północnej części Wrót Baldura spotkaliśmy kobietę, która szuka swojej córki, Susan. Matka jest bardzo przejęta tym, że dziewczynka zniknęła.~
+
+@33    = ~(Ten kot jakimś cudem dostał się do domu przez szczelinę w butwiejących ścianach. Jest młody i ma na sobie różową obrożę. Zanim zdążyliśmy go złapać, syknął i schował się za obluzowanymi deskami).~
+@34    = ~[Ninnian] ...stąd, zanim twoja obecność ściągnie tu strażników,. No chodź, kiciu, pozwól...~
+@35    = ~[Ninnian] O, nie! A nie mówiłem!... Czekajcie, nie wyglądacie na Płomienną Pięść. Wynocha! To, e-er, mój dom!~
+@36    = ~[player] Twój dom? Ten opuszczony, zgniły budynek miałby być twoim domem?~
+@37    = ~[player] Kim jesteś?~
+@38    = ~[player] Może to ty powinieneś się stąd wynieść!~
+
+@39    = ~[Ninnian] Oj niedobrze! Zadawanie pytań nie wróży niczego dobrego!~
+@40    = ~[Ninnian] Nie mogę dać się tu złapać! Zaraz pewnie ktoś przyjdzie was szukać... Ale zaraz, nie jesteście ze straży! A niech mnie! Zaryzykuję, muszę spróbować!~
+
+@41    = ~[Ninnian] Jesteście zbyt silni... Nie mogę jej zostawić. Jeszcze nie teraz! Nie mogę jeszcze umrzeć. Proszę, zostawcie nas w spokoju!~
+@42    = ~[Ninnian] Śledziliście mnie! Dlaczego ludzie nie mogą się cieszyć z pokonania przeciwnika, tylko zawsze muszą go jeszcze ścigać?~
+@43    = ~[player] Przecież to ty nas właśnie zaatakowałeś!~
+@44    = ~[player] Kim jesteś? Mieszkasz w piwnicach pod zrujnowanym domem i atakujesz przechodniów?~
+@45    = ~[player] Wszędzie dookoła leżą zwłoki młodych dziewcząt!~
+@46    = ~[player] Hm, przepraszam, że przerywam to prywatne przyjęcie. Może przedstawisz mi którąś ze swoich przyjaciółek?~
+@47    = ~[Ninnian] Zatem zdrowy rozsądek powinien podpowiedzieć wam, żebyście dali mi spokój, prawda? A może jednak nie...~
+@48    = ~[Ninnian] Moje imię nie ma znaczenia. Naprawdę... Dopóki ona nie wypowie go ponownie, nie znaczy zupełnie nic.~
+
+@49    = ~[Ninnian] Ja... To ja zamówiłem ciało, które tu widzicie, ale nie jestem groźny. Nie jestem niebezpieczny! Nie zabito jej dla mnie. Ja... ja...~
+@50    = ~[player] O czym ty mówisz?~
+@51    = ~[player] W mieście spotkaliśmy matkę, która opłakuje kradzież ciała swojej córki!~
+@52    = ~[player] Pójdziesz z nami do kwatery głównej Płomiennej Pięści i tam o tym opowiesz!~
+@53    = ~[player] Szykuj się na śmierć!~
+@54    = ~[Ninnian] Tak, mam tu ciało tej dziewczyny.~
+@55    = ~[Ninnian] Potrzebowałem tych ciał... były mi potrzebne do... Słuchajcie, mogę je oddać, skoro tak wam na tym zależy... To znaczy, większość z nich...~
+
+@56    = ~[Ninnian] Mam opuścić to miejsce? Nie, nie mogę porzucić mojej pracy. Nie mogę porzucić JEJ!~
+@57    = ~[Ninnian] Nie, przecież dopiero co to przerabialiśmy! Jeszcze nie teraz! Jeszcze nie teraz!~
+@58    = ~[Ninnian] Sarkazm! Wyczuwam sarkazm, o tak.~
+@59    = ~[Ninnian] Dlaczego po prostu sobie nie pójdziecie? Nie rozumiecie, że nie życzę sobie, by mi przeszkadzano?!~
+
+
+@60    = ~[player] Masz wokół siebie zwłoki, które zostały skradzione! Nie możemy po prostu sobie pójść!~
+@61    = ~[player] Rodziny szukają tych zmarłych! Chyba nie oczekujesz, że po prostu odpuszczą i przestaną ich szukać.~
+
+@62    = ~[player] Chcę wiedzieć, co się stało z tymi ciałami, i radzę ci zacząć mówić, jeśli chcesz wyjść z tego cało!~
+
+@63    = ~[player] Nie zasługujesz na to, żeby żyć. Zginiesz tutaj!~
+@64    = ~[Ninnian] Nie! Nie wyobrażajcie sobie, że błagam o litość, bo się boję. Sama śmierć mnie nie przeraża... Nie liczcie jednak na to, że łatwo się poddam! Ja po prostu... potrzebuję jeszcze trochę czasu.~
+
+@65    = ~[player] O czym ty pleciesz? Wyjaśnij to tu i teraz!~
+@66    = ~[player] Dość gadania! Szykuj się na śmierć!~
+@67    = ~[Ninnian] Och, Beth! Beth! Nie zdołałem dotrzymać obietnicy!~
+@68    = ~[Ninnian] Powiem wam! Powiem wam, co tutaj robię. Ja... prowadzę badania. Jestem nekromantą. W wyniku pewnego... zbiegu okoliczności oddałem się pracy naukowej. Specjalnej pracy. Chcę wskrzeszać zmarłych w szczególny sposób, rozumiesz?~
+
+@69    = ~[player] Nie, nie rozumiem.~
+@70    = ~[player] Wokół leżą martwe dziewczyny! Wyjaśnij to!~
+@71    = ~[player] Chcesz wskrzeszać ludzi w szczególny sposób? I do tego potrzebujesz wyłącznie ciał młodych kobiet? Chyba musisz to wyjaśnić nieco dokładniej.~
+
+
+
+@72    = ~[Ninnian] Nie, to nie tak, jak myślicie!...~
+@73    = ~[Ninnian] *wzdycha* Postanowiłem nikomu o tym nie mówić... Ludzie i tak nie zrozumieją. Zresztą nieważne...~
+@74    = ~[player] To jak mam to zrozumieć, skoro nie chcesz mi tego wytłumaczyć?~
+@75    = ~[player] Lepiej zacznij wyjaśniać, i to już, albo wyciągnę konsekwencje!~
+@76    = ~[player] To... masz rację.~
+@77    = ~[Ninnian] Ta dziewczyna w krypcie to moja ukochana Beth. Moja miłość, jedyna i prawdziwa! To dla niej to wszystko... to dla niej to robię.~
+@78    = ~[Ninnian] Pokochaliśmy się, ale Beth zapadła na nieuleczalną chorobę. Obiecałem, że ją uzdrowię. Umarła, więc od tamtej pory szukam sposobu, by ją wskrzesić... By wróciła w pełni sił.~
+@79    = ~[Ninnian] To... to tyle. Beth, och, Beth...~
+@80    = ~[player] To faktycznie tragiczne. Ale nie możesz kraść zwłok z całego Wybrzeża Mieczy!~
+@81    = ~[player] Więc to twoja sprawka? Musisz z tym skończyć! Nie możesz tego kontynuować!~
+@82    = ~[player] I znalazłeś sposób?~
+@83    = ~[Ninnian] Nie mogę przestać, prawda?...~

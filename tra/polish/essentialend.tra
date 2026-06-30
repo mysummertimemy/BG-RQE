@@ -1,0 +1,85 @@
+@0    = ~[Mroczny fantazmat]Ten pośród was zostanie odnaleziony. Nie tobie przeszukiwać te strony.~
+@1    = ~[Mroczny fantazmat]Biel i Czerń! Powraca cień! Tak czysty i tak splugawiony – czerwienią krwi jaskrawo rządzony! Hahaha!??????????~
+@2    = ~[NPC]Stójcie. To coś... wątpię, by było naturalne. Trudno mi uwierzyć, że to w ogóle człowiek.~
+@3    = ~[NPC]U-uważaj, <CHARNAME>. To widziadło może być n-niebezpieczne.~
+@4    = ~[player]Kim jesteś? O czym ty bełkoczesz, poczwaro?~
+@5    = ~[player]Kolejne robactwo na drodze. Mam dość tych abominacji. Giń!~
+@6    = ~[Mroczny fantazmat]Jestem Strachem i Kojącą Wieścią! Jestem Fantazmatem, co karmi się treścią!~
+@7    = ~[Mroczny fantazmat]Słyszysz mnie w środku – to ja, twa najgłębsza Duma. Jestem okrutnym Indygowym Człekiem i Purpurową Damą zarazem. Jestem wszystkim, czym potrafisz być.~
+@7    = ~[Mroczny fantazmat]Słyszysz mnie w środku, gdy serce drży; jestem twą Dumą, wycieram twe łzy! Jestem okrutnym Indygowym Człekiem; wszystkim, co spływa na ciebie z twym wiekiem.~
+@8    = ~[player]To jakiś żart? Czego ode mnie chcesz? Jesteś sprzymierzeńcem Sarevoka? Jeśli tak, zginiesz pierwszy. On będzie następny!~
+@9    = ~[NPC]To musi być szaleniec; nędzarz, który postradał zmysły w mrokach Podziemnego Miasta.~
+@10   = ~[player]Nie mam na to czasu. Przygotuj się na śmierć, potworze!~
+@11   = ~[Mroczny fantazmat]Haha! Błądzisz, błądzisz! To mnie więzi słój! Posiada mnie on, lecz mogę być twój! Purpurowa Dama, co wędzidła trzyma... Spójrz... podejdź bliżej. Bądź mój, najczarniejszy z baranów. Nakarm mnie, a sam zostaniesz nasycony???????!~
+@12   = ~[player]Jesteś ucieleśnieniem mojego dziedzictwa... Samą esencją Bhaala?~
+@13   = ~[player]Nie zamierzam być niczyim baranem ani wołem! Giń, stworze!~
+@14   = ~[Mroczny fantazmat]Podejdź bliżej... postaw wszystko na jedną kartę!~
+@15   = ~[Mroczny fantazmat]Przybywam cię zbudzić, wypełnić tę lukę. To, co nosisz w piersi, jest moją nauką. Ja pragnę ciebie, ty pragniesz mnie – ze mną u boku on pył zetrze się!~
+@16   = ~[Mroczny fantazmat]Chwilowe przebudzenie, skromne nasycenie... Oddaj się Indygowemu Człekowi, Purpurowej Damie. Będę twą sławą, klątwą twych wrogów, Żurawiem Śmierci! Chodź... stańmy się jednością... mój krwawy Łabędziu...~
+@17   = ~[Mroczny fantazmat]...stańmy się jednością...~
+@18   = ~[player]Jeśli się zgodzę... czy to zjednoczenie da mi siłę? Obudzisz mój potencjał na zawsze?~
+@19   = ~[player]Nie! Nie zgadzam się! Nie będę twoją ofiarą. Czuję bijące od ciebie zło. Nie poddam się.~
+@20   = ~[player]Tego właśnie chcesz, prawda? Chcesz zakończyć tę walkę.~
+@21   = ~[Mroczny fantazmat]Nie zbudzę cię w pełni, nie taka moja wola. Odsłonię tylko cząstkę, nim spłynie krwi rzeka. Przyjdzie tu inny, Człowiek Roztrzaskany – on zedrze maskę, zdejmie z bestii pęta i... pokaże kły. Poczujesz głód, by pożreć swe dni...~
+@22   = ~[Mroczny fantazmat]Lecz to jeszcze nie teraz. Dziś jesteś tutaj. Przyjmij mnie – Strach Sarevoka. Esencję Czaszki. Niech dobiegnie końca ten taniec kalek!~
+@23   = ~[player]To szaleństwo. Nie zrobię tego. Zostaniesz tutaj... na wieki.~
+@24   = ~[player]Musisz zginąć. Jesteś okrutny i obłąkany. Trzeba cię powstrzymać.~
+@25   = ~[player]Jesteś moją szansą na wygraną. Jak mam stać się z tobą jednością?~
+@26   = ~[Mroczny fantazmat]Poddaj się... Podejdź bliżej... jeszcze bliżej...~
+@27   = ~[Narrator](Stwór podchodzi tak blisko, że czujesz jego oddech – zimny niczym stal, której dotykałeś nie raz. Czujesz jego pierś przy swojej; wasze oddechy splatają się w jednym, wspólnym rytmie).~
+@28   = ~[Narrator](Istota budzi w tobie życie. Czujesz głęboko w lędźwiach dziwny dreszcz – mieszankę paraliżującego lęku i mrocznego podniecenia).~
+@29   = ~[Mroczny fantazmat]Czujesz, jak cię trzymam? Jak kochankowie złączeni, lecz niedostrzeżeni, staniemy się jednością w ekstazie objawieni.~
+@30   = ~[player](Poddaj się)~
+@31   = ~[player]Tak, jestem gotowy.~
+@32   = ~[player]N-nie... to... to jest złe... Nie pozwolę na to! Precz! Odejdź stąd!~
+@33   = ~[Mroczny fantazmat]Czujesz tę potęgę? Spiesz się, bo czas sprawi, że wkrótce zgaśnie.~
+@34   = ~[Narrator](Upadasz na katafalk. Czujesz, jak obca energia próbuje scalić się z tobą w intymnym uścisku. Choć nie widzisz przed sobą żadnego bytu, czujesz na skórze dotyk – dotyk statycznej, nieobecnej dłoni).~
+@35   = ~[Narrator](Coś cię trzyma. Wszystko staje się ostrzejsze, bardziej wyraziste. W ustach czujesz dziwny posmak, jak po pocałunku samej Śmierci: Tego, Który Odziany Jest w Czerń).~
+@36   = ~[Narrator](Po chwili doznanie mija, ale czujesz w sobie nową moc. Coś pękło. Nie masz jednak wiele czasu – przebudzenie potrwa tylko kilka chwil).~
+@37   = ~[Mroczny fantazmat]Nie zostanę sam, twe życie skradnę wam! Hahahahaha!~
+
+
+
+
+
+
+
+@0    = ~[Mroczny fantazmat]Ten pośród was zostanie odnaleziony. Nie tobie przeszukiwać te strony.~
+@1    = ~[Mroczny fantazmat]Och, Biel i Czerń, powraca cień! Tak czysty i tak splugawiony – czerwienią krwi jaskrawo rządzony! Hahaha!~
+@2    = ~[NPC]Stój. To coś... wątpię, by było naturalne. Trudno mi uwierzyć, że to w ogóle człowiek.~
+@3    = ~[NPC]U-uważaj, <CHARNAME>. To widziadło może być n-niebezpieczne.~
+@4    = ~[player]Kim jesteś? O czym ty bełkoczesz, poczwaro?~
+@5    = ~[player]Kolejne robactwo na drodze. Mam dość takich abominacji. Przygotuj się na śmierć!~
+@6    = ~[Mroczny fantazmat]Jestem Strachem! Jestem Radością! Jestem Fantazmatem, co karmi się złością!~
+@7    = ~[Mroczny fantazmat]Słyszysz mnie w środku, gdy serce drży; jestem twą Dumą, wycieram twe łzy! Jestem okrutnym Indygowym Człekiem; wszystkim, co spłynąć może z wiekiem.~
+@8    = ~[player]To jakiś żart? Czego ode mnie chcesz? Jesteś sprzymierzeńcem Sarevoka? Jeśli tak, zginiesz pierwszy. On będzie następny!~
+@9    = ~[NPC]To musi być jakiś szaleniec; nędzarz, który postradał zmysły w tym Podziemnym Mieście.~
+@10   = ~[player]Nie mam na to czasu. Giń, potworze!~
+@11    = ~[Mroczny fantazmat]Haha! Błądzisz, błądzisz! To mnie więzi słój! Posiada mnie on, lecz mogę być twój! Purpurowa Dama, co wędzidła trzyma... Spójrz... podejdź bliżej. Bądź mój, najczarniejszy z baranów. Nakarm mnie, a sam zostaniesz nasycony!???????????????~
+
+@12   = ~[player]Jesteś ucieleśnieniem naszego dziedzictwa... Czyżbyś był Esencją Bhaala?~
+@13   = ~[player]Nie zamierzam być niczyim baranem ani wołem! Giń, stworze! Nie pozwolę ci żyć!~
+@14   = ~[Mroczny fantazmat]Im bliżej podejdziesz, tym więcej wygrasz!~
+@15   = ~[Mroczny fantazmat]Przybywam cię zbudzić, wypełnić tę lukę. To, co masz w piersi, ma wielką naukę. Ja pragnę ciebie, ty pragniesz mnie – ze mną u boku on w pył zetrze się!~
+@16   = ~[Mroczny fantazmat]Małe przebudzenie, skromne karmienie. Oddaj się Indygowemu Człekowi, Purpurowej Damie... Będę twą sławą, wrogów przekleństwem, Śmiertelnym Żurawiem! Chodź... stańmy się jednością... mój krwawy Łabędziu...~
+@17   = ~[Mroczny fantazmat]...stańmy się jednością...~
+@18   = ~[player]Jeśli się zgodzę... to zjednoczenie uczyni mnie silniejszym? Obudzisz mój potencjał na zawsze?~
+@19   = ~[player]Nie! Nie zgadzam się! Nie będę twoją ofiarą. Wyczuwam w tobie zło. Nie poddam się.~
+@20   = ~[player]Tego właśnie chcesz, prawda? Chcesz zakończyć tę walkę.~
+@21   = ~[Mroczny fantazmat]Nie zbudzę cię na zawsze, nie taka moja wola. Zbudzę tylko cząstkę, nim spłynie krwi rzeka. Przyjdzie tu inny, Człowiek Roztrzaskany – on zbudzi cię w pełni, zdejmie z bestii pęta i... pokaże kły. Poczujesz głód, by pożreć swe dni...~
+@22   = ~[Mroczny fantazmat]Jednak to jeszcze nie czas. Teraz jesteś tutaj. Przyjmij mnie – Strach Sarevoka. Esencję Czaszki. Skończmy ten taniec kalek!~
+@23   = ~[player]To czyste szaleństwo. Nie zrobię tego. Zostaniesz tutaj... na wieki.~
+@24   = ~[player]Musisz zginąć. Jesteś okrutny i szalony. Trzeba cię powstrzymać.~
+@25   = ~[player]Jesteś moją szansą na zwycięstwo. Jak mamy stać się jednością?~
+@26   = ~[Mroczny fantazmat]Poddaj się... Podejdź bliżej... jeszcze bliżej...~
+@27   = ~[Narrator](Stwór podchodzi tak blisko, że czujesz jego oddech – zimny niczym stal, której dotykałeś nie raz. Czujesz jego pierś przy swojej; poruszają się wspólnie w rytmie twoich haustów powietrza).~
+@28   = ~[Narrator](Istota próbuje cię przebudzić. Czujesz wewnątrz dziwny dreszcz, głęboko w lędźwiach. Coś, co budzi lęk, a jednocześnie dziwnie podnieca).~
+@29   = ~[Mroczny fantazmat]Czujesz dotyk moich dłoni... Jak kochankowie złączeni, lecz niedostrzeżeni, staniemy się jednością w ekstazie objawieni.~
+@30   = ~[player](Poddaj się)~
+@31   = ~[player]Tak, jestem gotowy.~
+@32   = ~[player]N-nie... to... to jest złe... Nie pozwolę na to! Precz! Odejdź stąd!~
+@33   = ~[Mroczny fantazmat]Czujesz zmianę? Czujesz tę potęgę? Spiesz się, bo czas sprawi, że wkrótce zblednie.~
+@34   = ~[Narrator](Upadasz na katafalk. Masz wrażenie, jakby jakaś energia próbowała połączyć się z tobą w intymnym zbliżeniu. Choć nie widzisz przed sobą żywej istoty, czujesz na skórze dotyk – dotyk statycznej, nieobecnej dłoni).~
+@35   = ~[Narrator](To coś cię trzyma. Odczuwasz wszystko coraz mocniej, świat staje się wyraźniejszy, ostrzejszy. W ustach czujesz dziwny posmak, jakbyś pocałował samą śmierć: Tego, Który Odziany Jest w Czerń).~
+@36   = ~[Narrator](Po chwili uczucie mija, ale czujesz przypływ sił. Coś się zmieniło. Nie masz jednak wiele czasu – zostałeś przebudzony tylko na kilka chwil).~
+@37   = ~[Mroczny fantazmat]Nie zostanę sam, twe życie skradnę wam! Hahahahaha!~
