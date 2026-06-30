@@ -1,0 +1,21 @@
+// Bartleby Exercises His Vocal Chords
+
+IF
+	Detect(PLAYER1)
+THEN
+	RESPONSE #10
+		%DisplayStringHead%(Myself,@305)
+		Wait(10)
+	RESPONSE #10
+		%DisplayStringHead%(Myself,@306)
+		Wait(10)
+	RESPONSE #10
+		%DisplayStringHead%(Myself,@307)
+		Wait(10)
+	RESPONSE #10
+		%DisplayStringHead%(Myself,@308)
+		Wait(10)
+	RESPONSE #10
+		%DisplayStringHead%(Myself,@309)
+		Wait(10)
+END 
